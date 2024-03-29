@@ -1146,7 +1146,24 @@
 "image"             :     "https://www.serie-day.com/wp-content/uploads/2024/03/3-Body-Problem-2024-214x300.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/3bp",
 "import": false
-
+},
+{
+"name"              :     "แช่งชักหักกระดูก",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/แช่งชักหักกระดูก",
+"import": false
+},
+{
+"name"              :     "Gyeongseong Creature (2023) สัตว์สยองกยองซอง - จบ",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/สัตว์สยองกยองซอง",
+"import": false
+},
+{
+"name"              :     "Yu Yu Hakusho (2023) คนเก่งฟ้าประทาน - จบ",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/yuyu",
+"import": false
 }
       ]
     }
