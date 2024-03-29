@@ -1132,6 +1132,20 @@
           "info": "พากย์ไทย",
           "url": "https://free100.co/cli-uploader/the-walking-dead-s10e22-here-s-negan-1668854404/entry_the-walking-dead-s10e22-here-s-negan.m3u8",
           "referer": "https://ezmovie.co/"
+},
+      ]
+{
+"name"              :     "The Believers (2024) สาธุ",
+"image"             :     "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/สาธุ",
+"import": false
+},
+{
+"name"              :     "3 Body Problem (2024) ดาวซานถี่ อุบัติการณ์สงครามล้างโลก",
+"image"             :     "https://www.serie-day.com/wp-content/uploads/2024/03/3-Body-Problem-2024-214x300.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/3bp",
+"import": false
+
 }
       ]
     }
