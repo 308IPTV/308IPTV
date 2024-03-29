@@ -23,6 +23,14 @@
 },
 
 {
+"name": "Series -Series ",
+"author": "Series",
+"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/series",
+"import": true
+},
+
+{
 "name"              :     "หนังและละคร",
 "image"             :     "https://i.imgur.com/vcZm6hA.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
