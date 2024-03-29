@@ -1,9 +1,1140 @@
 {
   "name": "ซีรี่ย์",
-  "author":   UPDATE มีนาคม 2567",
+  "author":   "UPDATE มีนาคม 2567",
   "image": "https://ezmovie.co/build/web/ez-movie/img/ez-movie-logo.png?v=3",
   "groups": [
+ {
+      "name": "The Walking Dead Season 1 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202105/movie/34b1664d4c37f15f564e804715e16195.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202105/movie/34b1664d4c37f15f564e804715e16195.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/2a765c1a-5c93-49bb-aa1b-d4b1eee2a1d6/hls/The+Walking+Dead+-+S01E01+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202105/movie/34b1664d4c37f15f564e804715e16195.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/475ead51-3e65-4b8c-a449-e0c87937f5f2/hls/The+Walking+Dead+-+S01E02+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202105/movie/34b1664d4c37f15f564e804715e16195.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5768bbf3-f173-4479-ae8a-0beab35abb51/hls/The+Walking+Dead+-+S01E03+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202105/movie/34b1664d4c37f15f564e804715e16195.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/841187f2-0115-43f6-92a2-b7fe0917cb3f/hls/The+Walking+Dead+-+S01E04+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202105/movie/34b1664d4c37f15f564e804715e16195.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/45d2d926-34be-497a-9b6f-7c441fbc046c/hls/The+Walking+Dead+-+S01E05+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202105/movie/34b1664d4c37f15f564e804715e16195.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/bc0591b2-0187-41b2-8062-e001b9003278/hls/The+Walking+Dead+-+S01E06+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
+ {
+      "name": "The Walking Dead Season 2 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/ddfc4e80-a533-4105-8ef9-5d3bd752b68c/hls/The.Walking.Dead.SS2EP01+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/226c7270-5f32-4f31-8f18-620150a67973/hls/The.Walking.Dead.SS2EP02%20TH-01.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/94162561-4053-472c-83de-de65e64c83ed/hls/The.Walking.Dead.SS2EP03+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://cdn1.cdnt881.com/1/usa/202202/TheWalkingDeadTHAISS02/TheWalkingDeadTHAISS02EP04.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI0IDQ6NDI6MTIgUE0maGFzaF92YWx1ZT1ubk5PbjE4N3FVYlJkTVhxQUl1U1hnPT0mdmFsaWRtaW51dGVzPTU=",
+         "referer": "https://www.baan-series.org/the-walking-dead-season-2.html"
+},
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://cdn1.cdnt881.com/1/usa/202202/TheWalkingDeadTHAISS02/TheWalkingDeadTHAISS02EP05.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI0IDQ6NDM6MzYgUE0maGFzaF92YWx1ZT1TMVFKREFVOTJGcWhYaGg5V2MvS2lBPT0mdmFsaWRtaW51dGVzPTU=",
+"referer": "https://www.baan-series.org/the-walking-dead-season-2.html"        
+},
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://cdn1.cdnt881.com/1/usa/202202/TheWalkingDeadTHAISS02/TheWalkingDeadTHAISS02EP06.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI0IDQ6NDY6MTMgUE0maGFzaF92YWx1ZT1PNW81dGg1YlN0SlVuZEFRZ2tpVXl3PT0mdmFsaWRtaW51dGVzPTU=",
+"referer": "https://www.baan-series.org/the-walking-dead-season-2.html"    
+},
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://cdn1.cdnt881.com/1/usa/202202/TheWalkingDeadTHAISS02/TheWalkingDeadTHAISS02EP07.mp4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI0IDQ6NDY6NTYgUE0maGFzaF92YWx1ZT1xNEp2Z3ludlZhYVI4TUo3ZHZJSG93PT0mdmFsaWRtaW51dGVzPTU=", 
+"referer": "https://www.baan-series.org/the-walking-dead-season-2.html"      
+},
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/3aef8431-4539-4e30-836b-f9e9480fcac7/hls/The.Walking.Dead.SS2EP08+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/1691e066-df82-4d91-a8ff-28607a6bb725/hls/The.Walking.Dead.SS2EP09+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/3e655124-e813-4711-88d4-cb0bfc8ccb2e/hls/The.Walking.Dead.SS2EP10+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/34c71e46-60da-4eb7-bf78-80d18a1d2406/hls/The.Walking.Dead.SS2EP11+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/35f90e3a-e596-495b-ad54-b63545a9aa37/hls/The.Walking.Dead.SS2EP12+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/a773376b0c48de930bfa71f0cd4f3a89.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/75c8ad6a-8ddb-43d2-af1e-d6bd043007db/hls/The.Walking.Dead.SS2EP13+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
+   {
+      "name": "The Walking Dead Season 3 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/f896b883-4d1d-4161-9903-c3bdd6209e9f/hls/The.Walking.Dead.S03E01+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/0a65470b-d00c-4d7f-a568-2dce38a93dd3/hls/The.Walking.Dead.S03E02+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/69f756e0-1851-4787-947f-99834009d4b7/hls/The.Walking.Dead.S03E03+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/c5e73e37-4c78-4a10-81f3-971813e2e57d/hls/The.Walking.Dead.S03E04+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/b74b48f1-919e-4334-8232-cc39cc6eb61e/hls/The.Walking.Dead.S03E05+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/8f1cab31-c1cd-44fb-8257-c8fc642b11b1/hls/The.Walking.Dead.S03E06+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/519bc154-832d-484e-860a-7eba149f890b/hls/The.Walking.Dead.S03E07+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/46c99b8f-3b32-47b0-8598-405ec0555206/hls/The.Walking.Dead.S03E08+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/afa34cf7-0e62-40d2-bf7c-d9ef9b643a31/hls/The.Walking.Dead.S03E09+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/acad9486-0868-4c15-820a-2941de43f927/hls/The.Walking.Dead.S03E10+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/84566814-5d3f-46be-b32e-299ca8fcf615/hls/The.Walking.Dead.S03E11+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/ca60f7ee-0a2a-4257-98b2-e88f21682f8d/hls/The.Walking.Dead.S03E12+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/fa40c7f1-a741-4e1d-a695-37c43184bda1/hls/The.Walking.Dead.S03E13+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/56ebfb23-cac0-4836-8e4c-0727ee56f1d9/hls/The.Walking.Dead.S03E14+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/e69fdd3a-8d4e-42b4-b16a-0ae2a7f9ef7d/hls/The.Walking.Dead.S03E15+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/36b8c2daf83d160137af085ab8ddd770.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/9050f184-53f9-4a14-8b7d-43e4e74b7c47/hls/The.Walking.Dead.S03E16+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
+    {
+      "name": "The Walking Dead Season 4 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5e007605-a03d-4db1-a229-0510d26b8bd4/hls/The Walking Dead S4 E1.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/b173f68d-22d1-47b4-a532-6d2e05b2bf37/hls/The Walking Dead S4 E2.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/dae590ed-bdf7-421e-b36d-12f4bdec4423/hls/The Walking Dead S4 E3.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/86e75dc8-be8e-4b03-b6b5-0e4ce0a7aea1/hls/The Walking Dead S4 E4.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/97d9b4df-89dd-49fc-abae-0986dc1da185/hls/The Walking Dead S4 E5.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/b4f70acc-eb6d-4f64-a3ed-59b8a1262e7c/hls/The Walking Dead S4 E6.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/570b2c20-7ab1-4332-9d7f-ff51ef329248/hls/The Walking Dead S4 E7.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/46e56b3c-fc9f-4202-9072-3b6ee25dc753/hls/The Walking Dead S4 E8.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5ed4488e-f90e-487c-9f6f-2e2dd23660c7/hls/The Walking Dead S4 E9.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/4a2b0f24-163c-43fe-bc91-3ea0a3bc4abc/hls/The Walking Dead S4 E10.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/ce826234-38de-4795-a3d7-fe06e0cb0c69/hls/The Walking Dead S4 E11.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/08246c1b-cff8-417b-8424-4d3c44e7bbf1/hls/The Walking Dead S4 E12.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5b2ed8c0-8131-4199-bf26-6f54e5e6fea5/hls/The Walking Dead S4 E13.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/ee26a631-b945-4da1-87ab-043852a6605c/hls/The Walking Dead S4 E14.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/9e60e8e8-ff78-4f55-bc48-32908dafaa4d/hls/The Walking Dead S4 E15.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/5d0461a00e17807af2a19129c9821e5e.png",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/ec926884-7757-4ee1-bc81-8438321389e5/hls/The Walking Dead S4 E16.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
+     {
+      "name": "The Walking Dead Season 5 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/d8a0ed9b-744f-477e-bbb0-0968a1c92563/hls/The Walking Dead S5 E1.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/1ebcf0e6-3ef0-485a-afa3-a3dd5cef942f/hls/The Walking Dead S5 E2.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5bc3484d-5b6b-4a52-8e98-72dfdd46d5a9/hls/The Walking Dead S5 E3.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/f8fb1678-8640-41d0-a722-0cf0462d1eff/hls/The Walking Dead S5 E4.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/157b73fd-7f28-4c9e-ad88-ffcf961d7b3f/hls/The Walking Dead S5 E5.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/6210fc83-2851-4c0c-ad0e-00d67d3dce4c/hls/The Walking Dead S5 E6.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/081a94bd-cb3a-4126-b41d-6abb8225ea6a/hls/The Walking Dead S5 E7.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/f2f0009f-349b-4346-8197-0432842ad012/hls/The Walking Dead S5 E8.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/2c3e9f81-6978-41da-bdd1-49fcb211a3cf/hls/The Walking Dead S5 E9.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/d6f25a55-b6cd-4881-9856-1d096208edbc/hls/The Walking Dead S5 E10.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5e069833-e6dc-439b-a802-2bb3b6bb539c/hls/The Walking Dead S5 E11.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/56626d03-4c5f-4c72-8aa2-6423888cc1c9/hls/The Walking Dead S5 E12.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/0b6ee652-a506-4066-a822-08f2a1399734/hls/The Walking Dead S5 E13.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/678ca824-872f-4acc-9512-6328c74b0849/hls/The Walking Dead S5 E14.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/771baa87-1e23-48fb-8546-b386bf430b85/hls/The Walking Dead S5 E15.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/1f33e385f01dd739caeeaca4b758dd8e.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/ae061d38-28c1-4c2b-abd2-7d21f014d747/hls/The Walking Dead S5 E16.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
+{
+      "name": "The Walking Dead Season 6 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/f027ca95-72be-4b8e-99d6-0ea0fe12c3d7/hls/The.Walking.Dead.S06E01+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/38f7314b-1728-4e43-9a78-066a8a3c1954/hls/The.Walking.Dead.S06E02+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/1c7c1f39-a5c0-4cfc-91db-14e2b079fb47/hls/The.Walking.Dead.S06E03+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/f5ad90f8-6ee3-4116-9cdb-09d211acce9e/hls/The.Walking.Dead.S06E04+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/147c4a42-a5c8-4959-9cad-6f4779dbcf6d/hls/The.Walking.Dead.S06E05+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/15e1b707-d079-4e11-a83d-5a6bc00994a6/hls/The.Walking.Dead.S06E06+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/198d5975-ab48-47b8-9d16-40dc87250424/hls/The.Walking.Dead.S06E07+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/fd2a6223-d7cc-45ae-b4e3-86e197a316df/hls/The.Walking.Dead.S06E08+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/a4c1ec68-bef7-4472-98e6-a55b30e8c7ec/hls/The.Walking.Dead.S06E09+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/222015c9-1026-4516-87f5-156ec803aa9a/hls/The.Walking.Dead.S06E010+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/46b7bbcb-82a2-405d-89dc-1d762640a440/hls/The.Walking.Dead.S06E011+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/76ec452e-e1d9-4a01-a28e-30bcdd2ab229/hls/The.Walking.Dead.S06E012+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/9fc727b2-85d2-47cd-8e02-5ef0640ec15b/hls/The.Walking.Dead.S06E13+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/6a6233b9-bc22-4345-acf3-f94bf10ba53d/hls/The.Walking.Dead.S06E014+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/6c887b2f-dad4-4d7c-94b0-fc84cac56e75/hls/The.Walking.Dead.S06E015+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/050de71deb7c6bebaa39075974e7a6bb.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/90658184-9ae2-4398-a0c1-83abc3cdb5ba/hls/The.Walking.Dead.S06E016%20TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
+    {
+      "name": "The Walking Dead Season 7 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/aace7d8a-51d4-46eb-9a7e-df9a16464f14/hls/The+Walking+Dead+S07E01+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5a8eba65-5ee2-4345-b45e-c69faff0df10/hls/The+Walking+Dead+S07E02+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/8959c83c-66d6-44dd-b0f9-2ee2368bdb38/hls/The+Walking+Dead+S07E03+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5838f8c0-d938-427b-a324-1e1060325038/hls/The+Walking+Dead+S07E04+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/7b4e39e3-94df-4871-b3f6-a62eca182a9d/hls/The+Walking+Dead+S07E05+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/f6d1bc6b-1224-4578-b0e9-9948fbdcf81f/hls/The+Walking+Dead+S07E06+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/08c65038-c342-410f-bb8c-c9238fd58db0/hls/The+Walking+Dead+S07E07+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/f0a0395e-cfcb-4e72-8acc-cee88c439fee/hls/The+Walking+Dead+S07E08+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/639d4f00-c6c4-4edc-b447-a7fdf9135758/hls/The+Walking+Dead+S07E09+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/fe731cd2-e954-4e77-82f6-166c69016021/hls/The+Walking+Dead+S07E10+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/6f52ef2e-4dd0-4770-a744-fd122a030a1c/hls/The+Walking+Dead+S07E11+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/ac52e041-2138-4c4c-9419-8490d3656184/hls/The+Walking+Dead+S07E12+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/d7e7bb0f-0237-45e9-bca8-aec1822a6a8c/hls/The+Walking+Dead+S07E13+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/c033b70c-cb48-4f7e-a15f-ac22dc0d9c2f/hls/The+Walking+Dead+S07E14+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/040fe7f5-72a5-4b59-9f63-555456ab48c6/hls/The+Walking+Dead+S07E15+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/ea4055b6747f75f501a6200fdcbfff7f.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/90061764-34b0-439d-a20a-a7869976d45d/hls/The+Walking+Dead+S07E16+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
+  {
+      "name": "The Walking Dead Season 8 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/6b46e340-8af5-417f-9882-c060ce6c5796/hls/The.Walking.Dead.S08E01+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/10db81ea-053a-493f-a162-6c17826e974b/hls/The.Walking.Dead.S08E02+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/ceafd4b6-e203-471b-821f-5c34b17c9117/hls/The.Walking.Dead.S08E03+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/be022284-2427-4aee-a232-2277a22294c4/hls/The.Walking.Dead.S08E04+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/33afb6d2-54be-47ba-bb2e-f619542b65ef/hls/05%20The.Walking.Dead.S05E05%20TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/e4b9844f-ace4-4343-9ab6-52a97d2f0194/hls/The.Walking.Dead.S08E06+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/8bedff4b-b203-41e3-b46b-e8cd240a8c43/hls/The.Walking.Dead.S08E07+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/c4f40117-4424-482a-83cb-24ae92aa40c4/hls/The.Walking.Dead.S08E08+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/9c1b9ff4-1dfc-4f3e-a230-ed9bcc398c74/hls/The.Walking.Dead.S08E09+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/6483f1d6-adf8-4bc7-8b93-f6b9889388cd/hls/The.Walking.Dead.S08E10+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/96d8aec5-c6e0-4e32-8390-166454f8a954/hls/The.Walking.Dead.S08E11+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/c5e8551e-652c-47ff-8fd4-57b5f6fd5636/hls/The.Walking.Dead.S08E12+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/998af851-3001-4519-a117-540c8aec8cef/hls/The.Walking.Dead.S08E13+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/42f88933-79eb-422c-8258-0eb24fa2d969/hls/The.Walking.Dead.S08E14+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/a2ba3e15-6a5d-4462-a198-6b2912f41963/hls/The.Walking.Dead.S08E15+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202106/movie/b42110e68c8a68e6ee3b05b49af3fb06.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/fa37ed80-b8a0-4e67-a22f-080e0bc594e4/hls/The.Walking.Dead.S08E16+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
+{
+      "name": "The Walking Dead Season 9 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/a4d2feb4-fb00-4e81-ae61-0fa30fd7b546/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.1+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/5d826293-4c7f-4deb-a078-2365ed47c49c/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.2+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/d98832d9-7da9-4174-b28e-f0ba01c2bd31/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.3+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/fd8165f9-4560-4c14-bc2f-aa83b5ed91c7/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.4+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/82bd4fa7-665e-4d6a-a509-52346de8e0d9/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.5+TH_1.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/82bd4fa7-665e-4d6a-a509-52346de8e0d9/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.5+TH_1.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/43fdeb6c-88b4-4494-8014-7cc0aca546d0/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.7+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/bd2a89f0-d780-46c7-b163-b7bf5a485c3e/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.8+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/39237ff5-86a5-40d4-a081-ed3e6f6c0b73/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.9+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/e2be97fb-34af-4639-a0e3-43f9c33941d8/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.10+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/458108c1-5336-438a-a7aa-2bdcbdfbd024/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.11+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/948213b2-cf28-4cb7-a6e8-3dbb3178b38c/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.12+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/d64fdf0c-b805-4c7a-9a4d-484ef7a024f7/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.13+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/3f4cff1f-f4c5-49dc-8ea1-fa158ea53c59/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.14+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/54233306-a9f2-42d7-80dd-e867a59394b7/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.15+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/51c74f80fd16613fd9dc3bef6123aa19.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/36cc31f9-19ef-46f8-a9a0-7aeca7136c1a/hls/THE+WALKING+DEAD+SEASON+9+(2018)+-+%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%A2%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B8%9C%E0%B8%B5%E0%B8%94%E0%B8%B4%E0%B8%9A+EP.16+TH.m3u8",
+          "referer": "https://ezmovie.co/"
+        }
+      ]
+    },
 
+ {
+      "name": "The Walking Dead Season 10 พากย์ไทย",
+      "image": "https://bbk100.xyz/media/cache/strip/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+      "stations": [
+        {
+          "name": "ตอนที่ 1",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/71c458f2-7302-498e-bccd-8e4a258e8894/hls/The.Walking.Dead.S10E01.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 2",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/a83ec3c0-6c1a-407f-ab0b-a2ecba5f899a/hls/The.Walking.Dead.S10E02._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 3",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/e6fa5e72-9d61-4b2d-8632-ef2f03941966/hls/The.Walking.Dead.S10E03._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 4",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/eb93ed31-8157-40a9-8fe8-abe272766cfa/hls/The.Walking.Dead.S10E04._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 5",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/be9acf3b-7dc0-4afe-a4d6-1cb04928bea5/hls/The.Walking.Dead.S10E05.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 6",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/917abe72-e746-42c2-ac0a-c16489d39bda/hls/The.Walking.Dead.S10E06._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 7",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/d155f1ae-0de7-41b6-8a0e-eb30af0e2000/hls/The.Walking.Dead.S10E07._Ott_Hls_Ts_Avc_Aac_16x9_1280x720p_6.0Mbps_qvbr.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 8",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/d1af06a2-c730-4038-be44-e8b3ac2bef02/hls/The.Walking.Dead.S10E08.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 9",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/dbd9aa5e-4937-4ec2-9204-079aeb5794ac/hls/The.Walking.Dead.S10E09+-+Squeeze.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 10",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/009e07dd-6fbf-4d7e-9313-3ca43130096e/hls/The.Walking.Dead.S10E10+-+Stalker.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 11",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/6d470edf-f88e-43d1-9361-63a6f8cd818c/hls/The.Walking.Dead.S10E11+-+Morning+Star.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 12",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/a256304a-5fce-4dc9-bee8-7296ac2d0c14/hls/The.Walking.Dead.S10E12+-+Walk+With+Us.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 13",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/4a7909b2-3560-44b3-9896-f96ae38ff2b8/hls/The.Walking.Dead.S10E13+-+What+We+Become.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 14",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/76059c1f-88ba-429e-8b7b-54c91b37e3a8/hls/The.Walking.Dead.S10E14+-+Look+at+the+Flowers.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 15",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/bd7b5d10-9ba9-4df3-83f6-e55f7043f067/hls/The.Walking.Dead.S10E15+-+The+Tower.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 16",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/fb67078d-522c-44d8-b038-4bea6a8a55f3/hls/The.Walking.Dead.S10E16.A.Certain.Doom.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 17",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/94034187-6723-4da3-b16c-65150af410c4/hls/The.Walking.Dead.S10E17.Home%20Sweet%20Home.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 18",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/7328e82c-5241-44cf-8610-0c1684cc68d5/hls/The.Walking.Dead.S10E18.Find+Me.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 19",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/bca4c82e-43c4-43c7-b757-536f15c7920b/hls/The.Walking.Dead.S10E19.One+More.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 20",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/c64cabd8-5493-4780-b45f-e1c25b453cdf/hls/The.Walking.Dead.S10E20.Splinter.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 21",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/a538eb3a-0927-4ba0-ad77-c6fda5acd353/hls/The.Walking.Dead.S10E21.Diverged.m3u8",
+          "referer": "https://ezmovie.co/"
+        },
+        {
+          "name": "ตอนที่ 22",
+          "image": "https://bbk100.xyz/media/cache/movie_sm/202107/movie/356f0075b2fd7d8f994ef53a163bb663.jpg",
+          "info": "พากย์ไทย",
+          "url": "https://free100.co/cli-uploader/the-walking-dead-s10e22-here-s-negan-1668854404/entry_the-walking-dead-s10e22-here-s-negan.m3u8",
+          "referer": "https://ezmovie.co/"
+}
+]
+	},
 {
 "name"              :     "The Believers (2024) สาธุ",
 "image"             :     "https://tvallseries.co/wp-content/uploads/2024/03/The-Believers-2024-185x278.webp",
@@ -17,27 +1148,36 @@
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/แช่งชักหักกระดูก",
 "import": false
 },
-
 {
 "name"              :     "Gyeongseong Creature (2023) สัตว์สยองกยองซอง - จบ",
 "image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Gyeongseong-Creature-2023.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/สัตว์สยองกยองซอง",
 "import": false
 },
-
 {
 "name"              :     "Yu Yu Hakusho (2023) คนเก่งฟ้าประทาน - จบ",
 "image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Yu-Yu-Hakusho-2023.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/yuyu",
 "import": false
 },
+{
+"name"              :     "Furies (2024) ชำระแค้นทรชน",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2024/03/Furies.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/furies",
+"import": false
+},
+{
+"name"              :     "SWEET HOME SEASON 2 (2023) สวีทโฮม ซีซั่น 2 - จบ",
+"image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/11/Sweet-Home-2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/hsw2",
+"import": false
+}
 
-
-]}
-]}
-]}
-]}
-]}
-]}
-]}
-]}
+    ]
+}
+		  ]
+		}
+	  ]
+	}
+  ]
+}
