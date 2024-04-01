@@ -111,7 +111,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 #EXTINF:-1 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0"group-title="Digital TV",TH - HISTORY
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDI6MzI6NTUgUE0maGFzaF92YWx1ZT1nSWtvS0lpT25WSkhlZHFaU210VGNBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTg5NjA=
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-0 tvg-id="NationalGeographic" tvg-name="" tvg-logo="https://dl.dropbox.com/s/3xym6jy2h7h0q2j/ng.png?dl=0" roup-title="Digital TV",National Geographic
 #EXTVLCOPT:http-referrer=https://dooball.tv/
@@ -122,6 +122,42 @@ https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDQ6MzA6MjEgUE0maGFzaF92YWx1ZT1WQVB4RktUTDJVS1U4azRBTGN4eW9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjkwODY=
+
+#EXTINF:-1 tvg-chno="19" tvg-id="ASIAN FOOD CHANNEL" tvg-name="ASIAN FOOD CHANNEL" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg",ASIAN FOOD CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+
+#EXTINF:-1 tvg-chno="19" tvg-id="TLC" tvg-name="TLC" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+
+
+-------------Music-----------------
+
+#EXTINF:-1 tvg-chno="19" tvg-id="FASHION UHD" tvg-name="FASHION UHD" group-title="Digital TV" tvg-logo="https://company.fashiontv.com/wp-content/uploads/2017/03/fashiontv_logo_blue_vertical.png",FASHION UHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-chno="19" tvg-id="RETRO MUSIC" tvg-name="RETRO MUSIC" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Retro_Music_TV_logo.png",RETRO MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+http://stream.mediawork.cz/retrotv/retrotv2.smil/.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-chno="19" tvg-id="LIVE X LIVE TV" tvg-name="LIVE X LIVE TV" group-title="Digital TV" tvg-logo="https://www.livexlive.com/images/logos/lxl-logo-splash.png"",LIVE X LIVE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-chno="19" tvg-id="MTV" tvg-name="MTV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg"",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+
+
+
 
 
 ------------ MOVIE LIVE---------
@@ -237,19 +273,52 @@ https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="Star Movies" tvg-name="Star Movies" group-title="Digital TV" tvg-logo="https://cdn.pic.in.th/file/picinth/-65581e92f44995059.png",Star Movies
+#EXTINF:-1 tvg-chno="19" tvg-id="CCM" tvg-name="CCM" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+
+
+#EXTINF:-1  tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="http://tvsmagazine.com/images/channels/sm_048.jpg" group-title="Digital TV",TVB XING HE
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-tvb.stream/chunks.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+#EXTINF:-1 tvg-chno="19" tvg-id="KBS WORLD" tvg-name="KBS WORLD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png",KBS WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-chno="19" tvg-id="KPLUS MOVIE " tvg-name="KPLUS MOVIE" group-title="Digital TV" tvg-logo="https://img2.pic.in.th/pic/k-plus.png",KPLUS MOVIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+#EXTVLCOPT:http-referrer=
+
+#EXTINF:-1 tvg-chno="19" tvg-id="TVN" tvg-name="TVN" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+
+#EXTINF:-1 tvg-chno="19" tvg-id="TVN MOVIES" tvg-name="TVN MOVIES" group-title="Digital TV" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg",TVN MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+http://210.210.155.35/dr9445/h/h21/index.m3u
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+
+#EXTINF:-1 tvg-chno="19" tvg-id="KIX" tvg-name="KIX" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+http://210.210.155.37:80/dr9445/h/h07/index.m3u8
+#EXTVLCOPT:http-referrer=
+
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Star Movies" tvg-name="Star Movies" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://edge1.laotv.la/live/StarMovie/index.m3u8
-
 
 
 #EXTINF:-1 tvg-chno="19" tvg-id="DKL-MOVIES" tvg-name="DKL-MOVIES" group-title="Digital TV" tvg-logo="https://www.dropbox.com/scl/fi/vmrurw05c9be1y2hlfil0/24-02-09-09-28-56-285_deco.jpg?rlkey=eztph4knxaoa51jokr8pyverv&dl=1",DKL-MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://dookeela.live/live-tv/dkl-movies#
 
-#EXTINF:-1  tvg-id="TVBXingHe.hk" tvg-name="TVBXingHe hk" tvg-logo="http://tvsmagazine.com/images/channels/sm_048.jpg" group-title="Digital TV",TVB XingHe hk
-#EXTVLCOPT:http-referrer=https://dooball.tv/
-https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="iQIYI" tvg-name="iQIYI" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Iqiyi_Logo_Baru.png",iQIYI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -275,10 +344,12 @@ http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
-
-#EXTINF:-1 tvg-chno="17" tvg-id="Major Channel" tvg-name="Major Channel" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f38220-b44c-11ee-9f05-591527f02603_webp_original.webp",Major Channel
+#EXTINF:-1 tvg-chno="17" tvg-id="TENGLISH CLUB TV" tvg-name="ENGLISH CLUB TV" group-title="Digital TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61LRaQar+qL.png",ENGLISH CLUB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://cdn729.stm.trueid.net/p402aes/o029_multi_w_auto_tidapp.smil/chunklist_w435005108_b1800000_vo_t64TWFpbg==.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
+
+
+
 
 
 
@@ -360,35 +431,62 @@ https://youdooball.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8
 https://youdooball.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="7" tvg-id="beinsport1" tvg-name="beinsport1" group-title="Digital TV" tvg-logo="https://uppic.cloud/ib/CFM4EZ0l05.png"",beinsport1
+#EXTINF:-1 tvg-chno="7" tvg-id="beinsport1" tvg-name="beinsport1" group-title="Digital TV" tvg-logo="https://uppic.cloud/ib/CFM4EZ0l05.png",beinsport1
 #EXTVLCOPT:http-referrer=https://365liveball.com/
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/beinsport1_480p/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="7" tvg-id="beinsport2" tvg-name="beinsport2" group-title="Digital TV" tvg-logo="https://uppic.cloud/ib/z6rNZc2ZaH.png"",beinsport2
+#EXTINF:-1 tvg-chno="7" tvg-id="beinsport2" tvg-name="beinsport2" group-title="Digital TV" tvg-logo="https://uppic.cloud/ib/z6rNZc2ZaH.png",beinsport2
 #EXTVLCOPT:http-referrer=https://365liveball.com/
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/beinsporthd2_480p/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="7" tvg-id="beinsport3" tvg-name="beinsport3" group-title="Digital TV" tvg-logo="https://uppic.cloud/ib/Jsqa4EZES1.png"",beinsport3
+#EXTINF:-1 tvg-chno="7" tvg-id="beinsport3" tvg-name="beinsport3" group-title="Digital TV" tvg-logo="https://uppic.cloud/ib/Jsqa4EZES1.png",beinsport3
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/
 https://dookeela.live/live-tv/beinsports3au
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="7" tvg-id="bein1premiumarab" tvg-name="bein1premiumarab" group-title="Digital TV" tvg-logo="https://img2.pic.in.th/pic/bein-sports-premium-1-.png"",bein1premiumarab
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/bein1premiumarab/chunks.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="BEIN SPORT 1 FR" tvg-name="BEIN SPORT 1 FR" group-title="Digital TV" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",BEIN SPORT 1 FR
+https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="7" tvg-id="bein1premiumarab2" tvg-name="bein1premiumarab2" group-title="Digital TV"" tvg-logo="https://img2.pic.in.th/pic/bein-sports-premium-2-.png"",bein2premiumarab2
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/bein2premiumarab/playlist.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="BEIN SPORT 2 FR" tvg-name="BEIN SPORT 2 FR" group-title="Digital TV" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",BEIN SPORT 2 FR
+https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="7" tvg-id="bein1premiumarab3" tvg-name="bein1premiumarab3" group-title="Digital TV"tvg-logo="https://img2.pic.in.th/pic/bein-sports-premium-3-.png"",bein3premiumarab3
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m4/bein3premiumarab/chunks.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="BEIN SPORT 3 FR" tvg-name="BEIN SPORT 3 FR" group-title="Digital TV" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png",BEIN SPORT 3 FR
+https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+#EXTINF:-1 tvg-chno="7" tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Sky_Sport_F1_-_Logo_2020.svg",SKY SPORTS F1
+https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+#EXTINF:-1 tvg-chno="7" tvg-id="EURO SPORT 1" tvg-name="EURO SPORT 1" group-title="Digital TV" tvg-logo="https://api.blackboxsys.net/images/png/fr-eurosport.png",EURO SPORT 1
+https://streaming.livescorethai.net/iptv/uk-eurosport.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+#EXTINF:-1 tvg-chno="7" tvg-id="EURO SPORT 2" tvg-name="EURO SPORT 2" group-title="Digital TV" tvg-logo="https://api.blackboxsys.net/images/png/fr-eurosport2.png",EURO SPORT 2
+https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+#EXTINF:-1 tvg-chno="7" tvg-id="FS1" tvg-name="FS1" group-title="Digital TV" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs1.png",FS1
+https://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+#EXTINF:-1 tvg-chno="7" tvg-id="FS2" tvg-name="FS2" group-title="Digital TV" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png",FS2
+https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+
 
 #EXTINF:-1 tvg-chno="7" tvg-id="Sport TV 1" tvg-name="Sport TV 1" group-title="Digital TV"  tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sport-tv-1.jpg"",Sport TV 1
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/live/
