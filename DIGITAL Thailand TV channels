@@ -308,7 +308,7 @@ https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDQ6MzQ6NDMgUE0maGFzaF92YWx1ZT1tL0tzZTRncy91U0ZHV1lRUWtMVkxBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjY3NDY=
 
-#EXTINF:-1 tvg-id="DISCOVERY ASIA tvg-name="DISCOVERY ASIA" tvg-logo ="https://www.img09.xyz/assets/img/ch_logo/hd-discovery.png"group-title="Digital TV",DISCOVERY ASIA
+#EXTINF:-1 tvg-id="DISCOVERY ASIA tvg-name="DISCOVERY ASIA" tvg-logo ="https://www.img09.xyz/assets/img/ch_logo/hd-discovery.png" group-title="Digital TV",DISCOVERY ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
@@ -330,7 +330,7 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/
 #EXTVLCOPT:http-referrer=
 https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
 
-#EXTINF:-1 group-title="Digital TV" tvg-id="ANIMAL SHOW" tvg-logo="https://sv1.picz.in.th/images/2022/10/10/pniLMP.png",ANIMAL SHOW
+#EXTINF:-1 group-title="Digital TV" tvg-id="ANIMAL SHOW" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-animalplanet.png",ANIMAL SHOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
