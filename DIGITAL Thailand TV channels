@@ -297,7 +297,7 @@ https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSR5MAO5_qmfR0KjAEXSYUIPi4Oj_i6R5syg&usqp=CAU",สำรวจโลก
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8|Referer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
 
@@ -330,8 +330,8 @@ https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork" tvg-name="" tvg-logo="http://tvsmagazine.com/images/channels/sm_FNW.jpg" group-title="Digital TV",Food Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/342_Food_Network/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDQ6MzA6MjEgUE0maGFzaF92YWx1ZT1WQVB4RktUTDJVS1U4azRBTGN4eW9nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNjkwODY=
+#EXTVLCOPT:http-referrer=
+https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 tvg-chno="19" tvg-id="ASIAN FOOD CHANNEL" tvg-name="ASIAN FOOD CHANNEL" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg",ASIAN FOOD CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -339,7 +339,7 @@ https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TLC" tvg-name="TLC" group-title="Digital TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/800px-TLC_Logo.svg.png",TLC
-https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
