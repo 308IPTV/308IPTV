@@ -308,7 +308,7 @@ https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDQ6MzQ6NDMgUE0maGFzaF92YWx1ZT1tL0tzZTRncy91U0ZHV1lRUWtMVkxBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjY3NDY=
 
-#EXTINF:-1 tvg-id="DISCOVERY ASIA tvg-name="DISCOVERY ASIA" tvg-logo ="https://www.img09.xyz/assets/img/ch_logo/hd-discovery.png" group-title="Digital TV",DISCOVERY ASIA
+#EXTINF:-1 tvg-id="DISCOVERY ASIA tvg-name="DISCOVERY ASIA" tvg-logo ="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="Digital TV",DISCOVERY ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/chunks.m3u8
@@ -353,7 +353,7 @@ https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="ASIAN FOOD CHANNEL" tvg-name="ASIAN FOOD CHANNEL" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg",ASIAN FOOD CHANNEL
+#EXTINF:-1 tvg-chno="19" tvg-id="ASIAN FOOD CHANNEL" tvg-name="ASIAN FOOD CHANNEL" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/665px-Asian_Food_Network.svg.png",ASIAN FOOD CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
@@ -497,7 +497,7 @@ https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="7" tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Sky_Sport_F1_-_Logo_2020.svg",SKY SPORTS F1
+#EXTINF:-1 tvg-chno="7" tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png",SKY SPORTS F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8
