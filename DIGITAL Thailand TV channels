@@ -275,6 +275,12 @@ http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
+
+#EXTINF:-1 tvg-chno="17" tvg-id="Major Channel" tvg-name="Major Channel" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f38220-b44c-11ee-9f05-591527f02603_webp_original.webp",Major Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://cdn729.stm.trueid.net/p402aes/o029_multi_w_auto_tidapp.smil/chunklist_w435005108_b1800000_vo_t64TWFpbg==.m3u8
+#EXTVLCOPT:http-referrer=https://tv.trueid.net/
+
 ------------------sport----------------
 
 #EXTINF:-1 tvg-chno="7" tvg-id="True Premier Football HD 1" tvg-name="True Premier Football HD 1" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png"",True Premier Football HD 1
