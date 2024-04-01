@@ -95,18 +95,35 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/ch
 
 
 #EXTINF:-0 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte" tvg-logo="http://tvsmagazine.com/images/channels/sm_034.jpg" group-title="Digital TV",TH - TR X-ZYTE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
 https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-id="BBCLifestyle.th" tvg-name="BBC Lifestyle" tvg-logo="https://dl.dropbox.com/s/8ou6wgo4nokgc1x/bbclifestyle.png?dl=0"group-title="Digital TV",BBC Lifestyle
-#EXTVLCOPT:http-referrer=https://wacth.tv
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIzIDQ6MzQ6NDMgUE0maGFzaF92YWx1ZT1tL0tzZTRncy91U0ZHV1lRUWtMVkxBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjY3NDY=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSR5MAO5_qmfR0KjAEXSYUIPi4Oj_i6R5syg&usqp=CAU",สำรวจโลก
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+
+#EXTINF:-1 group-title="Digital TV" tvg-id="ของดี ประเทศไทย" tvg-logo="https://static.thaicom.io/chbig/big_295.png",ของดี ประเทศไทย
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+#EXTINF:-1 group-title="Digital TV" tvg-id="ANIMAL SHOW" tvg-logo="https://scontent.fbkk29-8.fna.fbcdn.net/v/t39.30808-6/291494275_412499020917008_7833570539848168032_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=pYpaC1JPURwAX8tIVmB&_nc_ht=scontent.fbkk29-8.fna&oh=00_AfA_tUCe6kzadPN7kvlWDANjj86-maoXIzD1alXzCL1v0Q&oe=6610071A",ANIMAL SHOW
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+
+#EXTINF:-1 group-title="Digital TV" tvg-id="THAINESS" tvg-logo="https://i0.wp.com/thainesstv.com/wp-content/uploads/2021/11/cropped-cropped-logo_thainesstv_a-1.png?w=250",THAINESS
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
 
 #EXTINF:-1 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0"group-title="Digital TV",TH - HISTORY
 #EXTVLCOPT:http-referrer=https://wacth.tv/
