@@ -191,6 +191,12 @@ http://sv1.afdc.live:9898/live/nktv.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8
 
+#EXTINF:-1 tvg-chno="19" tvg-id="AXN" tvg-name="AXN" group-title="Digital TV" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-axn.png",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://dooball66s.com/
+https://edge-s6.onlineprostream.com:8825/v5/h_pu283wqtYw1MzQZyDAlA/1711958766/8ee0a8edfa9825ee03401109a3c7c85c/OsXzBWmOWgpIb1pgDqDaDg/1711969446/live/lx-origin/hd-axn_720/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="https://img2.pic.in.th/pic/1236fb53814f0cf608b.png"group-title="Digital TV",LIFETIME
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8
