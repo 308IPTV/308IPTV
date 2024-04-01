@@ -226,13 +226,15 @@ http://210.210.155.35:80/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TVN" tvg-name="TVN" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-tvn.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TVN MOVIES" tvg-name="TVN MOVIES" group-title="Digital TV" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg",TVN MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-http://210.210.155.35/dr9445/h/h21/index.m3u
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+http://210.210.155.35/dr9445/h/h21/index.m3u
+
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KIX" tvg-name="KIX" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -297,24 +299,25 @@ https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSR5MAO5_qmfR0KjAEXSYUIPi4Oj_i6R5syg&usqp=CAU",สำรวจโลก
+#EXTVLCOPT:http-referrer=https://wacth.tv/
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8|Referer=https://wacth.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=
+
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="ของดี ประเทศไทย" tvg-logo="https://static.thaicom.io/chbig/big_295.png",ของดี ประเทศไทย
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="ANIMAL SHOW" tvg-logo="https://sv1.picz.in.th/images/2022/10/10/pniLMP.png",ANIMAL SHOW
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="THAINESS" tvg-logo="https://i0.wp.com/thainesstv.com/wp-content/uploads/2021/11/cropped-cropped-logo_thainesstv_a-1.png?w=250",THAINESS
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/V0155.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 
@@ -330,17 +333,17 @@ https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork" tvg-name="" tvg-logo="http://tvsmagazine.com/images/channels/sm_FNW.jpg" group-title="Digital TV",Food Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=
-https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8|Referer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/hd-foodeng.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="ASIAN FOOD CHANNEL" tvg-name="ASIAN FOOD CHANNEL" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Asian_Food_Network.svg",ASIAN FOOD CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TLC" tvg-name="TLC" group-title="Digital TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/800px-TLC_Logo.svg.png",TLC
-https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 
@@ -363,8 +366,9 @@ https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="MTV" tvg-name="MTV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MTV-Logo.svg",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8
+
 
 
 
@@ -462,18 +466,18 @@ https://dookeela.live/live-tv/beinsports3au
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="BEIN SPORT 1 FR" tvg-name="BEIN SPORT 1 FR" group-title="Digital TV" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_FRENCH_Digital_Mono.png",BEIN SPORT 1 FR
-https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="BEIN SPORT 2 FR" tvg-name="BEIN SPORT 2 FR" group-title="Digital TV" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_FRENCH_Digital_Mono.png",BEIN SPORT 2 FR
-https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="BEIN SPORT 3 FR" tvg-name="BEIN SPORT 3 FR" group-title="Digital TV" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png",BEIN SPORT 3 FR
-https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="SKY SPORTS F1" tvg-name="SKY SPORTS F1" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Sky_Sport_F1_-_Logo_2020.svg",SKY SPORTS F1
@@ -482,23 +486,23 @@ https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="EURO SPORT 1" tvg-name="EURO SPORT 1" group-title="Digital TV" tvg-logo="https://api.blackboxsys.net/images/png/fr-eurosport.png",EURO SPORT 1
-https://streaming.livescorethai.net/iptv/uk-eurosport.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-eurosport.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="EURO SPORT 2" tvg-name="EURO SPORT 2" group-title="Digital TV" tvg-logo="https://api.blackboxsys.net/images/png/fr-eurosport2.png",EURO SPORT 2
-https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="FS1" tvg-name="FS1" group-title="Digital TV" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs1.png",FS1
-https://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/us-foxsports1.stream/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="FS2" tvg-name="FS2" group-title="Digital TV" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png",FS2
-https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 
