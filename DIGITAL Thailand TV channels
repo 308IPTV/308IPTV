@@ -90,10 +90,21 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1708344243.png",Cartoon Network
+#EXTINF:-1 tvg-chno="26" tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="Digital TV" tvg-logo="https://www.animationkolkata.com/blog/wp-content/uploads/2016/08/tumblr_m4ksayhoaZ1qbbs8oo1_500.gif",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
-https://dkl-c33es.cdn.akamaiz.com/dookeela/cartoon-network/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="CARTOONITO" tvg-name="CARTOONITO" group-title="Digital TV" tvg-logo="https://ewsat.com/img/CARTOONITO.png",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/uk-cartoonito.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno="26" tvg-id="ANIME ALL DAY" tvg-name="ANIME ALL DAY" group-title="Digital TV" tvg-logo="https://sv1.picz.in.th/images/2022/10/07/p2j7kq.png",ANIME ALL DAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?
+
 
 ------------ MOVIE LIVE---------
 
