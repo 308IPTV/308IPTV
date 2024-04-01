@@ -80,6 +80,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 https://wacthstream.com/stream_live/goodtv43_Heart./playlist.m3u8
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 
+------------ KID ---------
 
 #EXTINF:-1 tvg-chno="6" tvg-id="Boomerang.th" tvg-name="Boomerang Thai" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Boomerang_tv_logo_%282004-2015%29.svg/640px-Boomerang_tv_logo_%282004-2015%29.svg.png",Boomerang Thai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
