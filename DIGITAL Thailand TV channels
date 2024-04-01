@@ -205,8 +205,8 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="CCM" tvg-name="CCM" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8 
 
 
 #EXTINF:-1  tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="http://tvsmagazine.com/images/channels/sm_048.jpg" group-title="Digital TV",TVB XING HE
