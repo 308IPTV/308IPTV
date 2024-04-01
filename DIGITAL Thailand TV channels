@@ -92,9 +92,8 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/ch
 
 #EXTINF:-1 tvg-chno="26" tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1708344243.png",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dkl-c33es.cdn.akamaiz.com/dookeela/cartoon-network/playlist.m3u8|Referer=https://dookeela.live/
-
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://dkl-c33es.cdn.akamaiz.com/dookeela/cartoon-network/playlist.m3u8
 
 ------------ MOVIE LIVE---------
 
@@ -132,7 +131,7 @@ https://dookeela.live/live-tv/hbo-family#|Referer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://dookeela.live/live-tv/hbo-signature#|Referer=https://dookeela.live/
 
-#EXTINF:-1 tvg-chno="26" tvg-id="CINEMAX🇹🇭" tvg-name="CINEMAX🇹🇭" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
+#EXTINF:-1 tvg-chno="26" tvg-id="CINEMAX🇹🇭" tvg-name="CINEMAX🇹🇭" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX🇹🇭
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://dookeela.live/live-tv/cinemax#|Referer=https://dookeela.live/
 
@@ -221,9 +220,6 @@ https://live.thaitvstream.com/play/chiangrai/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-id="GO CHANNEL" tvg-name="GO CHANNEL" group-title="Digital TV" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png",GO CHANNEL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://live1.thaitvstream.com/play/gochannel/index.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="CCM" tvg-name="CCM" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",CCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -280,8 +276,8 @@ https://dookeela.live/live-tv/iqiyi#
 
 #EXTINF:-1 tvg-chno="26" tvg-id="BollywooD HD" tvg-name="BollywooD HD" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1708490933.png",BollywooD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dkl-c33es.cdn.akamaiz.com/dookeela/bollywood-hd/playlist.m3u8|Referer=https://dookeela.live/
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv#
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bollywood-hd/playlist.m3u8
 
 ---------------MVTV THAI -------------------
 
