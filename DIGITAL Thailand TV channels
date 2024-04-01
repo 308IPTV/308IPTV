@@ -90,6 +90,12 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-chno="26" tvg-id="Cartoon Network" tvg-name="Cartoon Network" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1708344243.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dkl-c33es.cdn.akamaiz.com/dookeela/cartoon-network/playlist.m3u8|Referer=https://dookeela.live/
+
+
 ------------ MOVIE LIVE---------
 
 #EXTINF:-1 tvg-chno="26" tvg-id="BOX FILM.th" tvg-name="BOX FILM" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/NGHw654244.png",BOX FILM
@@ -126,14 +132,10 @@ https://dookeela.live/live-tv/hbo-family#|Referer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://dookeela.live/live-tv/hbo-signature#|Referer=https://dookeela.live/
 
-#EXTINF:-1 tvg-chno="26" tvg-id="CINEMAX" tvg-name="CINEMAX" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
+#EXTINF:-1 tvg-chno="26" tvg-id="CINEMAX🇹🇭" tvg-name="CINEMAX🇹🇭" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://dookeela.live/live-tv/cinemax#|Referer=https://dookeela.live/
 
-#EXTINF:-1 tvg-chno="26" tvg-id="Cinemax HD   🇹🇭" tvg-name="Cinemax HD   🇹🇭" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax HD   🇹🇭
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/3BB_CINEMAX/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="26" tvg-id="WANER TV" tvg-name="WANER TV" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WANER TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -276,6 +278,10 @@ https://dookeela.live/live-tv/dkl-movies#
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://dookeela.live/live-tv/iqiyi#
 
+#EXTINF:-1 tvg-chno="26" tvg-id="BollywooD HD" tvg-name="BollywooD HD" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1708490933.png",BollywooD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dkl-c33es.cdn.akamaiz.com/dookeela/bollywood-hd/playlist.m3u8|Referer=https://dookeela.live/
 
 ---------------MVTV THAI -------------------
 
