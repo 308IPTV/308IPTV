@@ -410,7 +410,10 @@ https://dookeela.live/live-tv/discovery-asia
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115660&extension=ts&play_token=
 
-
+#EXTINF:-1 tvg-chno="19" tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0"group-title="Digital TV",TH - HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -698,8 +701,14 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
 ---------------------------------------
 
 #EXTINF:-1 tvg-chno="17" tvg-id="ปลูกปัญญา" tvg-name="ปลูกปัญญา" group-title="Digital TV" tvg-logo="https://taejai.com/media/news/JRmJ3WGHWsggxwxdVC7x8G.jpg.300x200_q85_crop.jpg",ปลูกปัญญา
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 http://www.trueplookpanya.com/new/tv_live?var_link=720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
+#EXTINF:-1 tvg-chno="17" tvg-id="ปลูกปัญญา BACKUP True " tvg-name="ปลูกปัญญา" group-title="Digital TV" tvg-logo="https://taejai.com/media/news/JRmJ3WGHWsggxwxdVC7x8G.jpg.300x200_q85_crop.jpg",ปลูกปัญญา
+#EXTVLCOPT:http-referrer=http://www.trueplookpanya.com/
+http://www.trueplookpanya.com/new/tv_live?var_link=720p
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
 
 #EXTINF:-1 tvg-chno="4" tvg-id="ALTV4.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/4Bol643617.png",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -719,17 +728,6 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://apitv.dmc.tv/uploads/music_1a24273b17.png", ฟังเพลงธรรมะ
-https://live.zoom072.com/ch8/ch8.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
- 
-
-#EXTINF:-1 tvg-logo="https://apitv.dmc.tv/uploads/med_0965d3b20b.png", สมาธิ 24 น.
-https://live.zoom072.com/ch7/ch7.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-
-#EXTINF:-1 tvg-logo="https://software.thaiware.com/upload_misc/software/2012_03/728/2367_120326102259id.png",SBTV หลวงตามหาบัว
-http://202.142.203.28:1935/live/smil:sbt_tv_aac.smil/playlist.m3u8
 
  
 
