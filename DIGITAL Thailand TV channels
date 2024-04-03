@@ -367,6 +367,12 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0155/HLS/
 #EXTVLCOPT:http-referrer=
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
 
+#EXTINF:-1 group-title="Digital TV" tvg-id="Mysci" tvg-logo="https://www.dropbox.com/s/yjykrexid0786lg/22-12-13-05-50-15-929_deco.jpg?dl=1",Mysci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Digital TV" tvg-id="ANIMAL SHOW" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/sd-animalplanet.png",ANIMAL SHOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://wacth.tv/
