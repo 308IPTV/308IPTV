@@ -400,7 +400,15 @@ https://dookeela.live/live-tv/animal-planet
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dookeela.live/live-tv/discovery-asia
 
+#EXTINF:-1 tvg-id="DISCOVERY HISTORY tvg-name="DISCOVERY HISTORY" tvg-logo="https://img2.pic.in.th/pic/9d13b0fc-4ff1-3be9-bf3e-9a551780fbdf.png" group-title="Digital TV",DISCOVERY HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-discoveryhistory.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="DISCOVERY TURBO tvg-name="DISCOVERY TURBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Digital TV",DISCOVERY TURBORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/uk-discoveryturbo.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="True Explore SCI" tvg-name="True Explore SCI" group-title="Digital TV" tvg-logo="http://tvsmagazine.com/images/channels/sm_EXPSC.jpg",True Explore SCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -411,6 +419,11 @@ http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115660&ext
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://wacth.tv/
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="WORLD OF SCIENCE" tvg-name="WORLD OF SCIENCE" group-title="Digital TV" tvg-logo="https://www.scienceworld.ca/wp-content/uploads/SW-Logo-Example-DoNotUse-32-1024x614.png",WORLD OF SCIENCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC3/index.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0"group-title="Digital TV",TH - HISTORY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
