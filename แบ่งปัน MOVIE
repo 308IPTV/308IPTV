@@ -23,36 +23,20 @@
 },
 
 {
+"name": "The Movies",
+"author": "",
+"image": "https://uppic.cloud/ib/dTxNhwc8iW.jpeg",
+"url": "https://freenote.biz/raw/cYjBDyIBk9",
+"import": true
+},
+
+{
 "name": "Series -Series ",
 "author": "Series",
 "image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
 "url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/series",
 "import": true
 },
-
-{
-"name"              :     "หนังและละคร",
-"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
-"import": false
-}, 
-
-{
-"name": "P0P-PUPPS TVVVS ",
-"author": "UPDATE 27/03/2024",
-"image": "https://lastfm.freetls.fastly.net/i/u/500x500/8bc78195d5b54e20845d2830f16c0651.jpg",
-"url": "https://pastebin.com/raw/DvZz5034",
-"import": "true"
-},
-
-{
-"name": "Jake Movies 2",
-"author": "UPDATE 28/01/2024",
-"image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
-"url": "https://freenote.biz/raw/jVgKALRvtd",
-"import": "true"
-},
-
 
 {
 "name":"🐷 𝕄𝕠𝕠𝕊𝕖𝕧𝕖ℕ 🅕🅡🅔🅔 UPDATE🐷",
@@ -90,6 +74,50 @@
 "url": "https://bit.ly/MixLifePlay112",
 "import": true
 },
+
+{
+name:"ห้อง Doofree Group",
+author:"Doofree Group",
+"image": "https://as1.ftcdn.net/v2/jpg/00/48/77/62/1000_F_48776224_v6cVcAuCgfdq4RvCHBXBiU7WtbdZBFBw.jpg",
+"url": "https://bit.ly/46kCZym",
+"import": "true"
+},
+
+{
+"name": "Movies",
+"image": "https://t4.ftcdn.net/jpg/02/54/00/11/360_F_254001186_jzGwlJGEugIjrSn8Bj7jURNEoQEUAJKk.jpg",
+	"author": "ลิงค์ใส่ได้ครั้งเดียวห้ามลบ",
+"info": "Hero",
+"url": "https://pastebin.com/raw/1efFjt9T",
+"import": false 
+},
+
+
+{
+"name"              :     "หนังและละคร",
+"image"             :     "https://i.imgur.com/vcZm6hA.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
+"import": false
+}, 
+
+{
+"name": "P0P-PUPPS TVVVS ",
+"author": "UPDATE 27/03/2024",
+"image": "https://lastfm.freetls.fastly.net/i/u/500x500/8bc78195d5b54e20845d2830f16c0651.jpg",
+"url": "https://pastebin.com/raw/DvZz5034",
+"import": "true"
+},
+
+{
+"name": "Jake Movies 2",
+"author": "UPDATE 28/01/2024",
+"image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
+"url": "https://freenote.biz/raw/jVgKALRvtd",
+"import": "true"
+},
+
+
+
 
 {
 "name"              :     "หนังไทย THAI MOVIES",
@@ -145,22 +173,6 @@
 "import": false
 }, 
 
-{
-name:"ห้อง Doofree Group",
-author:"Doofree Group",
-"image": "https://as1.ftcdn.net/v2/jpg/00/48/77/62/1000_F_48776224_v6cVcAuCgfdq4RvCHBXBiU7WtbdZBFBw.jpg",
-"url": "https://bit.ly/46kCZym",
-"import": "true"
-},
-
-{
-"name": "Movies",
-"image": "https://t4.ftcdn.net/jpg/02/54/00/11/360_F_254001186_jzGwlJGEugIjrSn8Bj7jURNEoQEUAJKk.jpg",
-	"author": "ลิงค์ใส่ได้ครั้งเดียวห้ามลบ",
-"info": "Hero",
-"url": "https://pastebin.com/raw/1efFjt9T",
-"import": false 
-},
 
 {
 "name": "Series",
