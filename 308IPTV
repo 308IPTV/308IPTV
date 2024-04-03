@@ -49,13 +49,23 @@
 "import": true
 }, 
 
+
 {
-"name": "(IPTV UPDDATE-MOVIE )",
-"author":"(♥ 🇹🇭 IPTV UPDDATE 🇹🇭♥)",
-"image":"https://avatars.githubusercontent.com/u/100044137?v=4",
-"url":"https://freenote.biz/raw/gk9psZfSQu",
-"import": "true"
+"name": "🎬ห้องดูหนังเสียสละ-แบ่งปัน  GROUP ",
+"image": "https://www.dailynews.co.th/wp-content/uploads/2023/07/%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%9B-26-07-66-768x433.jpg",
+"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99%20MOVIE",
+"import": true
+}, 
+
+{
+"name":"GROUP หนัง-ซีรีย์ น่าดู MOVIES ",
+"author":" สมาชิก  ",
+"info": "",   
+"image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
+"url"               :     "https://pastebin.com/raw/RM4mSXR6",
+"import": true
 },
+
 
 {
 "name"              :     "ดูเพื่อความบันเทิง BY เจียว เจียว Series จีน เกาหลี ญี่ปุ่น",
@@ -140,27 +150,13 @@
 
 
 {
-"name": "🎬ห้องดูหนังเสียสละ-แบ่งปัน  GROUP ",
-"image": "https://www.dailynews.co.th/wp-content/uploads/2023/07/%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%9B-26-07-66-768x433.jpg",
-"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99%20MOVIE",
-"import": true
-}, 
-
-{
-"name":"GROUP หนัง-ซีรีย์ น่าดู MOVIES ",
-"author":" สมาชิก  ",
-"info": "",   
-"image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
-"url"               :     "https://pastebin.com/raw/RM4mSXR6",
-"import": true
-},
-
-{
 "name": "รวมกีฬาดูบอล ช่องกีฬา True Sport Update",
 "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/True_Sport_Logo.png",
 "url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/Sport%20ch",
 "import": true
 },
+
+
 
 {
 "name": "IPTV Socity 2024",
@@ -168,6 +164,14 @@
 "url": "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V",
 "import": true
 }, 
+
+{
+"name": "(IPTV UPDDATE-MOVIE )",
+"author":"(♥ 🇹🇭 IPTV UPDDATE 🇹🇭♥)",
+"image":"https://avatars.githubusercontent.com/u/100044137?v=4",
+"url":"https://freenote.biz/raw/gk9psZfSQu",
+"import": "true"
+},
 
 {
 "name": "PLAYIDTV 2024 ",
