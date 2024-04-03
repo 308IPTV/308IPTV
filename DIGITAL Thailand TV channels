@@ -741,5 +741,5 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
 #EXTINF:1,Rush TV
 https://rush-redbox.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RushbyAMC.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",Rush by AMC (1080p)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/yngqRL8.png",Rush by AMC (1080p)
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
