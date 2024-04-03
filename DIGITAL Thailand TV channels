@@ -295,8 +295,9 @@ https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KPLUS MOVIE " tvg-name="KPLUS MOVIE" group-title="Digital TV" tvg-logo="https://img2.pic.in.th/pic/k-plus.png",KPLUS MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
-#EXTVLCOPT:http-referrer=
+
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TVN" tvg-name="TVN" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -312,8 +313,9 @@ https://dookeela.live/live-tv/tvn-indonesia
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KIX" tvg-name="KIX" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
 http://210.210.155.37:80/dr9445/h/h07/index.m3u8
-#EXTVLCOPT:http-referrer=
+
 
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Star Movies" tvg-name="Star Movies" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies
