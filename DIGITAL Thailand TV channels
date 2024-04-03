@@ -738,6 +738,8 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
 
 
+#EXTINF:1,Rush TV
+https://rush-redbox.amagi.tv/playlist.m3u8
 
- 
-
+#EXTINF:1,24hours Movies
+https://muxip-24hoursmovies-klowdtv.amagi.tv/playlist.m3u8
