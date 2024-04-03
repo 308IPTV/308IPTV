@@ -306,11 +306,6 @@ https://dookeela.live/live-tv/tvn-indonesia
 https://vcdnjt.useetv.com/dass/15/tvnmovies/chunklist_w810050621_b1344100_sleng.m3u8#
 
 
-#EXTINF:-1 tvg-chno="19" tvg-id="tvN Drama" tvg-name="tvN Drama" group-title="Digital TV" tvg-logo="https://i.imgur.com/u82cDe9.png",KPLUS MOVIE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
-http://112.187.218.162:9981/stream/channelid/2
-
-
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KPLUS+ MOVIE" tvg-name="KPLUS MOVIE" group-title="Digital TV" tvg-logo="https://img2.pic.in.th/pic/k-plus.png",KPLUS MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
