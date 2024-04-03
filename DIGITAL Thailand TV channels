@@ -323,7 +323,8 @@ http://210.210.155.37:80/dr9445/h/h07/index.m3u8#
 https://vcdnjt.useetv.com/dass/15/kix/chunklist_w903421055_b1344100_sleng.m3u8#
 http://lihattv.com/?play=43340
 
-EXTINF:-1 tvg-chno="19" tvg-id="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rai_Italia_-_Logo_2017.svg"
+#EXTINF:-1 tvg-chno="19" tvg-id="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rai_Italia_-_Logo_2017.svg"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
 
