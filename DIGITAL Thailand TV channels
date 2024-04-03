@@ -168,6 +168,10 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://livescorethai.net/
 
+#EXTINF:-1 tvg-chno="17" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/5z6043nz5ygojxd/22-12-14-05-42-24-605_deco.jpg?dl=1",True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+http://31.220.3.170/play/live.php?mac=00:1A:79:BF:E6:64&stream=115415&extension=ts&play_token
+
 #EXTINF:-1 tvg-chno="17" tvg-id="True Thai Film" tvg-name="True Thai Film" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/j92gxflqy1uodt7/22-12-14-05-44-03-451_deco.jpg?dl=1",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://livescorethai.net/
@@ -202,11 +206,18 @@ https://www.inwiptv.com/player_demo.php?channel=95262
 
 #EXTINF:-1 tvg-chno="17" tvg-id="FW Series" tvg-name="FW Series" group-title="Digital TV" tvg-logo="https://img.inwiptv.net/postor/20230730103943SOV.jpg",FW Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=94898
 
 #EXTINF:-1 tvg-chno="17" tvg-id="FW cartoon" tvg-name="FW cartoon" group-title="Digital TV" tvg-logo="https://img.inwiptv.net/postor/20230730104048Toon.jpg",FW cartoon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=89782
+
+#EXTINF:-1 tvg-chno="7" tvg-id="FW COMEDY tvg-name="FW COMEDY" group-title="Digital TV" tvg-logo="https://www.dropbox.com/scl/fi/54khpslo8rpv7shp2uezn/23-08-12-22-15-55-207_deco.jpg?rlkey=5rmtygs76dxohwnenn3nbrpxq&dl=1",FW COMEDY
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+https://www.inwiptv.com/player_demo.php?channel=89781
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="17" tvg-id="NK Movies" tvg-name="NK Movies" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/qupnx4wnr06r9oe/22-11-26-23-35-50-003_deco.jpg?dl=1",NK Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -320,11 +331,15 @@ https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/chunks.m3u8
 https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
 
 
+#EXTINF:-1 tvg-chno="9" tvg-id="MVTV Series" tvg-name="MVTV Series" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/sb4mrwxvy1tsg32/22-12-15-02-02-57-003_deco.jpg?dl=1",MVTV Series
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://mvtv.co.th/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3/
+https://edge6a.v2h-cdn.com/mv_series/mv_series.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="9" tvg-id="สกาล่า Channel" tvg-name="สกาล่า Channel" group-title="Digital TV" tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/39_x_B1d8we0g2sxMrXjobnhtZNl9fYKSGOLp.jpg",สกาล่า Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://mvtv.co.th/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3/
 https://n-edge-1-th.v2h-cdn.com/scala/scala/chunks.m3u8
-
 
 
 ------------ Entertainment -----
@@ -429,10 +444,24 @@ https://livexlive2.akamaized.net/hls/live/2013184/linear_1/master.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-chno="19" tvg-id="FTV.COM" tvg-name="FTV.COM" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/n6il9rnje7cvmkb/22-12-15-17-06-05-954_deco.jpg?dl=1",FTV.COM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="19" tvg-id="Retro Music TV" tvg-name="Retro Music TV" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/6e1j09k4lrnie7e/22-12-15-16-54-01-818_deco.jpg?dl=1",Retro Music TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=
+http://stream.mediawork.cz/retrotv/retrotv2.smil/.m3u8
 
 
 
 ------------------sport----------------
+
+#EXTINF:-1 tvg-chno="7" tvg-id="FW SPORTS" tvg-name="FW SPORTS" group-title="Digital TV" tvg-logo="https://www.dropbox.com/scl/fi/hhwe001p9cc1xo65j3ux7/23-08-15-12-19-07-512_deco.jpg?rlkey=t9i9rpne6ys3ovjucbue4w7t6&dl=1",FW SPORTS
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+https://www.inwiptv.com/player_demo.php?channel=92941
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="True Premier Football HD 1" tvg-name="True Premier Football HD 1" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png"",True Premier Football HD 1
 #EXTVLCOPT:http-referrer=https://365liveball.com/
