@@ -208,21 +208,21 @@ http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002
 https://www.livedoomovies.com:4432/02_AXNHD_720p/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-chno="17" tvg-id="FW MOVIE" tvg-name="FW MOVIE" group-title="Digital TV" tvg-logo="https://www.dropbox.com/scl/fi/5kfim2s3midphkxl8kuq8/23-08-12-22-13-31-304_deco.jpg?rlkey=r75vy8pcd63c5yh206bvq307r&dl=1",FW MOVIE
+#EXTINF:-1 tvg-chno="17" tvg-id="FW MOVIE" tvg-name="FW MOVIE" group-title="Digital TV" tvg-logo="hhttps://www.i-pic.info/i/Ecy3654246.png",FW MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://www.inwiptv.com/player_demo.php?channel=95262
 
-#EXTINF:-1 tvg-chno="17" tvg-id="FW Series" tvg-name="FW Series" group-title="Digital TV" tvg-logo="https://img.inwiptv.net/postor/20230730103943SOV.jpg",FW Series
+#EXTINF:-1 tvg-chno="17" tvg-id="FW Series" tvg-name="FW Series" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/soJS654247.png",FW Series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://www.inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=94898
 
-#EXTINF:-1 tvg-chno="17" tvg-id="FW cartoon" tvg-name="FW cartoon" group-title="Digital TV" tvg-logo="https://img.inwiptv.net/postor/20230730104048Toon.jpg",FW cartoon
+#EXTINF:-1 tvg-chno="17" tvg-id="FW cartoon" tvg-name="FW cartoon" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/OrXo682660.png",FW cartoon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://www.inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=89782
 
-#EXTINF:-1 tvg-chno="7" tvg-id="FW COMEDY tvg-name="FW COMEDY" group-title="Digital TV" tvg-logo="https://www.dropbox.com/scl/fi/54khpslo8rpv7shp2uezn/23-08-12-22-15-55-207_deco.jpg?rlkey=5rmtygs76dxohwnenn3nbrpxq&dl=1",FW COMEDY
+#EXTINF:-1 tvg-chno="7" tvg-id="FW COMEDY tvg-name="FW COMEDY" group-title="Digital TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png",FW COMEDY
 #EXTVLCOPT:http-referrer=https://www.inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=89781
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
