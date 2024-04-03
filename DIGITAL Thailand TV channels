@@ -728,6 +728,8 @@ https://live.zoom072.com/ch8/ch8.m3u8
 https://live.zoom072.com/ch7/ch7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
+#EXTINF:-1 tvg-logo="https://software.thaiware.com/upload_misc/software/2012_03/728/2367_120326102259id.png",SBTV หลวงตามหาบัว
+http://202.142.203.28:1935/live/smil:sbt_tv_aac.smil/playlist.m3u8
 
  
 
