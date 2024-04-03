@@ -75,7 +75,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
-#EXTINF:-1 tvg-chno="36" tvg-id="TOP NEWS/ข่าวเด่น" tvg-name="TOP NEWS/ข่าวเด่น" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0"",TOP NEWS/ข่าวเด่น
+#EXTINF:-1 tvg-chno="36" tvg-id="TOP NEWS/ข่าวเด่น" tvg-name="TOP NEWS/ข่าวเด่น" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0",TOP NEWS/ข่าวเด่น
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://live.topnews.co.th/hls/topnews_720.m3u8
 
