@@ -27,7 +27,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u
 
 #EXTINF:-1 tvg-chno="24" tvg-id="True 4 U.th" tvg-name="True 4 U" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/fd16mksgo4ken4s/true4utv.png?dl=0",True 4 U
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.madoohd.com/
+https://www.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM25" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/obu6dyqp6lctxvb/gmm.png?dl=0",GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -540,28 +541,28 @@ https://www.inwiptv.com/player_demo.php?channel=92941
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="True Premier Football HD 1" tvg-name="True Premier Football HD 1" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png"",True Premier Football HD 1
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl1_480p/chunks.m3u8?
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="True Premier Football HD 2" tvg-name="True Premier Football HD 2" group-title="Digital TV"  tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png",True Premier Football HD 2
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl2_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="True Premier Football HD 3" tvg-name="True Premier Football HD 3" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png"",True Premier Football HD 3
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl3_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="True Premier Football HD 4" tvg-name="True Premier Football HD 4" group-title="Digital TV"  tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png"",True Premier Football HD 4
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m1/trueepl4_480p/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="True Premier Football HD 5" tvg-name="True Premier Football HD 5" group-title="Digital TV"  tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/25d3c980-7374-11ec-8066-ffb72c13e721_webp_320.png"",True Premier Football HD 5
-#EXTVLCOPT:http-referrer=https://365liveball.com/
-https://sport.livedoomovies.com:4432/02_PremierHD5_480p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 
