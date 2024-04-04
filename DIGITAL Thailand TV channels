@@ -23,12 +23,14 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 
 #EXTINF:-1 tvg-chno="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/qfyhzxfkpj33r46/workpoint.png?dl=0",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0015/HLS/V0015.m3u8"
 
-#EXTINF:-1 tvg-chno="24" tvg-id="True 4 U.th" tvg-name="True 4 U" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/fd16mksgo4ken4s/true4utv.png?dl=0",True 4 U
+#EXTINF:-1 tvg-chno="24" tvg-id="True4u HD" tvg-name="True4u HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/fd16mksgo4ken4s/true4utv.png?dl=0",True4u HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://www.madoohd.com/
-https://www.livedoomovies.com:4432/02_TRUE4U_480p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://true4u.com/live/
+https://true4u.com/live/
+
 
 #EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM25" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/obu6dyqp6lctxvb/gmm.png?dl=0",GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -49,7 +51,8 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/
 
 #EXTINF:-1 tvg-chno="30" tvg-id="MCOT HD.th" tvg-name="MCOT HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/bnnc4qpjt3drip5/mcot.png?dl=0",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0008/HLS/V0008.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/p7f5c0w47tctges/one.png?dl=0",ONE 31 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -69,7 +72,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/w5uhtzc3b4tap3v/7hd.png?dl=0",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
+#EXTVLCOPT:http-referrer=https://redirector.ais-vidnt.com
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0018/HLS/V0018.m3u8
 
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/zafkq553lvt0b0d/pptv.png?dl=0",PPTV HD
