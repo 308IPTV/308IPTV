@@ -676,7 +676,7 @@ https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="DAZN F1 (Spain)" tvg-name="DAZN F1 (Spain)" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1696279327.png",DAZN F1 (Spain)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://dookeela.live/
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
 https://dkl-c33es.cdn.akamaiz.com/dookeela/daznf1/playlist.m3u8
 
 
