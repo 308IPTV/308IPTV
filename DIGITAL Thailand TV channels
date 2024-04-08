@@ -649,7 +649,7 @@ https://dkl-c33es.cdn.akamaiz.com/dookeela/bein3/playlist.m3u8
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein4/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="7" tvg-id="beinsport5 TH" tvg-name="beinsport5" group-title="Digital TV" tvg-logo="https://dkl-c33es.cdn.akamaiz.com/dookeela/bein5/playlist.m3u8",beinsport5
+#EXTINF:-1 tvg-chno="7" tvg-id="beinsport5 TH" tvg-name="beinsport5" group-title="Digital TV" tvg-logo="https://www.dropbox.com/scl/fi/3d7ozguzhwncfaqvfud8v/bein5.png?rlkey=d03wsqihgrl1iq92b3y40tcv1&dl=1",beinsport5
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/bein5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
