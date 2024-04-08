@@ -39,11 +39,29 @@
 
 
 {
-"name": "รวมดูกีฬา SPORT ",
-"image": "https://as2.ftcdn.net/v2/jpg/03/02/12/83/1000_F_302128359_q6aCwgAvdYZBPF4XSwxXddLPE0h3Kor1.jpg",
-"url": "https://freenote.biz/raw/aTA06lbUgx",
-"import": true
+				"name": "♥ 🇹🇭 SPORTS 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+				"url": "https://wandering-oldman.github.io/sport/sport.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false
 },
+
+{
+				"name": "♥ 🇹🇭 Inter Sport 🇹🇭♥",
+				"image": "https://www.dropbox.com/s/wus3w689i5afxl9/inter-sport.jpg?dl=1",
+				"url": "https://wandering-oldman.github.io/daddy-hd/daddy-hd.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false
+},
+
+{
+				"name": "♥ 🇹🇭 Sport by doo-tv 🇹🇭♥",
+				"image": "https://doo-tv.com/images/logo/ynTEpmClxZSu0TspXxApBlx780j0XjDLogo_1.png",
+				"url": "https://wandering-oldman.github.io/doo-tv-sport/doo-tv-sport.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false
+},
+
 
 {
 "name"              :     "Acestream SPORT",
