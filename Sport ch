@@ -39,29 +39,36 @@
 
 
 {
-				"name": "♥ 🇹🇭 SPORTS 🇹🇭♥",
-				"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
-				"url": "https://wandering-oldman.github.io/sport/sport.html",
-				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
-				"import": false
+"name": "♥ 🇹🇭 SPORTS 🇹🇭♥",
+"image": "https://www.dropbox.com/scl/fi/33jpvpxm0g9k6dbtoonbb/small-sport-tv.jpg?rlkey=6jw8x2bnik61w7b9imarndgo1&dl=1",
+"url": "https://wandering-oldman.github.io/sport/sport.html",
+"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+"import": false
 },
 
 {
-				"name": "♥ 🇹🇭 Inter Sport 🇹🇭♥",
-				"image": "https://www.dropbox.com/s/wus3w689i5afxl9/inter-sport.jpg?dl=1",
-				"url": "https://wandering-oldman.github.io/daddy-hd/daddy-hd.html",
-				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
-				"import": false
+"name": "♥ 🇹🇭 Inter Sport 🇹🇭♥",
+"image": "https://www.dropbox.com/s/wus3w689i5afxl9/inter-sport.jpg?dl=1",
+"url": "https://wandering-oldman.github.io/daddy-hd/daddy-hd.html",
+"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+"import": false
 },
 
 {
-				"name": "♥ 🇹🇭 Sport by doo-tv 🇹🇭♥",
-				"image": "https://doo-tv.com/images/logo/ynTEpmClxZSu0TspXxApBlx780j0XjDLogo_1.png",
-				"url": "https://wandering-oldman.github.io/doo-tv-sport/doo-tv-sport.html",
-				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
-				"import": false
+"name": "♥ 🇹🇭 Sport by doo-tv 🇹🇭♥",
+"image": "https://doo-tv.com/images/logo/ynTEpmClxZSu0TspXxApBlx780j0XjDLogo_1.png",
+"url": "https://wandering-oldman.github.io/doo-tv-sport/doo-tv-sport.html",
+"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+"import": false
 },
 
+{
+"name": " Sport by XTEMUS TV 🇹🇭",
+"image": "https://tv.xtemus.com/images/x-logo.gif",
+"url": "https://playlist.xtemus.com/index.php?playlist=t256y454t415a4",
+"info": "",
+"import": false
+},
 
 {
 "name"              :     "Acestream SPORT",
