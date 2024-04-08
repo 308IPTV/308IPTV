@@ -625,14 +625,13 @@ https://youdooball.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="beinsport1 TH " tvg-name="beinsport1" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/so95hplwnpjfwaa/1664500365.png?dl=1",beinsport1
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.pro/
-https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
+https://dookeela.live/live-tv/bein1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="beinsport2 TH" tvg-name="beinsport2" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/19vlg6fspys12wk/images%20%286%29.jpeg?dl=1",beinsport2
-#EXTVLCOPT:http-referrer=https://livescorethai.tv/
-#EXTVLCOPT:http-referrer=https://livesod365.com/
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
+https://dookeela.live/live-tv/bein2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="beinsport3 TH" tvg-name="beinsport3" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/nhieh8e6p11p0w3/1663980670.png?dl=1",beinsport3
