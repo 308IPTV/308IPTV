@@ -629,15 +629,32 @@ https://youdooball.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8
 https://dookeela.live/live-tv/bein1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
+
+#EXTINF:-1 tvg-chno="7" tvg-id="beinsport1 TH BACKUP" tvg-name="beinsport1" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/so95hplwnpjfwaa/1664500365.png?dl=1",beinsport1
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="7" tvg-id="beinsport2 TH" tvg-name="beinsport2" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/19vlg6fspys12wk/images%20%286%29.jpeg?dl=1",beinsport2
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
 https://dookeela.live/live-tv/bein2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
+#EXTINF:-1 tvg-chno="7" tvg-id="beinsport2 TH BACKUP" tvg-name="beinsport2" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/19vlg6fspys12wk/images%20%286%29.jpeg?dl=1",beinsport2
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8
+
 #EXTINF:-1 tvg-chno="7" tvg-id="beinsport3 TH" tvg-name="beinsport3" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/nhieh8e6p11p0w3/1663980670.png?dl=1",beinsport3
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="beinsport3 TH BACKUP " tvg-name="beinsport3" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/nhieh8e6p11p0w3/1663980670.png?dl=1",beinsport3
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
 https://dookeela.live/live-tv/bein3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
 
 #EXTINF:-1 tvg-chno="7" tvg-id="beinsport4 TH" tvg-name="beinsport4" group-title="Digital TV" tvg-logo="https://www.dropbox.com/scl/fi/kg6dokoaki4kt6sboszvh/bein4.png?rlkey=pgfw4apw1vtw1rjs07gufoxgj&dl=1",beinsport4
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv
