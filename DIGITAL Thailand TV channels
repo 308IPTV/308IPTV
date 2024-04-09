@@ -336,8 +336,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KBS WORLD True " tvg-name="KBS WORLD True" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png",KBS WORLD True
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://www.ufazeed.co/
-https://edge-la.onlineprostream.com:8810/v5/BrixnFSuXku0ucZ2d9teYw/1712650967/9d3b08fef8eb0e0c8b0f811462cd249b/kS8ls3hVwGuet5ZE8KK2Qw/1712661647/live/dx-origin/th-kbsworld_720/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.ufazeed.co
+hhttps://edge-la.onlineprostream.com:8810/v5/BrixnFSuXku0ucZ2d9teYw/1712650967/9d3b08fef8eb0e0c8b0f811462cd249b/kS8ls3hVwGuet5ZE8KK2Qw/1712661647/live/dx-origin/th-kbsworld_720/playlist.m3u8
 
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TVN" tvg-name="TVN" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
