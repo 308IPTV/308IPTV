@@ -117,6 +117,19 @@ author:"Doofree Group",
 "import": false 
 },
 
+{
+"name": "ภาพยนต์",
+"image": "https://cdn.pixabay.com/photo/2016/03/31/18/36/cinema-1294496_1280.png",
+"url": "https://dl.dropboxusercontent.com/s/5nhluqbdc0k5ule51howo/slowmovie.m3u?rlkey=tjtmgvui98hwhhs0h1z2f3qqs&dl=0",
+"import":"true"
+},
+
+{
+"name": "ซีรี่ย์",
+"image": "https://i0.wp.com/www.korseries.com/wp-content/uploads/2022/12/song-joong-ki-cover-1.jpg?resize=1024%2C610&ssl=1",
+"url": "https://dl.dropboxusercontent.com/s/z9cgbg8vkqbuic3o7jkzq/.txt?rlkey=efzc0bhvg5r42ujdf0vmk3j40&dl=0",
+"import":"true"
+},
 
 {
 "name"              :     "หนังและละคร",
