@@ -350,7 +350,7 @@ https://dookeela.live/live-tv/iqiyi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-id="อั๊ยยะทีวี" tvg-name="อั๊ยยะทีวี" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGL9oAJE1sjvOBHrlo0LuarlK-KzJ6nPdOAA&usqp=CAU",อั๊ยยะทีวี
+#EXTINF:-1 tvg-chno="9" tvg-id="24/7 CHAINA MOViE" tvg-name="24/7 CHAINA MOViE" group-title="Digital TV" tvg-logo="https://images.saymedia-content.com/.image/t_share/MTc0MTY0ODM4OTgzOTM1NDg0/7-chinese-movies-you-should-watch-for-your-china-vacation.jpg",24/7 CHAINA MOViE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 
