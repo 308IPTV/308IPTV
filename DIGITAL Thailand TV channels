@@ -443,8 +443,8 @@ http://www.trueplookpanya.com/new/tv_live?var_link=720p
 
 #EXTINF:-1 tvg-chno="36" tvg-id="MIX TV" tvg-name="MIX TV" group-title="Digital TV" tvg-logo="https://img.inwiptv.net/postor/20231225115306mixtv.jpg",MIX TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=
-https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.inwiptv.com/
+https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/chunks.m3u8
 
 
 
