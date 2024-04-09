@@ -455,8 +455,8 @@ https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BBC EARTH" tvg-name="BBC EARTH" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/sd-bbcearth.png"group-title="Digital TV",BBC EARTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 VLC/3.0.9 LibVLC/3.0.9
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net"
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://tvsmagazine.com/images/channels/sm_024.jpg" group-title="Digital TV",Animal Planet
@@ -464,6 +464,11 @@ https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dookeela.live/live-tv/animal-planet
 
+
+#EXTINF:-1 tvg-id="DISCOVERY EN" tvg-name="DISCOVERY EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTWT9UdGUeGg1lSCy2u7PdQCGjpq8YDDlVXukCWxI8TEIEkKPIfs6mI0ueo8z1Dyonqc&usqp=CAU" group-title="Digital TV",DISCOVERY EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-discoveryeng.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY ASIA tvg-name="DISCOVERY ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png" group-title="Digital TV",DISCOVERY ASIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -500,11 +505,15 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC3/index.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
 
-#EXTINF:-0 tvg-id="NationalGeographic" tvg-name="" tvg-logo="https://dl.dropbox.com/s/3xym6jy2h7h0q2j/ng.png?dl=0" roup-title="Digital TV",National Geographic
+#EXTINF:-0 tvg-id="NationalGeographic" tvg-name="" tvg-logo="https://dl.dropbox.com/s/3xym6jy2h7h0q2j/ng.png?dl=0" group-title="Digital TV",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://dooball.tv/
 https://streaming.livescorethai.net/iptv/hd-natgeo.stream/chunks.m3u8
 
+#EXTINF:-0 tvg-id="DMAX (EN)" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmHnNwu3Pf9Ry5rGpFVsIZMoz6LZ2mlRWVfYiulJ_Xh0eTpDs8CEvBG7bN6qW3ecqNS4&usqp=CAU" group-title="Digital TV",DMAX (EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork" tvg-name="" tvg-logo="http://tvsmagazine.com/images/channels/sm_FNW.jpg" group-title="Digital TV",Food Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -806,10 +815,14 @@ https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 #EXTINF:-1 tvg-chno="7" tvg-id="LFCTV " tvg-name="MUTV" group-title="Digital TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
 https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|Referer=https://freetvdd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
+#EXTINF:-1 tvg-chno="7" tvg-id="WWE " tvg-name="WWE" group-title="Digital TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkuXLNFJ4hqecFiRynT-qxeTwl_hl98jTxG6ziQiESfQCCr7SC_5YAgZ7K2eYeKR2UZM&usqp=CAU",WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://edge2.laotv.la/live/WWE/index.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",T-Sports7
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
