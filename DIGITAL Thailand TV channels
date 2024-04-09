@@ -811,21 +811,27 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="7" tvg-id="MUTV" tvg-name="MUTV" group-title="Digital TV"  tvg-logo="https://i.imgur.com/rEKrUL5.png",MUTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
 https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-chno="7" tvg-id="RED BULL TV" tvg-name="RED BULL TV" group-title="Digital TV"  tvg-logo="https://ia903107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png",RED BULL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 
 #EXTINF:-1 tvg-chno="7" tvg-id="LFCTV " tvg-name="MUTV" group-title="Digital TV"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/LFC_TV_logo.png",LFCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
 https://streaming.livescorethai.net/iptv/uk-lfctv.stream/chunks.m3u8|Referer=https://freetvdd.com/
 
-#EXTINF:-1 tvg-chno="7" tvg-id="WWE " tvg-name="WWE" group-title="Digital TV"  tvg-logo="https://media.giphy.com/media/xUPGcunTzcUAHOm2g8/giphy.gif",WWE
+#EXTINF:-1 tvg-chno="7" tvg-id="WWE " tvg-name="WWE" group-title="Digital TV"  tvg-logo="https://media.giphy.com/media/xUPGcunTzcUAHOm2g8/giphy.gif",WWE NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://edge2.laotv.la/live/WWE/index.m3u8
 
-#EXTINF:-1 tvg-chno="7" tvg-id="WWE " tvg-name="WWE" group-title="Digital TV"  tvg-logo="https://media.giphy.com/media/xUPGcunTzcUAHOm2g8/giphy.gif",WWE BACKUP
+#EXTINF:-1 tvg-chno="7" tvg-id="WWE " tvg-name="WWE" group-title="Digital TV"  tvg-logo="https://media.giphy.com/media/xUPGcunTzcUAHOm2g8/giphy.gif",WWE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela.live/live-tv/wwe
 https://dookeela.live/live-tv/wwe
@@ -855,3 +861,7 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
 
+#EXTINF:-1 tvg-chno="18" tvg-id="CABLE 37 HD" tvg-name="CABLE 37 HD" group-title="Digital TV" tvg-logo="https://www.cablechannel37.com/upload/logo_img/logo-650ed98a515a3.png",CABLE 37 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
