@@ -553,8 +553,8 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="Mysci" tvg-logo="https://www.dropbox.com/s/yjykrexid0786lg/22-12-13-05-50-15-929_deco.jpg?dl=1",Mysci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/goodtv58_MYSci./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgMjoyOTozOCBQTSZoYXNoX3ZhbHVlPUhBTTA0UG53RU1HY2l2enVFVHpkRVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF85MDcxNg==
+#EXTVLCOPT:http-referrer=
+https://49-231-34-107-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
 
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="JustFun" tvg-logo="https://i.ibb.co/dsNNJ3L/Justfun.png",JustFun
