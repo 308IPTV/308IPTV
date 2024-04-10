@@ -198,8 +198,6 @@ author:"Doofree Group",
 },
 
 
-
-
 {
 "name"              :     "หนังไทย THAI MOVIES",
 "image"             :     "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
@@ -208,7 +206,7 @@ author:"Doofree Group",
 },
 
 {
-"name": "MOVIE THAI UPDATE  ",
+"name": "MOVIE THAI UPDATE ",
 "author":"กลุ่มแบ่งปัน ",
 "image":"https://i.postimg.cc/59v39cwM/movie-icon-15157.png",
 "url":"https://raw.githubusercontent.com/MrRobot07011997/wiseplay/main/movies",
@@ -222,9 +220,6 @@ author:"Doofree Group",
 "url": "https://pastebin.com/raw/H7P1Qr3e",
 "import": true
 },
-
-
-
 
 
 {
@@ -293,9 +288,6 @@ author:"Doofree Group",
 "url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
 "import": false 
 },
-
-
-
 
 
 { "name": "หนังใหม่",
@@ -369,10 +361,6 @@ author:"",
 "url": "https://pastebin.com/raw/cPeA9VGm",
 "import": false
 }, 
-
-{
- 
- 
 
 
 {
