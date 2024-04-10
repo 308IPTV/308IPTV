@@ -426,13 +426,16 @@ author:"",
 name	: "KOREᗩ 🇰🇷 ",
 image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
 url			: 	"https://drive.google.com/uc?id=1qmLhvFrxYnKnbJR4lSdI8f1bcSJuk3Rm"
+"import": true
 },
+
  
 {
 name		: "CHINᗩ 🇨🇳",
 author		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
 image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
 url			: 	"https://drive.google.com/uc?id=1qhtCTYYOvh46KzmBYFjHIFHAsqf-oyXb"
+"import": true
 },
  
  
@@ -441,21 +444,22 @@ name		: "INTER 🏴‍☠",
 image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
 author		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
 url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3"
+"import": true
 },
-
-
 
 {
 "name": " รวม Movie 1",
 "image": "https://sv1.picz.in.th/images/2021/12/01/6RO66l.jpg",
 "url": "https://drive.google.com/uc?id=19xrlpnj0HzP8XykAVfnmQTaBrNKRG8U0",
-                                                                                                                                                                                    "import": false},
+"import": true
+},                                                                                                                                                                                    "import": false},
 
                                                                                                    {
 "name": " รวม Series",
 "image": "https://sv1.picz.in.th/images/2021/12/19/6pkBNI.webp",
 "url": "https://bit.ly/3LxERYB",
-                                                                                                                                                                                       "import": false},
+ "import": true
+},                                                                                                                                                                                      "import": false},
 
 
 {
@@ -463,33 +467,39 @@ url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3"
 "author": "RaMielz",
 "image":"https://www.goodtipit.com/wp-content/uploads/2021/08/moives2022.jpg",
 "url": "https://freenote.biz/raw/HlsHYlzBiX",
-"import": "true"},
+"import": "true"
+},
 
 
 "name": "MOVIE",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://pastebin.com/cZ01eqEV",
 "import": false },
- {
+
+{
 "name": "SERIES",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://pastebin.com/re3i4xHy",
 "import": false },
+
 {
 "name": "🍄 หนังใหม่ v2 📽️",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://bit.ly/3ODcBHM",
 "import": false },
+
 {
 "name": "หนังไทย New 🤔 ",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://bit.ly/3qNFMQq",
 "import": false },
+
 {
 "name": "หนังใหม่ v1",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://bit.ly/3BgDH1b",
 "import": false },
+
 {
 "name": "หนังสงคราม",
 "image": "https://i.gifer.com/XiPu.gif",
