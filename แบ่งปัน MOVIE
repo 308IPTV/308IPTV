@@ -2,18 +2,9 @@
 "name": "สำหรับดูภายในบ้าน",
 "author": "สำหรับดูภายในบ้าน",
 "image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
-"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99%20MOVIE",
+"url": 
 "info": "หนังใหม่ใส่เอง",
 "groups": [
-
-{
-"name": "กด refresh 1 ครั้ง เพื่ออัพเดตช่อง",
-"image": "https://media.tenor.com/7gUwUBvlgqAAAAAM/red-button-spam.gif",
-"imageScale": "center",
-"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99%20MOVIE",
-"import": "true"
-},
-
 
 {
 "name": "MOVIE หนังรวมจากสมาชิกแบ่งปัน",
