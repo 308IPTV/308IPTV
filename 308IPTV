@@ -1,6 +1,6 @@
 {
-"name":"IPTVHOME.JONK",
-"author":"IPTV สำหรับดูภายในบ้าน",
+"name":"IPTVHOMESS:)",
+"author":"สำหรับดูภายในบ้านเท่านั้น",
 "image":"https://static.vecteezy.com/system/resources/previews/005/076/592/non_2x/hacker-mascot-for-sports-and-esports-logo-free-vector.jpg",
 "url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/308IPTV",
 "groups": [
@@ -218,18 +218,9 @@
 "url": "https://drive.google.com/uc?export=download&id=1fTi3XEFsZBY7X2gRKJf3-zs4U022ljrn"
 },
 
-
-{
-"name": " GOOD TV Channel",
-"image": "https://tv.co.th/wp-content/uploads/2019/11/goodtv-logo-2019-1.jpg",
-"url": "https://pastebin.com/raw/aZ61Xhw6",
-"import": true
-},
-
-
 {
 "name": "CARTOON Channel",
-"image": "https://yt3.googleusercontent.com/iIAVggrPoKaTEnmlp-9qVzpslOmo3_Qb83zhYziZyNfZO9XbBP-JDXv3qIl5O6_btlCnoVg4=s176-c-k-c0x00ffffff-no-rj?w=1380&t=st=1707999870~exp=1708000470~hmac=f3c6079179413041fb981d7fea98a468b0160345b91543c97c1f36488b96e9ac",
+"image": "https://www.animationkolkata.com/blog/wp-content/uploads/2016/08/tumblr_m4ksayhoaZ1qbbs8oo1_500.gif",
 "url": "https://drive.google.com/uc?export=download&id=1R8L6UzJPFXZlFUcc3cAVrHs5te-gvdEZ",
 "import": true
 },
@@ -263,6 +254,12 @@
 "import": "true"
 },
 
+{
+"name": " GOOD TV Channel",
+"image": "https://tv.co.th/wp-content/uploads/2019/11/goodtv-logo-2019-1.jpg",
+"url": "https://pastebin.com/raw/aZ61Xhw6",
+"import": true
+},
 
 
 {
