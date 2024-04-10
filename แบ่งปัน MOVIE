@@ -16,7 +16,7 @@
 
 
 {
-"name": "MOVIE หนังรวมจากสมาชิกแบ่งปัน ",
+"name": "MOVIE หนังรวมจากสมาชิกแบ่งปัน",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVSg3Cjt6iGTa8kL5NCViHeGOcYo-PDV8QHTFFPGTyELWSEm9Kd5fDeTx6iEe7tbIULPM&usqp=CAU",
 "url": "https://pastebin.com/raw/1efFjt9T",
 "import": "true"
@@ -271,7 +271,8 @@ author:"Doofree Group",
 },
 
 
-{ "name": "หนังใหม่",
+{ 
+"name": "หนังใหม่",
 "image": "https://img2.pic.in.th/pic/Movies.gif",
 "url" : "https://pastebin.com/raw/CRQwxiSw",
 "import": true
@@ -393,6 +394,7 @@ author:"",
  "url": "https://pastebin.com/raw/2satKKaC",
  "import": false
 }, 
+
 {
  "name":"ละครไทยจบแล้ว 2",
  "author": "",
@@ -444,7 +446,7 @@ url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3",
 
 {
 "name": " Movie 2022",
-"author": "RaMielz",
+"author": "",
 "image":"https://www.goodtipit.com/wp-content/uploads/2021/08/moives2022.jpg",
 "url": "https://freenote.biz/raw/HlsHYlzBiX",
 "import": "true"
@@ -454,84 +456,102 @@ url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3",
 "name": "MOVIE",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://pastebin.com/cZ01eqEV",
-"import": false },
+"import": false
+},
 
 {
 "name": "SERIES",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://pastebin.com/re3i4xHy",
-"import": false },
+"import": false 
+},
 
 {
 "name": "🍄 หนังใหม่ v2 📽️",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://bit.ly/3ODcBHM",
-"import": false },
+"import": false
+},
 
 {
 "name": "หนังไทย New 🤔 ",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://bit.ly/3qNFMQq",
-"import": false },
+"import": false 
+},
 
 {
 "name": "หนังใหม่ v1",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://bit.ly/3BgDH1b",
-"import": false },
+"import": false 
+},
 
 {
 "name": "หนังสงคราม",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://www.dropbox.com/scl/fi/knqsc0uxa1umj00umdhqz/.w3u?rlkey=35m1l7biqackcd3qgxdu10954&dl=1",
-"import": false },
+"import": false 
+},
+
 {
 "name": "การ์ตูน",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://bit.ly/440LIE1",
-"import": false },
+"import": false 
+},
+
 {
 "name": "หนังเก่า 2022",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://www.dropbox.com/s/fek5bl3qnguc6ed/________-2022.txt.w3u?dl=1",
-"import": false },
+"import": false 
+},
+
 {
 "name": "หนังเก่า 2021",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://www.dropbox.com/s/n5x41q1gaob85uq/________-2021.txt.w3u?dl=1",
-"import": false },
+"import": false 
+},
+
 {
 "name": "หนังเก่า 2020",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://www.dropbox.com/s/ex12w1rv6064yah/________-2020.txt.w3u?dl=1",
-"import": false },
+"import": false
+},
+
 {
 "name": "หนังเก่า 2019",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://www.dropbox.com/s/s8sve546zyg6gq1/________-2019.txt.w3u?dl=1",
-"import": false },
+"import": false 
+},
+
 {
 "name": "Western หนังตะวันตก(คาวบอย) ",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://www.dropbox.com/s/ee6m7nl4jvx9rj4/Movie_western.w3u?dl=1",
-"import": false },
+"import": false 
+},
+
 {
 "name": "หนังอินเดีย",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://www.dropbox.com/s/07h5tx07u603i24/Movie_nung2hdd_cinema-india.w3u?dl=1",
-"import": false },
+"import": false
+},
+
 {
 "name": "หนังThai",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://www.dropbox.com/s/h74q4895pahhbm1/123-hd_%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.w3u.txt?dl=1",
 "import": false 
-  },
-]}
- 
- 
- 
- 
- 
- 
- 
-]}
+},
+
+
+]                                                    
+}
+]                                                    
+}
