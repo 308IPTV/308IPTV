@@ -158,14 +158,6 @@ author:"Doofree Group",
 },
 
 {
-"name"              :     "🎞link ชาวบ้าน Series คุณ อุ๋งๆ",
-"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
-"url"               :     "https://raw.githubusercontent.com/main-main-main/main/main-main-main-main-main-main-main-main-main-main-main/main/main/main/main/main/main/%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%20%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7.txt",
-"import": false
-},
- 
-
-{
 "name"              :     "🎞link ชาวบ้านMovie",
 "image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
 "url"               :     "https://pastebin.com/p0tB8rKx",
@@ -175,7 +167,7 @@ author:"Doofree Group",
 {
 "name"              :     "🎞link ชาวบ้าน LuxdoTV",
 "image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
-"url"               :     "https://pastebin.com/p0tB8rKx",
+"url"               :     "https://pastebin.com/raw/p0tB8rKx",
 "import": false
 },
 
@@ -190,7 +182,7 @@ author:"Doofree Group",
 {
 "name"              :     "หนังไทย THAI MOVIES",
 "image"             :     "https://img5.pic.in.th/file/secure-sv1/imagesc45866c90bd67932.jpeg",
-"url"               :     "https://pastebin.com/UsdwcUuU",
+"url"               :     "https://pastebin.com/raw/UsdwcUuU",
 "import": true
 },
 
@@ -338,7 +330,6 @@ author:"Doofree Group",
 {
 "name": "วาไรตี้ ไทย ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSHVzCHfmZdreBR9Y7Eyiy0J3y3i0WCmYuYA&usqp=CAU",
-"imageScale": "centerCrop",
 "url": "https://bit.ly/3D87DNp",
 "import": false 
 },
@@ -443,7 +434,7 @@ url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3",
 "import": true
 },                                                                                                                                                                                    "import": false},
 
-                                                                                                   {
+{                                                                                                   {
 "name": " รวม Series",
 "image": "https://sv1.picz.in.th/images/2021/12/19/6pkBNI.webp",
 "url": "https://bit.ly/3LxERYB",
@@ -459,7 +450,7 @@ url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3",
 "import": "true"
 },
 
-
+{
 "name": "MOVIE",
 "image": "https://i.gifer.com/XiPu.gif",
 "url": "https://pastebin.com/cZ01eqEV",
