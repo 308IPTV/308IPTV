@@ -350,11 +350,11 @@ https://vcdnjt.useetv.com/dass/15/tvnmovies/chunklist_w810050621_b1344100_sleng.
 
 #EXTINF:-1 tvg-chno="19" tvg-id="K+ Movies" tvg-name="K+ Movies" group-title="Digital TV" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png",K+ Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36 
-http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8 "playInNatPlayer": "true"
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KIK Movies" tvg-name="KIK Movies" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQA1oji12SCp8z2dNiPpImTAQVjci2TVozg&usqp=CAU",KIK Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-http://210.210.155.37/dr9445/h/h07/index.m3u8
+http://210.210.155.37/dr9445/h/h07/index.m3u8 "playInNatPlayer": "true"
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Star Movies" tvg-name="Star Movies" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
