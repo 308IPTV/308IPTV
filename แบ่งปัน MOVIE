@@ -1,10 +1,10 @@
 {
 "name": "สำหรับดูภายในบ้าน",
-"author": "สำหรับดูภายในบ้าน",
+"author": "ภายในบ้าน",
 "image": "https://i0.wp.com/media2.giphy.com/media/3osxYzXXuBSzXZ1Np6/giphy.gif",
 "url": 
 "info": "หนังใหม่ใส่เอง",
-"groups": [
+"groups":[
 
 {
 "name": "MOVIE หนังรวมจากสมาชิกแบ่งปัน",
@@ -128,7 +128,7 @@
 {
 "name":"ห้อง Doofree Group",
 "author":"Doofree Group",
-"image": "https://as1.ftcdn.net/v2/jpg/00/48/77/62/1000_F_48776224_v6cVcAuCgfdq4RvCHBXBiU7WtbdZBFBw.jpg",
+"image":"https://as1.ftcdn.net/v2/jpg/00/48/77/62/1000_F_48776224_v6cVcAuCgfdq4RvCHBXBiU7WtbdZBFBw.jpg",
 "url": "https://bit.ly/46kCZym",
 "import": "true"
 },
@@ -426,15 +426,14 @@
 "image": "https://sv1.picz.in.th/images/2021/12/01/6RO66l.jpg",
 "url": "https://drive.google.com/uc?id=19xrlpnj0HzP8XykAVfnmQTaBrNKRG8U0",
 "import": true
-},                                                                                                                                                                                    "import": false},
+}, 
 
-{                                                                                                   {
+{                                                                                                  
 "name": " รวม Series",
 "image": "https://sv1.picz.in.th/images/2021/12/19/6pkBNI.webp",
 "url": "https://bit.ly/3LxERYB",
  "import": true
-},                                                                                                                                                                                      "import": false},
-
+},                                                                                                                                                                                     
 
 {
 "name": " Movie 2022",
@@ -541,8 +540,12 @@
 "url": "https://www.dropbox.com/s/h74q4895pahhbm1/123-hd_%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.w3u.txt?dl=1",
 "import": false 
 },
+]}
 
-]}
-]}
-]}
+
+
+
+
+
+
 ]}
