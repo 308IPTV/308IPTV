@@ -337,8 +337,8 @@ author:"Doofree Group",
 },
 
 {
-name:"ฟ้ามีตา",
-author:"",
+"name":"ฟ้ามีตา",
+"author":"",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQY-L8N4BU0s4J1mP-OJ2MmrbyAKCCKm-rg&usqp=CAU",
 "url": "https://pastebin.com/raw/cPeA9VGm",
 "import": false
@@ -406,27 +406,27 @@ author:"",
 
 
  {
-name	: "KOREᗩ 🇰🇷 ",
-image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
-url			: 	"https://drive.google.com/uc?id=1qmLhvFrxYnKnbJR4lSdI8f1bcSJuk3Rm",
+"name"	: "KOREᗩ 🇰🇷 ",
+"image"	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
+"url"			: 	"https://drive.google.com/uc?id=1qmLhvFrxYnKnbJR4lSdI8f1bcSJuk3Rm",
 "import": true
 },
 
  
 {
-name		: "CHINᗩ 🇨🇳",
-author		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
-image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
-url			: 	"https://drive.google.com/uc?id=1qhtCTYYOvh46KzmBYFjHIFHAsqf-oyXb",
+"name"		: "CHINᗩ 🇨🇳",
+"author"		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
+"image"	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
+"url"			: 	"https://drive.google.com/uc?id=1qhtCTYYOvh46KzmBYFjHIFHAsqf-oyXb",
 "import": true
 },
  
  
 {
-name		: "INTER 🏴‍☠",
-image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
-author		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
-url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3",
+"name"		: "INTER 🏴‍☠",
+"image"	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
+"author"		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
+"url"			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3",
 "import": true
 },
 
