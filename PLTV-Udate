@@ -1,20 +1,10 @@
+#EXTM3U
+
+
 tvg="https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml,https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml,https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/italy.xml,https://www.bevy.be/bevyfiles/italypremium.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml,https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/serbia.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml,https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/spain.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/georgia.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/netherlandspremium.xml,https://raw.githubusercontent.com/Playidturl1/epgtv/main/tv.trueid.net.xml,https://raw.githubusercontent.com/Playidturl1/streams/master/epg/local/guide.xml, http://playidtvtv.42web.io/w3u/thailand.xml?i=2, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://raw.githubusercontent.com/Playidturl1/PLAYIDTV/master/thaiepg.xml.epg, http://keereeboon.streaming-fast.com/TIVIMATE/guide.xml, "refresh="3600"
 "url="https://rebrand.ly/Ott1234"
 
-```````
 
-
-`` เราไม่มีอะไรเลย ''
-
-``จากอินเทอร์เน็ตกลับสู่อินเทอร์เน็ต''
-
-``ฟรี. ไม่ขาย.``
-
-``ความมีน้ำใจมีม่''
-"""อัพเดทล่าสุด 2/10/23 เวลา 05:20"”
-
-
-```````
 
 ''
 
@@ -22,7 +12,9 @@ tvg="https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,http
 ลิงค์ทั้งหมดหามาจากเว็บดูทีวี/ดูบอลสดต่างๆ
 ห้ามเอาลิงค์ของผมไปขาย 
 ลิงค์ของผมดูฟรีอย่างเดียวเห็นลิงค์ของผมแจ้งมาได้กลุ่มไลน์ M3U W3U IPTV" โปรดแตะลิงก์ด้านล่างเพื่อเข้าร่วมโอเพนแชทนี้
-https://line.me/ti/g2/CRCoIAB0u4Ejm1CKkrtab-pElU6EHMfjUcsl_Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/AsianGames_IconTV.png",
+https://line.me/ti/g2/CRCoIAB0u4Ejm1CKkrtab-pElU6EHMfjUcsl_Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default
+#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/AsianGames_IconTV.png",
+#EXTM3U
 
 #EXTINF:-1 tvg-chno="2" tvg-id="NBT2.th" tvg-name="NBT HD" tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.jpg" group-title="FREETV",NBT2(AISPLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
