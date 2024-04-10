@@ -134,8 +134,6 @@ author:"xxxfreexxx",
 "import": "true"
 },
 
-
-
 {
 name:"ห้อง Doofree Group",
 author:"Doofree Group",
@@ -187,15 +185,6 @@ author:"Doofree Group",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
 "import": false
 }, 
-
-
-{
-"name": "https://pastes.io/raw/agv5ekoc9f",
-"author": "UPDATE 28/01/2024",
-"image": "https://img2.pic.in.th/pic/06Movies-2.jpeg",
-"url": "https://freenote.biz/raw/jVgKALRvtd",
-"import": "true"
-},
 
 
 {
@@ -425,7 +414,7 @@ author:"",
  {
 name	: "KOREᗩ 🇰🇷 ",
 image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
-url			: 	"https://drive.google.com/uc?id=1qmLhvFrxYnKnbJR4lSdI8f1bcSJuk3Rm"
+url			: 	"https://drive.google.com/uc?id=1qmLhvFrxYnKnbJR4lSdI8f1bcSJuk3Rm",
 "import": true
 },
 
@@ -434,7 +423,7 @@ url			: 	"https://drive.google.com/uc?id=1qmLhvFrxYnKnbJR4lSdI8f1bcSJuk3Rm"
 name		: "CHINᗩ 🇨🇳",
 author		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
 image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
-url			: 	"https://drive.google.com/uc?id=1qhtCTYYOvh46KzmBYFjHIFHAsqf-oyXb"
+url			: 	"https://drive.google.com/uc?id=1qhtCTYYOvh46KzmBYFjHIFHAsqf-oyXb",
 "import": true
 },
  
@@ -443,7 +432,7 @@ url			: 	"https://drive.google.com/uc?id=1qhtCTYYOvh46KzmBYFjHIFHAsqf-oyXb"
 name		: "INTER 🏴‍☠",
 image	: "https://image.winudf.com/v2/image/Y29tLmVsYWJzZGV2YnJhemlsLnNlcmllc3R2X3NjcmVlbl8wXzE1MTI2OTYyMDlfMDA4/screen-0.jpg?fakeurl=1&type=.webp",
 author		: "3ᓮᖇↁ.ᵀᵉᵃᵐ",
-url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3"
+url			: 	"https://drive.google.com/uc?id=1qkm-oY1BKzn8afmWKAnIbr_mvFWQp8B3",
 "import": true
 },
 
