@@ -5,7 +5,31 @@ author             : "Backups",
 "image"            : "",
 "url"              : "https://raw.githubusercontent.com/308IPTV/308IPTV/main/ZBackup",
 "groups": [
+
+
+{
+"name"              :     "🎞link ชาวบ้านMovie",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
+"url"               :     "https://pastebin.com/p0tB8rKx",
+"import": false
+},
  
+{
+"name"              :     "🎞link ชาวบ้าน LuxdoTV",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
+"url"               :     "https://pastebin.com/raw/p0tB8rKx",
+"import": false
+},
+
+{
+"name": "Movie Channel",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIiY8kA9bvJesP3mEnV21O2FXoCTVq-wRSdw&usqp=CAU",
+"url": "https://pastebin.com/J6H7a6AP",
+"import": "true"
+},
+ 
+
+
 {
 "name": "P0P-PUPPS TVVVS ",
 "author": "UPDATE 27/03/2024",
@@ -21,19 +45,6 @@ author             : "Backups",
 "import": "true"
 },
  
-{
-"name"              :     "🎞link ชาวบ้านMovie",
-"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
-"url"               :     "https://pastebin.com/p0tB8rKx",
-"import": false
-},
- 
-{
-"name"              :     "🎞link ชาวบ้าน LuxdoTV",
-"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
-"url"               :     "https://pastebin.com/raw/p0tB8rKx",
-"import": false
-},
 
 {
 "name"              :     "Movie & Series",
