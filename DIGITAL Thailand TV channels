@@ -217,15 +217,8 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=h
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/5z6043nz5ygojxd/22-12-14-05-42-24-605_deco.jpg?dl=1",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzoxMzoxMCBBTSZoYXNoX3ZhbHVlPU5CV3daVnVnbklMWmVJQlRIL3RDTEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF80NzExOA==
-
-
-#EXTINF:-1 tvg-chno="17" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/5z6043nz5ygojxd/22-12-14-05-42-24-605_deco.jpg?dl=1",True Film 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjQgNzoxMzoxMCBBTSZoYXNoX3ZhbHVlPU5CV3daVnVnbklMWmVJQlRIL3RDTEE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAwMDAmc3RybV9sZW49MCZpZD1jaF80NzExOA==
-
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NTI6MTQgQU0maGFzaF92YWx1ZT1SQTNyRlVsUzlsM2RpSlFhSWM3N2J3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjM4ODM=
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Thai Film" tvg-name="True Thai Film" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/j92gxflqy1uodt7/22-12-14-05-44-03-451_deco.jpg?dl=1",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -374,13 +367,27 @@ https://dookeela.live/live-tv/dkl-movies#
 https://dookeela.live/live-tv/iqiyi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
+
+
 #EXTINF:-1 tvg-chno="9" tvg-id="Jomyut" tvg-name="Jomyut" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/j6S1654245.png",Jomyut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 http://49.0.87.24:1936/HDJomyut/Jomyut/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="9" tvg-id="24/7 CHAINA MOViE" tvg-name="24/7 CHAINA MOViE" group-title="Digital TV" tvg-logo="https://images.saymedia-content.com/.image/t_share/MTc0MTY0ODM4OTgzOTM1NDg0/7-chinese-movies-you-should-watch-for-your-china-vacation.jpg",24/7 CHAINA MOViE
+#EXTINF:-1 tvg-chno="9" tvg-id="CELESTIAL MOVIES" tvg-name="CELESTIAL MOVIES" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/iXYp654249.png"",CELESTIAL MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-id="XING KONG" tvg-name="XING KONG" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/1x47667138.png"",XING KONG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC13/index.m3u8
+
+#EXTINF:-1 tvg-chno="9" tvg-id="LOTUS MACAU" tvg-name="LOTUS MACAU" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/QsyE667141.png"",LOTUS MACAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
+
 
 #EXTINF:-1 tvg-chno="19" tvg-id="หนังจีนเก่า" tvg-name="หนังจีนเก่า" group-title="Digital TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png",หนังจีนเก่า LIVE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -392,22 +399,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
 #EXTVLCOPT:http-referrer=
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb573d1c7f6c648c9ad43e62cef24582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f9e75b14da38f4e0011e9c7d17fa83439c8101ead5870f8310d727a3119ac0f782804281e4df598b6f11d40b224049b1c211a7c15cbfd69b673dee1e42243f66966817632c46e2665055f985bfd7977211bce707806e30fb228d4ec4048264a40ee59526045eb9ad20106bdeae756e29b4eda188ee273af70191c7b88c222dc9a4561022b8fabe1dd31425b6eb6dd79046c5e558bc94237119d39844d4bfb38de8bb8241a6e8abadfbb53258476f0803c908ecca2d931ed476acc104321c6370edcb058ad6821e076b41d0d405940b4ded92cba2cf1e37cf571e58c369cd14503f9b7a3f2aa565d2b20841a56a4a893c36fe18128541f7b765b584d3f70936b0919610ac21bffb5a9ca6429a6c3a5810babd790c12022e869c13675a4eca4be0dcddf23758509e90e3ca80026849696d1166edc5e87f9c82c5536d35c941296d71505ad633df67db0f5e136cae3ad6bf02608a162b4eb7f06e453bec2341d3a2d1e5f05dd652d097e92c8f/171/1920x1080_4716800/index.m3u8
 
-
-#EXTINF:-1 tvg-chno="15" tvg-id="OrbitTV." tvg-name="OrbitTV" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqm2hP_T_-Uu7TIR7h3BtVXY4iHEAMLv7bKg&usqp=CAU",OrbitTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
-
-#EXTINF:-1 tvg-chno="15" tvg-id="MovieON+" tvg-name="MovieON+" group-title="Digital TV" tvg-logo="https://i.ibb.co/ZLYNxpD/removal-ai-tmp-6171c030c3aa8.png",MovieON+rakuten-family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36 
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="15" tvg-id="My Cinema" tvg-name="My Cinema" group-title="Digital TV" tvg-logo="https://i.postimg.cc/Bngw058x/MCA.png",My Cinema samsungmexico
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="15" tvg-id=" 247 tv Cinema" tvg-name="247 tvCinema" group-title="Digital TV" tvg-logo="https://i.postimg.cc/Bngw058x/MCA.png",247 tv Cinema 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-https://hls.247box.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-id="  HOLLYWOOD HD" tvg-name=" HOLLYWOOD HD" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oRTYwLijBBuX5kWMnggskwHOv8txDqD-mQ&usqp=CAU", HOLLYWOOD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
@@ -462,8 +453,13 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/.m3u8
 
 #EXTINF:-1 tvg-id="BBCLifestyle.th" tvg-name="BBC Lifestyle" tvg-logo="https://dl.dropbox.com/s/8ou6wgo4nokgc1x/bbclifestyle.png?dl=0"group-title="Digital TV",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-bbclifestyle.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTI6MDI6NDMgUE0maGFzaF92YWx1ZT12bVBHZU5nUnpVQmNKQW5XZkhJM0p3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzQ1NjY=
+
+#EXTINF:-1 tvg-id="BBCLifestyle.th" tvg-name="BBC Lifestyle" tvg-logo="https://dl.dropbox.com/s/8ou6wgo4nokgc1x/bbclifestyle.png?dl=0"group-title="Digital TV",BBC Lifestyle BACKUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 
+#EXTVLCOPT:http-referrer=
+https://distractible-smile.000webhostapp.com/channel/play/bbclifestyle.m3u8
 
 #EXTINF:-1 tvg-id="BBC EARTH" tvg-name="BBC EARTH" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/sd-bbcearth.png"group-title="Digital TV",BBC EARTH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 
