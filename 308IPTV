@@ -159,7 +159,6 @@
 {
 "name": "IPTV📺เพลย์ลิสต์ ทีวี TRUE-AIS",
 "image": "https://scontent.fbkk29-4.fna.fbcdn.net/v/t39.30808-6/310275082_434285532193897_8565945897712224221_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=C3IiI3eo7FsAX-RmU6D&_nc_ht=scontent.fbkk29-4.fna&oh=00_AfA_wxf7X4jbJMpow6NPXlu8dyj_XVumBUV9dCG3EMZpnQ&oe=65D8B69F",
-"epg": "https://playidtv.vercel.app/ais/guide.xml",
 "url": "https://dl.dropboxusercontent.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
 "import": true
 }, 
