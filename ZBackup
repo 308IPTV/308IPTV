@@ -6,7 +6,16 @@ author             : "Backups",
 "url"              : "https://raw.githubusercontent.com/308IPTV/308IPTV/main/ZBackup",
 "groups": [
  
- 
+
+{
+"name": "ดูกีฬาSTADIUM-SPORTS ",
+"author": "Super326",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://freenote.biz/raw/l9uscgiutd",
+"info": "",
+"import": false
+},
+
 {
 "name"              :     "Movie & Series",
 "image"             :     "https://sv1.picz.in.th/images/2023/03/01/ef5LdJ.gif",
