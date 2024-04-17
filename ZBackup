@@ -7,14 +7,6 @@ author             : "Backups",
 "groups": [
  
 
-{
-"name": "ดูกีฬาSTADIUM-SPORTS ",
-"author": "Super326",
-"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
-"url": "https://freenote.biz/raw/l9uscgiutd",
-"info": "",
-"import": false
-},
 
 {
 "name"              :     "Movie & Series",
@@ -149,6 +141,24 @@ author             : "Backups",
 "image": "https://img.lovepik.com/element/40120/8318.png_300.png",
 "url": "https://freenote.biz/raw/RqMF2R9h46",
 "import": true
+},
+
+{
+"name": "ดูกีฬาSTADIUM-SPORTS ",
+"author": "Super326",
+"image": "https://img5.pic.in.th/file/secure-sv1/S__33333250.jpeg",
+"url": "https://freenote.biz/raw/l9uscgiutd",
+"info": "",
+"import": false
+},
+
+
+{
+"name": "Happy PLAYLIST",
+"author": "....... ",
+"image": "https://uppic.cloud/ib/t2xTUmSHdP.gif",
+"url": "https://freenote.biz/raw/pKhYLNFEZI",
+"import": false
 },
  
 ]
