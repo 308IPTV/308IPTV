@@ -156,7 +156,13 @@
 "import": true
 },
 
-
+{
+"name": "IPTV📺เพลย์ลิสต์ ทีวี TRUE-AIS",
+"image": "https://dl.dropbox.com/scl/fi/yafwjxwddyi65cu255a27/W3Uupdate.png?rlkey=4qi2rkk2ycyak15ntzx8mj9uo&dl=1",
+"epg": "https://playidtv.vercel.app/ais/guide.xml",
+"url": "https://dl.dropboxusercontent.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
+"import": true
+}, 
 
 {
 "name": "IPTV Socity 2024",
