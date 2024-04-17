@@ -158,7 +158,7 @@
 
 {
 "name": "IPTV📺เพลย์ลิสต์ ทีวี TRUE-AIS",
-"image": "https://dl.dropbox.com/scl/fi/yafwjxwddyi65cu255a27/W3Uupdate.png?rlkey=4qi2rkk2ycyak15ntzx8mj9uo&dl=1",
+"image": "https://scontent.fbkk29-4.fna.fbcdn.net/v/t39.30808-6/310275082_434285532193897_8565945897712224221_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=C3IiI3eo7FsAX-RmU6D&_nc_ht=scontent.fbkk29-4.fna&oh=00_AfA_wxf7X4jbJMpow6NPXlu8dyj_XVumBUV9dCG3EMZpnQ&oe=65D8B69F",
 "epg": "https://playidtv.vercel.app/ais/guide.xml",
 "url": "https://dl.dropboxusercontent.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
 "import": true
@@ -188,7 +188,7 @@
 }, 
 
 {
-"name": "PLAYIDTV UPDATE",
+"name": "PLAYIDTV UPDATE RED24",
 "image": "https://dl.dropbox.com/scl/fi/49radlpos0jy63mlh5wj7/bat.jpg?rlkey=gunr6uspkfh974165de1m28rm&dl=0",
 "url": "https://dl.dropboxusercontent.com/s/v63aervv93l2cq1/playidtvlink.w3u",
 "import": "true"
@@ -218,6 +218,15 @@
    "info": "Free IPTV ผู้เฒ่าพเนจร",
 "import": "true"
 },
+
+{
+"name": "Luxdo Streaming TV PL",
+"author": "Luxdo TheMovieS Update 16/07/66 ",
+"image": "https://drive.google.com/uc?id=19oeAX0kf_LxYofdD-G0vj9UPCHdLpHMr",
+"url": "https://pastebin.com/raw/uxC5vqSe",
+"import": "true"
+},
+
 
 {
 "name": " DOCUMENTARY สารคดี ",
@@ -284,13 +293,6 @@
 },
 
 {
-"name": "TrueVisions NOW ",
-"image": "https://www.truevisions.co.th/static/50701d8d-441d-43bd-8464-9952d134de73.png",
-"url": "https://pastebin.com/raw/H8nF9bSs",
-"import": true
-},
-
-{
 "name": "World newsข่าวต่างประเทศ",
 "image": "https://i.gifer.com/14u9.gif",
 "url": "https://drive.google.com/uc?export=download&id=1jmHc88NSD92R1GRfEeuoHKSQjQH2iEM6",
@@ -304,12 +306,6 @@
 "import": true
 },
 
-{
-"name": "World MOVIE entertainment Television Channel  ",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVhaQDz7zNwGn_WT9akRsywxTZoIZrS7kNiNryQ9SQhAfQ5cMcTlceKSRFcT-OAjUG32c&usqp=CAU",
-"url": "https://iptv-org.github.io/iptv/categories/entertainment.m3u",
-"import": true
-}, 
  
 {
 "name": "Entertainment",
@@ -334,14 +330,6 @@
 "import": true
 },
 
-
-{
-"name": "Luxdo Streaming TV PL",
-"author": "Luxdo TheMovieS Update 16/07/66 ",
-"image": "https://drive.google.com/uc?id=19oeAX0kf_LxYofdD-G0vj9UPCHdLpHMr",
-"url": "https://pastebin.com/raw/uxC5vqSe",
-"import": "true"
-},
 
 
 {
