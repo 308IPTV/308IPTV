@@ -28,14 +28,14 @@
 }, 
 
 {
-"name": "MOVIE Channel ALL ",
+"name": "ช่องดูหนัง MOVIE Channel Collection  ",
 "image": "https://www.icegif.com/wp-content/uploads/2023/04/icegif-573.gif",
 "url": "https://drive.google.com/uc?export=download&id=18xI6wlTPQK7OkOd9BlI5i7s74pA3IojH",
 "import": true
 }, 
 
 {
-"name": "กลุ่มปันใจ ปันสุข ฯลฯ ช่อง ONLINE",
+"name": "กลุ่มปันใจ ปันสุข ฯลฯ ",
 "image": "https://uppic.cloud/ib/L4lzHCLVWm.png",
 "url": "https://pastebin.com/raw/74DCsKWX",
 "import": true
@@ -43,7 +43,7 @@
 
 
 {
-"name": "TV ALL ONLINE รวมทุกช่อง ",
+"name": "TV ALL Collection รวมทุกช่อง ",
 "image": "https://www.48hourslogo.com/48hourslogo_data/2019/08/05/87279_1565008131.jpg",
 "url": "https://pastebin.com/raw/EUvqESDt",
 "import": true
@@ -58,7 +58,7 @@
 }, 
 
 {
-"name":"GROUP หนัง-ซีรีย์  MOVIES ",
+"name":"GROUP หนัง-ซีรีย์  MOVIES Collection ",
 "author":" เพื่อความบันเทิงฟรีฟรี ",
 "info": "",   
 "image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
@@ -167,7 +167,7 @@
 
 {
 "name": "(IPTV UPDDATE-MOVIE )",
-"author":"(♥ 🇹🇭 IPTV UPDDATE 🇹🇭♥)",
+"author":"( IPTV UPDDATE )",
 "image":"https://avatars.githubusercontent.com/u/100044137?v=4",
 "url":"https://raw.githubusercontent.com/308IPTV/308IPTV/main/PLTV-Udate",
 "import": "true"
@@ -177,6 +177,7 @@
 "name": "PLAYIDTV 2024 ",
 "image": "https://avatars.githubusercontent.com/u/100044137?v=4",
 "url": "https://pastebin.com/raw/E4nGt1fK",
+"info":"Update 04-2024",
 "import": true
 }, 
 
