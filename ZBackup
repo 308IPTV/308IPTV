@@ -6,7 +6,34 @@ author             : "Backups",
 "url"              : "https://raw.githubusercontent.com/308IPTV/308IPTV/main/ZBackup",
 "groups": [
  
-
+{
+"name": "P0P-PUPPS TVVVS ",
+"author": "UPDATE 27/03/2024",
+"image": "https://lastfm.freetls.fastly.net/i/u/500x500/8bc78195d5b54e20845d2830f16c0651.jpg",
+"url": "https://pastebin.com/raw/DvZz5034",
+"import": "true"
+},
+ 
+{ 
+"name": "ดูหนังซีรีย์ออนไลน์", 
+"image": "https://dl.dropbox.com/scl/fi/b5wikc187cqww9378cc1x/20240328_160859.png?rlkey=uu322pqug0s3fjkeyfmgyls6x&dl=0", 
+"url": "https://dl.dropbox.com/s/m21l3fbh4h5tfxs/testplay.w3u?dl=0",
+"import": "true"
+},
+ 
+{
+"name"              :     "🎞link ชาวบ้านMovie",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
+"url"               :     "https://pastebin.com/p0tB8rKx",
+"import": false
+},
+ 
+{
+"name"              :     "🎞link ชาวบ้าน LuxdoTV",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
+"url"               :     "https://pastebin.com/raw/p0tB8rKx",
+"import": false
+},
 
 {
 "name"              :     "Movie & Series",
@@ -82,34 +109,6 @@ author             : "Backups",
 "import": "true"
 },
  
-{
-"name": "P0P-PUPPS TVVVS ",
-"author": "UPDATE 27/03/2024",
-"image": "https://lastfm.freetls.fastly.net/i/u/500x500/8bc78195d5b54e20845d2830f16c0651.jpg",
-"url": "https://pastebin.com/raw/DvZz5034",
-"import": "true"
-},
- 
-{ 
-"name": "ดูหนังซีรีย์ออนไลน์", 
-"image": "https://dl.dropbox.com/scl/fi/b5wikc187cqww9378cc1x/20240328_160859.png?rlkey=uu322pqug0s3fjkeyfmgyls6x&dl=0", 
-"url": "https://dl.dropbox.com/s/m21l3fbh4h5tfxs/testplay.w3u?dl=0",
-"import": "true"
-},
- 
-{
-"name"              :     "🎞link ชาวบ้านMovie",
-"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
-"url"               :     "https://pastebin.com/p0tB8rKx",
-"import": false
-},
- 
-{
-"name"              :     "🎞link ชาวบ้าน LuxdoTV",
-"image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
-"url"               :     "https://pastebin.com/raw/p0tB8rKx",
-"import": false
-},
 
 {
 "name": "TV ALL ONLINE รวมทุกช่อง ",
