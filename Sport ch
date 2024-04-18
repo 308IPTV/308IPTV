@@ -112,26 +112,6 @@
 "import": false
 }, 
 
-{"name":"PREMIER 1","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24712c40-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dooball2you.com/live/tpf1/","referer":"https://dooball2you.com/"},
-{"name":"PREMIER 2","image": "https://cms.dmpcdn.com/livetv/2022/01/12/24cc6ba0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dooball2you.com/live/tpf2/","referer":"https://dooball2you.com/"},
-{"name":"PREMIER 3","image": "https://cms.dmpcdn.com/livetv/2022/01/12/251d71d0-7374-11ec-91d2-797a50c5a656_webp_320.png","url": "https://dooball2you.com/live/tpf3/","referer":"https://dooball2you.com/"},
-{"name":"PREMIER 4","image": "https://cms.dmpcdn.com/livetv/2022/01/12/257296b0-7374-11ec-b576-afbb0a1303ef_webp_320.png","url": "https://dooball2you.com/live/tpf4/","referer":"https://dooball2you.com/"},
-{"name":"PREMIER 5","image": "https://cms.dmpcdn.com/livetv/2019/07/31/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_320.png","url": "https://dooball2you.com/live/tpf5/","referer":"https://dooball2you.com/"},
-{"name":"TRUE SPORT 1","image": "https://img2.pic.in.th/pic/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd1/","referer": "https://dooball2you.com/"},
-{"name":"TRUE SPORT 2","image": "https://img.a4h6.c18.e2-4.dev/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.png","url": "https://dooball2you.com/truesporthd2/","referer": "https://dooball2you.com/"},
-{"name":"TRUE SPORT 3","image": "https://img2.pic.in.th/pic/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesporthd3/","referer":"https://dooball2you.com/"},
-{"name":"TRUE SPORT 4","image": "https://img.a4h6.c18.e2-4.dev/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png","url":  "https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8", "referer": "https://freetvdd.com/"},
-{"name":"TRUE SPORT 5","image": "https://img2.pic.in.th/pic/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp","url": "https://dooball2you.com/live/truesport5/","referer":"https://dooball2you.com/"},
-{"name":"TRUE SPORT 7","image": "https://img.a4h6.c18.e2-4.dev/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87truesport7/","referer":"https://dooball2you.com/"},
-{"name":"BEIN SPORT 1","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png","url": "https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87beinsport1/","referer":"https://dooball2you.com/"},
-{"name":"BEIN SPORT 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png","url": "https://dooball2you.com/live/beinsport2/","referer": "https://dooball2you.com/"},
-{"name":"BEIN SPORT 3","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png","url": "https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8","referer": "https://freetvdd.com"},
-{"name":"BEIN SPORT 4","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0004/HLS/S0004.m3u8","referer":"https://www.ballnaja.com/","userAgent":"ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
-{"name":"BEIN SPORT 5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/HLS/S0005.m3u8","referer":"https://www.ballnaja.com/","userAgent":"ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
-{"name":"BEIN SPORT 6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/HLS/S0006.m3u8","referer":"https://www.ballnaja.com/","userAgent":"ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
-{"name":"BEIN SPORT 7","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png","url": "https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0007/HLS/S0007.m3u8","referer":"https://www.ballnaja.com/","userAgent":"ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S"},
-{"name":"SPOTV","image": "https://i.imgur.com/BRZ8rmA.png","url":"https://dooball2you.com/live/spotv1/","referer":"https://dooball2you.com/"},
-{"name":"SPOTV2","image": "https://sv1.picz.in.th/images/2022/10/07/p2qiND.png","url":"https://dooball2you.com/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87spotv2/","referer":"https://dooball2you.com/"},
 
 ]}
 ]}
