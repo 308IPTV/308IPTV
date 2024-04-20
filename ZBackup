@@ -7,6 +7,12 @@ author             : "Backups",
 "groups": [
 
 
+{
+"name": "IPTV THAILAND Playlist BACKUP",
+"image": "https://i.imgur.com/OsD28mZ.jpg",
+"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/DIGITAL%20TV%20BACKUP",
+"import": true
+}, 
 
 {
 "name"              :     "🎞link ชาวบ้านMovie",
