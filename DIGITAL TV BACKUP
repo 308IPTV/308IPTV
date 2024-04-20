@@ -1,13 +1,13 @@
 {
 "name": "IPTV THAILAND",
 "image":"IPTV THAILAND",
-"image": "https://i.imgur.com/OsD28mZ.jpg",
+"image": "https://github.com/akkradet/IPTV-THAI/blob/master/logo/iptvth.png",
 "info": "Last Update 2024-03-11 13:59:42 UTC+07 ICT",
 "groups": [
 
 			{
 				"name": " DIGITAL TV FREETV ",
-				"image": "https://i.imgur.com/OsD28mZ.jpg",
+				"image": "https://github.com/akkradet/IPTV-THAI/blob/master/logo/iptvth.png",
 				"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV.m3u",
 				"info": "Last Update 2024-03-11 13:59:42 UTC+07 ICT",
 				"import": "true"
@@ -15,7 +15,7 @@
 
 	{
 				"name": " DIGITAL TV FREETV2 ",
-				"image": "https://i.imgur.com/OsD28mZ.jpg",
+				"image": "https://github.com/akkradet/IPTV-THAI/blob/master/logo/iptvth.png",
 				"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV2.m3u",
 				"info": "Last Update 2024-03-11 13:59:42 UTC+07 ICT",
 				"import": "true"
@@ -23,7 +23,7 @@
 
 {
 				"name": " DIGITAL TV 168 ",
-				"image": "https://i.imgur.com/OsD28mZ.jpg",
+				"image": "https://github.com/akkradet/IPTV-THAI/blob/master/logo/iptvth.png",
 				"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/168.m3u",
 				"info": "Last Update 2024-03-11 13:59:42 UTC+07 ICT",
 				"import": "true"
