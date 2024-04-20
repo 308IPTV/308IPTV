@@ -28,6 +28,13 @@
 "import": true
 }, 
 
+{
+"name": "IPTV📺TRUE-AIS",
+"image": "https://www.techhub.in.th/wp-content/uploads/2018/10/ais-and-true-no-900-MHz.jpg",
+"url": "https://dl.dropboxusercontent.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
+"import": true
+}, 
+
 
 {
 "name": "👑ช่องดูหนัง MOVIE Channel Collection  ",
@@ -61,7 +68,7 @@
 
 {
 "name":"GROUP หนัง-ซีรีย์  MOVIES Collection ",
-"author":" เพื่อความบันเทิงฟรีฟรี ",
+"author":" เพื่อความบันเทิง ",
 "info": "",   
 "image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
 "url"               :     "https://pastebin.com/raw/Y6F7Pkdx",
@@ -158,15 +165,9 @@
 "import": true
 },
 
-{
-"name": "IPTV📺TRUE-AIS",
-"image": "https://www.techhub.in.th/wp-content/uploads/2018/10/ais-and-true-no-900-MHz.jpg",
-"url": "https://dl.dropboxusercontent.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0",
-"import": true
-}, 
 
 {
-"name": "🆓@PLAY-IDTV🆓",
+"name": "@PLAY-IDTV",
 "image": "https://dl.dropboxusercontent.com/scl/fi/5psd0jcuel4u7uoi6mi14/20231007_191849.jpg?rlkey=zazgtlzcq7xdmup943j33vw4d&dl=0",
 "url": "https://raw.githubusercontent.com/Playidturl1/PLAYIDTV/master/home.m3u",
 "import": true
