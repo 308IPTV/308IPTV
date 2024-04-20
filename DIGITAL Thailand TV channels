@@ -106,7 +106,7 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6
 #EXTINF:-1 tvg-chno="36" tvg-id="CNN NEWS" tvg-name="CNN NEWS" group-title="Digital TV" tvg-logo="https://img.inwiptv.net/postor/2023072016053220200314132541CNN%20NEWS.jpg",CNN NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://dookeela.live/live
-https://dkl-c33es.cdn.akamaiz.com/dookeela/cnn/playlist.m3u8
+https://dookeela.live/live-tv/cnn
 
 
 #EXTINF:-1 tvg-chno="36" tvg-id="LiveNOW From FOX" tvg-name="LiveNOW From FOX" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/LiveNOW_from_FOX.png",LiveNOW From FOX
@@ -123,7 +123,10 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTVLCOPT:http-referrer=https://uhdmax.net/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
 https://b-bmcc.nhkworld.jp/live/index_1M.m3u8
 
-
+#EXTINF:-1 tvg-chno="36" tvg-id="CCTV4" tvg-name="CCTV4" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1705785371.png",CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://dookeela.live/live
+https://dookeela.live/live-tv/cctv4
 
 ------------ KID ---------
 
@@ -354,11 +357,13 @@ https://dookeela.live/live-tv/tvn-indonesia
 https://vcdnjt.useetv.com/dass/15/tvnmovies/chunklist_w810050621_b1344100_sleng.m3u8#
 
 #EXTINF:-1 tvg-chno="19" tvg-id="K+ Movies" tvg-name="K+ Movies" group-title="Digital TV" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png",K+ Movies
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8 "playInNatPlayer": "true"
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KIK Movies" tvg-name="KIK Movies" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQA1oji12SCp8z2dNiPpImTAQVjci2TVozg&usqp=CAU",KIK Movies
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+
 http://210.210.155.37/dr9445/h/h07/index.m3u8 "playInNatPlayer": "true"
 
 #EXTINF:-1 tvg-chno="19" tvg-id="Star Movies" tvg-name="Star Movies" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/536px-STAR_Movies_logo.svg.png",Star Movies
