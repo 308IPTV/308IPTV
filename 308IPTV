@@ -21,11 +21,19 @@
 }, 
 
 {
+"name": "FREE TV Playlist by Akkradet BACKUP",
+"image": "https://www.boldbusiness.com/wp-content/uploads/2018/07/Downfall-of-traditional-media-Feature-Image.gif",
+"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/FREETV.m3u",
+"import": true
+}, 
+
+{
 "name": "TV Playlist by Akkradet",
 "image": "https://www.boldbusiness.com/wp-content/uploads/2018/07/Downfall-of-traditional-media-Feature-Image.gif",
 "url": "http://poid0020.trueddns.com:54337/FREETV.m3u",
 "import": true
 }, 
+
 
 {
 "name": "👑ช่องดูหนัง MOVIE Channel Collection  ",
