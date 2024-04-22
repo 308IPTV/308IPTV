@@ -131,6 +131,21 @@
 "import": false
 },
 
+{
+"name": "รวมหนัง", 
+"author": "Yantech", 
+"image": "https://giffiles.alphacoders.com/350/35060.gif", 
+"url": "https://pastebin.com/raw/VTigiuv7",
+"import": "true"
+},
+
+{
+"name": "หนัง HD", 
+"author": "Yantech", 
+"image": "https://www.i-pic.info/i/GIcW631113.jpg", 
+"url": "https://pastebin.com/raw/byzbCWbe",
+"import": "true"
+},
 
 {
 "name":"หนังรวมๆหลายๆอย่างSPStudio",
@@ -200,6 +215,33 @@
 "import": "true"
 },
 
+{
+	"name"		: 	"หนังและซีรีย์จาก WEB",
+	"image"		:	"https://e1.pngegg.com/pngimages/90/453/png-clipart-movie-genres-folders-black-movie-series-folder-icon.png",
+	"url"		:	"https://pastebin.com/mEHk4eE0"
+ 
+},	
+ 
+{
+"name": "movie CHU",
+"image": "https://dl.dropbox.com/s/lp7n3xwtsb7rith/The%20Movies.png",
+"url": "https://dl.dropbox.com/s/bx7k1z4a6wqdtla/new.txt?dl=0",
+"import": false 
+},
+ 
+ {
+"name": "Shaw Brothers",
+"image": "https://dl.dropbox.com/s/d7i5iqen0vn1m43/Shaw_Brothers.png?dl=0",
+"url" : "https://dl.dropbox.com/s/zdeb38le0kgn1ct/Shaw%20Brothers.txt?dl=0",	
+"import": false 
+},
+ 
+{ "name": "หนังจีน เก่า  ",
+"image": "https://news.cgtn.com/news/3d3d774e3241444d34457a6333566d54/img/36a3c8f7a48d4e6c8e7b04699b84e810/36a3c8f7a48d4e6c8e7b04699b84e810.jpg",
+"url" : "https://www.dropbox.com/s/9qbvriw5w329b4l/shaw%20brother.w3u?dl=1 ",
+"import": false 
+},
+ 
 {
 "name"              :     "🎞link ชาวบ้านMovie",
 "image"             :     "https://dl.dropboxusercontent.com/scl/fi/rjog7taill6t5mp1451sg/p_P.png?rlkey=iq4xe1kr64zj85mc4544su12f&dl=0",
