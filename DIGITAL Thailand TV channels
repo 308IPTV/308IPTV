@@ -213,6 +213,11 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=h
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NTI6MTQgQU0maGFzaF92YWx1ZT1SQTNyRlVsUzlsM2RpSlFhSWM3N2J3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjM4ODM=
+#EXTVLCOPT:http-referrer=https://dooball66s.com
+https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tfilm2&api_key=hmcb4rf66f#
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+http://playtv.my.id/play/truefilm2.m3u8#
+
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Thai Film" tvg-name="True Thai Film" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/j92gxflqy1uodt7/22-12-14-05-44-03-451_deco.jpg?dl=1",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
