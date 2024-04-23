@@ -25,6 +25,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/qfyhzxfkpj33r46/workpoint.png?dl=0",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015-avc1_2500000=10-mp4a_96000_tha=2.m3u8
 
 #EXTINF:-1 tvg-chno="24" tvg-id="True4u HD" tvg-name="True4u HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/fd16mksgo4ken4s/true4utv.png?dl=0",True4u HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -42,7 +43,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
 
 #EXTINF:-1 tvg-chno="29" tvg-id="MONO.th" tvg-name="MONO 29  720P" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/uev7xfb22l4pj73/mono.png?dl=0",MONO 29 720P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8#
+https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_720P/mono29hls_720TH.stream/playlist.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8#
 
 
@@ -54,6 +55,8 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
+https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m2/mcothd_480p/playlist.m3u8#
 
 #EXTINF:-1 tvg-chno="31" tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/p7f5c0w47tctges/one.png?dl=0",ONE 31 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -63,28 +66,35 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="Thairath TV FHD" tvg-name="Thairath TV FHD" group-title="Digital TV" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png",Thairath TV FHD Server AIS Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8#
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8#
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
 
 
 #EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/868oqvj903c7y0g/3hd.png?dl=0",3 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
 
 
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/01sninbysfdlwwk/amarin.png?dl=0",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017-avc1_5000000=6-mp4a_192000_tha=8.m3u8#
+#https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/amarintv_480p/chunks.m3u8?#
 
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/w5uhtzc3b4tap3v/7hd.png?dl=0",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
 
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/zafkq553lvt0b0d/pptv.png?dl=0",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/pptv_480p/chunks.m3u#
 
 #EXTINF:-1 tvg-chno="36" tvg-id="TOP NEWS/ข่าวเด่น" tvg-name="TOP NEWS/ข่าวเด่น" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0",TOP NEWS/ข่าวเด่น
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
