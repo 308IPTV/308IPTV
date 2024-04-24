@@ -119,7 +119,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/01sninbysfdlwwk/amarin.png?dl=0",AmarinTV HD BACKUP
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=
-https://cdn888.stm.trueid.net/p101dai/da0_multi_w_auto_tidapp.smil/chunklist_w1069649427_b2000000_vo_t64TWFpbg==.m3u8?appid=trueid&type=live&visitor=web&drm=aes&uid=b7f9d65cd3&did=Z0dSWm9oN0hRdVZia2tGdGNKTWQ2RHpzbUtqYnBpUlY&mpass=NwB2lGleiMC4JaaC3FO-ri0rJPH4_vRJanai9WaEkSaSOcvBPVwMSCHZAdp3_m_ey5ACr-66WjBD7aPR2Y4Tqr-lKJVBA1OWUujZ78NPHE4gIGeCkGjmaF1Th-G-bcVZskE&sid=fb2286ea4b&rt=1713969714&ds=86400&tk=GIenWelynXgzUxQv7y0ZBMu8CX53Nfvh2ili-tg05so
+https://cdn888.stm.trueid.net/p101dai/da0_multi_w_auto_tidapp.smil/chunklist_w1069649427_b2000000_vo_t64TWFpbg==.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/w5uhtzc3b4tap3v/7hd.png?dl=0",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
