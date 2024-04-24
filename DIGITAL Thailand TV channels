@@ -92,7 +92,7 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/
 
 #EXTINF:-1 tvg-chno="32" tvg-id="Thairath TV FHD" tvg-name="Thairath TV FHD" group-title="Digital TV" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png",Thairath TV FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://www.thairath.co.th/tv/
 https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8#
 https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8#
