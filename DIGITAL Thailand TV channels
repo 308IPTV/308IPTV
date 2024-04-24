@@ -48,8 +48,8 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/
 #EXTINF:-1 tvg-chno="24" tvg-id="True4u HD" tvg-name="True4u HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/fd16mksgo4ken4s/true4utv.png?dl=0",True4u HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054-avc1_2500000=8-mp4a_64000_tha=2.m3u8#
-https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/true4u_480p/chunks.m3u8?#
+#https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054-avc1_2500000=8-mp4a_64000_tha=2.m3u8
+#https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/true4u_480p/chunks.m3u8?#
 
 
 #EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM25" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/obu6dyqp6lctxvb/gmm.png?dl=0",GMM25
@@ -81,22 +81,22 @@ https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m2/mcothd_480p/playlist.m3u8#
+#https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008-avc1_5000000=5-mp4a_64000_tha=6.m3u8
+#https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m2/mcothd_480p/playlist.m3u8#
 
 #EXTINF:-1 tvg-chno="31" tvg-id="ONE 31 HD.th" tvg-name="ONE 31 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/p7f5c0w47tctges/one.png?dl=0",ONE 31 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chonehd3/index.m3u8
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012-avc1_5000000=6-mp4a_96000_tha=2.m3u8#
+#https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012-avc1_5000000=6-mp4a_96000_tha=2.m3u8
 
 
 #EXTINF:-1 tvg-chno="32" tvg-id="Thairath TV FHD" tvg-name="Thairath TV FHD" group-title="Digital TV" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png",Thairath TV FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
+#https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8#
-https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8#
-https://streaming-web.thairath.co.th/hls/playlist.m3u8#
+#https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8#
+#https://streaming-web.thairath.co.th/hls/playlist.m3u8#
 
 
 #EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/868oqvj903c7y0g/3hd.png?dl=0",3 HD
@@ -109,7 +109,7 @@ https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8#
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/01sninbysfdlwwk/amarin.png?dl=0",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017-avc1_5000000=6-mp4a_192000_tha=8.m3u8#
+#https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017-avc1_5000000=6-mp4a_192000_tha=8.m3u8
 #https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/amarintv_480p/chunks.m3u8?#
 
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/w5uhtzc3b4tap3v/7hd.png?dl=0",CH7 HD
