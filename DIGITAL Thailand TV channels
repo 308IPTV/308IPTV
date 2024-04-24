@@ -30,6 +30,7 @@ https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m2/tnn2_480p/chunks.m3u
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnation3/index.m3u8
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021-avc1_2000000=4-mp4a_96000_tha=5.m3u8#
 https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m2/nation_480p/chunks.m3u8?#
+https://live.nationtv.tv/live/nationtv_testlive.m3u8#
 
 #EXTINF:-1 tvg-chno="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/qfyhzxfkpj33r46/workpoint.png?dl=0",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -94,6 +95,7 @@ https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8#
 
 
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/01sninbysfdlwwk/amarin.png?dl=0",AmarinTV HD
@@ -286,7 +288,6 @@ https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8?wmsAuthSign
 https://www.livedoomovies.com:4432/02_AXNHD_720p/chunklist.m3u8
 
 
-
 #EXTINF:-1 tvg-chno="7" tvg-id="FW COMEDY tvg-name="FW COMEDY" group-title="Digital TV" tvg-logo="https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png",FW COMEDY
 #EXTVLCOPT:http-referrer=https://www.inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=89781
@@ -445,13 +446,10 @@ https://distractible-smile.000webhostapp.com/channel/play/bbclifestyle.m3u8
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1280px-CGTN_Documentary.svg.png" group-title="Digital TV",CGTN Documentary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 
-#EXTVLCOPT:http-referrer=
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
+#EXTINF:-1 tvg-id=" Love Nature 4K tvg-name=" Love Nature 4K" tvg-logo="https://dookeela.live/uploads/1713508633.png" group-title="Digital TV", Love Nature 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dookeela.live/live-tv/love-nature-4k
 
 
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://tvsmagazine.com/images/channels/sm_024.jpg" group-title="Digital TV",Animal Planet
@@ -459,8 +457,13 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dookeela.live/live-tv/animal-planet
 
+#EXTINF:-1 tvg-id=" Global Trekker Channel tvg-name=" Global Trekker Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Digital TV", Global Trekker Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dookeela.live/live-tv/global-trekker-channel
 
-#EXTINF:-1 tvg-id="DISCOVERY EN" tvg-name="DISCOVERY EN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnTWT9UdGUeGg1lSCy2u7PdQCGjpq8YDDlVXukCWxI8TEIEkKPIfs6mI0ueo8z1Dyonqc&usqp=CAU" group-title="Digital TV",DISCOVERY EN
+
+#EXTINF:-1 tvg-id="DISCOVERY EN" tvg-name="DISCOVERY EN" tvg-logo="https://dookeela.live/uploads/1713508875.png" group-title="Digital TV",DISCOVERY EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-discoveryeng.stream/chunks.m3u8
@@ -512,6 +515,13 @@ https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
 https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMC8yMDIwIDY6Mjg6MDEgQU0maGFzaF92YWx1ZT0xY0RZT3RydjNwdk9JRjROcGhJbU1RPT0mdmFsaWRtaW51dGVzPTIwJnN0cm1fbGVuPTIw
+
+#EXTINF:-1 tvg-id="CGTN Documentary" tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1280px-CGTN_Documentary.svg.png" group-title="Digital TV",CGTN Documentary
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 
+#EXTVLCOPT:http-referrer=
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 
 #EXTINF:-1 tvg-chno="17" tvg-id="TENGLISH CLUB TV" tvg-name="ENGLISH CLUB TV" group-title="Digital TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61LRaQar+qL.png",ENGLISH CLUB TV
@@ -855,8 +865,9 @@ https://edge2.laotv.la/live/WWE/index.m3u8
 https://dookeela.live/live-tv/wwe
 
 #EXTINF:-1 tvg-chno="7" tvg-id="T-Sports7.th" tvg-name="T-Sports7" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nk1Xcfvia1xq0suAzJTabhrpSvS0bk_hIA&usqp=CAU",T-Sports7
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+https://tcdn-live.tsports7.com/videohls/flivech/DaJHpkrncwZI_oJO__oteQ/1713973231/tsports-1/playlist.m3u8#
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 ---------------------------------------
