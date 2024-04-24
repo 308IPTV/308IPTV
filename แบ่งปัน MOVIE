@@ -47,63 +47,6 @@
 },
 
 {
-"name": "Series On Air group",
-"author": "KAPI TV",
-"image": "https://i0.wp.com/chatterboxfilm.com/wp-content/uploads/2023/01/2023movierelease.jpg",
-"url": "https://pastebin.com/9Tugs4uE",
-"import": "true"
-},
-
-{
-"name": "Series and Movie by Web",
-"author": "KAPI TV",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5mzvk-sr9VMjqwJoMNE4HMl4XiHzjizhcQ&usqp=CAU",
-"url": "https://pastebin.com/pQYirQSP",
-"import": "true"
-},
-
-{
-"name": "ฺซีรี่ดูเอง POPART IPTV ",
-"author": "POPART IPTV",
-"image": "https://image.bestreview.asia/wp-content/uploads/2020/11/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B8%B5-Sci-Fi-.png",
-"url": "https://pastebin.com/SJsBFRfV",
- "import": "true"
-},
-
-
-{
-"name": "Series -Series ",
-"author": "Series",
-"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
-"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/series",
-"import": "true"
-},
-
-
-{
-"name": "08-Share Series",
-"author":"UPDATE 28 Febuary 2023",
-"image": "https://sv1.picz.in.th/images/2023/02/27/eSnJjf.jpg",
-"url": "https://pastebin.com/raw/BfQYLPqq",
-"import": "true"
-},
-
-{
-"name":"👉ดูหนัง🎬",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0EkBFqv7c9EL8gV4pNITnEPQqbt1stu2HlQ&usqp=CAU",
-"url": "https://pastebin.com/raw/Wm43UZvM",
-"import": false
-},
-
-{
-"name":"หนังดี@มัก",
-"author":"หนังดี@มักGroup",
-"image": "xxx",
-"url": "https://pastebin.com/raw/53q1vbah",
-"import": "true"
-},
-
-{
 "name": "CENEMA แบ่งปันหนัง",
 "author": "ช่วยกันเพิ่มหนังนะครับ ",
 "image": "https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif",
@@ -115,6 +58,14 @@
 "name": "คาเฟ่าบันเทิง",
 "image": "https://drive.google.com/uc?id=1hgjzSVpcaC8ojYt5XKkBCHzf6S9mUfcu",
 "url": "https://pastebin.com/raw/NvKiNRYf",
+"import": false
+},
+
+{
+"name":" มันฝรั่งหนังไทย เก่า-ใหม่", 
+"author":"",
+"image": "https://drive.google.com/uc?id=1wjHwZ9N7RcXytXVjQC-Nfi_DUBla5V5A", 
+"url": "https://tinyurl.com/2ct5j2od",
 "import": false
 },
 
@@ -163,6 +114,13 @@
 "import": "true"
 },
 
+{
+"name":"👉ดูหนัง🎬",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0EkBFqv7c9EL8gV4pNITnEPQqbt1stu2HlQ&usqp=CAU",
+"url": "https://pastebin.com/raw/Wm43UZvM",
+"import": false
+},
+
 
 {
 "name": "รวมหนังของ 🐷PMOO SEVENS ",
@@ -191,6 +149,59 @@
 "url": "https://bit.ly/MixLifePlay112",
 "import": "true"
 },
+
+
+{
+"name": "Series On Air group",
+"author": "KAPI TV",
+"image": "https://i0.wp.com/chatterboxfilm.com/wp-content/uploads/2023/01/2023movierelease.jpg",
+"url": "https://pastebin.com/9Tugs4uE",
+"import": "true"
+},
+
+{
+"name": "Series and Movie by Web",
+"author": "KAPI TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc5mzvk-sr9VMjqwJoMNE4HMl4XiHzjizhcQ&usqp=CAU",
+"url": "https://pastebin.com/pQYirQSP",
+"import": "true"
+},
+
+{
+"name": "ฺซีรี่ดูเอง POPART IPTV ",
+"author": "POPART IPTV",
+"image": "https://image.bestreview.asia/wp-content/uploads/2020/11/%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87-%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B9%81%E0%B8%9F%E0%B8%99%E0%B8%95%E0%B8%B2%E0%B8%8B%E0%B8%B5-Sci-Fi-.png",
+"url": "https://pastebin.com/SJsBFRfV",
+ "import": "true"
+},
+
+
+{
+"name": "Series -Series ",
+"author": "Series",
+"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/series",
+"import": "true"
+},
+
+
+{
+"name": "08-Share Series",
+"author":"UPDATE 28 Febuary 2023",
+"image": "https://sv1.picz.in.th/images/2023/02/27/eSnJjf.jpg",
+"url": "https://pastebin.com/raw/BfQYLPqq",
+"import": "true"
+},
+
+
+{
+"name":"หนังดี@มัก",
+"author":"หนังดี@มักGroup",
+"image": "xxx",
+"url": "https://pastebin.com/raw/53q1vbah",
+"import": "true"
+},
+
 
 {
 "name":"ห้อง Doofree Group",
