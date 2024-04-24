@@ -93,9 +93,10 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/
 #EXTINF:-1 tvg-chno="32" tvg-id="Thairath TV FHD" tvg-name="Thairath TV FHD" group-title="Digital TV" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png",Thairath TV FHD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8#
-https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
+https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8#
+https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8#
+https://streaming-web.thairath.co.th/hls/playlist.m3u8#
 
 
 #EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/868oqvj903c7y0g/3hd.png?dl=0",3 HD
@@ -241,6 +242,7 @@ https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=
 
 #EXTINF:-1 tvg-chno="17" tvg-id="ASIAN MORE" tvg-name="ASIAN MORE" group-title="Digital TV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-asianmore.png",ASIAN MORE
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token
 #EXTVLCOPT:http-referrerhttps://wacth.tv
 https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MjA6MjMgQU0maGFzaF92YWx1ZT1zVzBsNkRtRmJQbHNYYjQrWVFURW1nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTMwMjk=
 http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token#
