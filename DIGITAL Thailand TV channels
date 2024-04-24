@@ -103,24 +103,29 @@ https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/868oqvj903c7y0g/3hd.png?dl=0",3 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://ch3plus.com/
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
-https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8#
+
 
 
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/01sninbysfdlwwk/amarin.png?dl=0",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://www.amarintv.com/
+https://amarin-ks7jcc.cdn.byteark.com/live/1080p_index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-#https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017-avc1_5000000=6-mp4a_192000_tha=8.m3u8
-#https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/amarintv_480p/chunks.m3u8?#
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017-avc1_5000000=6-mp4a_192000_tha=8.m3u8
+https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/amarintv_480p/chunks.m3u8?#
 
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/w5uhtzc3b4tap3v/7hd.png?dl=0",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-referrer=https://www.ch7.com/
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
-https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8#
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8#
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_5000000=5-mp4a_64000_tha=6.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
 
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/zafkq553lvt0b0d/pptv.png?dl=0",PPTV HD
