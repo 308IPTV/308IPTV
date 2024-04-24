@@ -52,11 +52,6 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/
 #EXTVLCOPT:http-referrer=
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
 
-#EXTINF:-1 tvg-chno="24" tvg-id="True4u HD" tvg-name="True4u HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/fd16mksgo4ken4s/true4utv.png?dl=0",True4u HD BACKUP
-#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-#EXTVLCOPT:http-referrer=
-https://cdn6.goprimetime.info/feed/202306140918/chtrue4u3/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-name="GMM25" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/obu6dyqp6lctxvb/gmm.png?dl=0",GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -108,7 +103,7 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/
 #EXTINF:-1 tvg-chno="32" tvg-id="Thairath TV FHD" tvg-name="Thairath TV FHD" group-title="Digital TV" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png",Thairath TV BACKUP
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=
-"https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
 
 
 #EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/868oqvj903c7y0g/3hd.png?dl=0",3 HD
