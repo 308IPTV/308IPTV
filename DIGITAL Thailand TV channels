@@ -892,3 +892,18 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="NBT Central" tvg-name="NBT Central" group-title="Digital TV" tvg-logo="https://www.nbtcentral.com/prd-admin/live.jpg",NBT Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunklist_w581218260_b3128000.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="NBT North" tvg-name="NBT North" group-title="Digital TV" tvg-logo="https://nbtchiangmai.prd.go.th/th/file/get/type/thumbnail/file/20230825376e1ec3a6fe2551a09e0611bebf89b9115028.jpg",NBT North
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w550460144_b1328000.m3u8
+
+#EXTINF:-1 tvg-chno="36" tvg-id="NBT  south" tvg-name="NBT  south" group-title="Digital TV" tvg-logo="https://nbtsuratthani.prd.go.th/cms/s297/u884/2022072089b72e9c2dff4d9cda12e2b9.png",NBT  south
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/playlist.m3u8
+
+
+
