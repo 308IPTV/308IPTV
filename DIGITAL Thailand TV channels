@@ -41,13 +41,17 @@ https://live.nationtv.tv/live/nationtv_testlive.m3u8#
 
 #EXTINF:-1 tvg-chno="23" tvg-id="Workpoint TV.th" tvg-name="Workpoint TV" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/qfyhzxfkpj33r46/workpoint.png?dl=0",Workpoint TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.workpointtv.com/
+https://video-weaver.bkk02.hls.ttvnw.net/v1/playlist/CsgFuxCUgyRU2yrZvSMbzx5ayEnlQRzNUNeGb-UNAn9IiPwlq6sD8xD83Ldf2XlqsVe466idmHOtkoorlwYhm-iEsG2euz52q1SnBn_-qMlpxwdboytlPdiW9172PqDYEuh0dliV3sIyZOeSHy2_oBBk2qmM57pLz0B13AZYEuRB0M0LFYaVMUMBTT-RKTS_J4oiUinPhIq_zyC1DrSfaNH-_WZw0bB43_0DchEbJ13QYTh06aV1auMGZE38AewsN_J4nKtrvKh469gmtcpXuTP4uUv-8wUgb9TJlrENaCVF3wqcaZx2eGzcJ0f9MaEfapsLSF6vF2xEB7dovaDuvR6wJuyfiewyMxbnH3oVnFEnp6kHtTN9bQcFGRMxdPShEM_wkciv4oUymu6fErdctqga0PviPvX3Iqm2KrYIWFS21x9hAuwNj_8-RHQVzhA5753Zydi3-3oyGapMr4rcA8-4_-WeJYbZhbLC8Ha5mcnW67by7_06MsYR7rC6MOV9_oKfDBjuYZSlkY5sgQSTHB5ITyK0zScBsTwT7nuzof-hfL2k_cNUThIymY2kD_ZxmXQ-M7NNL84eDaLCChngxgK-vRN2IZquUi8RD8cJ_J-JF6YB6zJ8aRfAcr0vS8aUasojAfGyzFhqlsacHvyAvMdC9jZIwL8ggXLEXyPmPgjeJztqEdfeW4v87oWqcvWUe_4az5gJ3MtVKtbH7U-Eu0PidUb1IVdVxFFL1Td76XIIc1udOpP_ZEFVTT2oXLa55-9oyFosO5pO4y5FuCCfAY0NfIHxbm0UoPLOe3eOyyvS1AliIQsm1Dpo-LslYYV5RwvGZik3Xh4nsk2Arx8uSWyRJZiI9eFuCzoboYK0BJUJ5nPMVpa6t92wXDw-5Rx2Keqzm4kPmNbcxIr5BjhBl-BWzKwM2LbkMayP06eHpUr8pe669JJgvVxMNRoMTMqsf252ZYxVrHhpIAEqCXVzLXdlc3QtMjChCQ.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chworkpoint3/index.m3u8
-https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015-avc1_2500000=10-mp4a_96000_tha=2.m3u8#
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015-avc1_2500000=10-mp4a_96000_tha=2.m3u8
 
 
 #EXTINF:-1 tvg-chno="24" tvg-id="True4u HD" tvg-name="True4u HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/fd16mksgo4ken4s/true4utv.png?dl=0",True4u HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
+#EXTVLCOPT:http-referrer=https://true4u.com/
+https://true4u-p4ljv2.cdn.byteark.com/live/pl_720p/index.m3u8
+#https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtrue4u3/index.m3u8
 #https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054-avc1_2500000=8-mp4a_64000_tha=2.m3u8
 #https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/true4u_480p/chunks.m3u8?#
 
