@@ -6,17 +6,24 @@
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001-avc1_5000000=6-mp4a_64000_tha=2.m3u8#
 
+#EXTINF:-1 tvg-chno="36" tvg-id="NBT World" tvg-name="NBT World" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_NBT_World.png",NBT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8?DVR
+
+
 #EXTINF:-1 tvg-chno="3" tvg-id="TPBS.th" tvg-name="TPBS" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/8tuad0cyvosccfb/thaipbs.png?dl=0",TPBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthaipbs3/index.m3u8
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014-avc1_5000000=7-mp4a_64000_tha=6.m3u8#
 
 
 #EXTINF:-1 tvg-chno="5" tvg-id="TV5 HD.th" tvg-name="TV5 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/g1og5mkiv8tq8ny/5hd.png?dl=0",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w830733325.m3u8#
 https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007-avc1_5000000=7-mp4a_64000_tha=4.m3u8#
-https://r3-sn-5fo-c37ed7.googleuservideo.com/365liveball_m2/2tv5_480p/playlist.m3u8#
+
 
 
 #EXTINF:-1 tvg-chno="16" tvg-id="TNN.th" tvg-name="TNN" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/l1cxi9i4p3h1ga8/tnn.png?dl=0",TNN 16
@@ -109,6 +116,8 @@ https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/
 #EXTVLCOPT:http-referrer=
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
+https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8#
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8#
 
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/zafkq553lvt0b0d/pptv.png?dl=0",PPTV HD
@@ -117,15 +126,12 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022-avc1_5000000=5-mp4a_64000_tha=6.m3u8#
 https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/pptv_480p/chunks.m3u#
 
-#EXTINF:-1 tvg-chno="36" tvg-id="TOP NEWS/ข่าวเด่น" tvg-name="TOP NEWS/ข่าวเด่น" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0",TOP NEWS/ข่าวเด่น
+#EXTINF:-1 tvg-chno="36" tvg-id="TOP NEWS/ข่าวเด่น" tvg-name="TOP NEWS/ข่าวเด่น" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0",TOP NEWS/ข่าวเด่น/JKN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://live.topnews.co.th/hls/topnews_720.m3u8
 https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0026/HLS/V0026-avc1_2000000=5-mp4a_96000=2.m3u8#
 https://r3-sn-5fo-c37ed7.googleuservideo.com/ball24tv_s2/voice_480p/chunks.m3u8#
 
-#EXTINF:-1 tvg-chno="36" tvg-id="NBT World" tvg-name="NBT World" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Logo_NBT_World.png",NBT World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/playlist.m3u8?DVR
 
 
 ------------ KID ---------
@@ -534,9 +540,6 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://uhdmax.net/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-
-#EXTINF:-1 tvg-chno="36" tvg-id="CNN NEWS" tvg-name="CNN NEWS" group-title="Digital TV" tvg-logo="https://img.inwiptv.net/postor/2023072016053220200314132541CNN%20NEWS.jpg",CNN NEWS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://dookeela.live/live
 https://dookeela.live/live-tv/cnn
 
@@ -826,7 +829,6 @@ https://streaming.livescorethai.net/iptv/us-foxsports2.stream/chunks.m3u8
 
 
 
-
 #EXTINF:-1 tvg-chno="7" tvg-id="Sport TV 1" tvg-name="Sport TV 1" group-title="Digital TV"  tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/sport-tv-1.jpg"",Sport TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/live/
@@ -876,10 +878,13 @@ https://tcdn-live.tsports7.com/videohls/flivech/DaJHpkrncwZI_oJO__oteQ/171397323
 #EXTINF:-1 tvg-chno="4" tvg-id="ALTV4.th" tvg-name="ALTV" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/4Bol643617.png",ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ALTV3/index.m3u8
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_480p/index.m3u8#
 
 #EXTINF:-1 tvg-chno="4" tvg-id="News 1" tvg-name="News 1" group-title="Digital TV" tvg-logo="https://www.dropbox.com/scl/fi/54pn5g42m9ppucg2nw3jy/news1.png?rlkey=5j5kgq3a2bd0pwlb4bh540yal&dl=1",News 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0036/HLS/V0036-avc1_2000000=5-mp4a_64000_tha=2.m3u8
+https://server1.streamssl.com/stream/news1.m3u8
+https://server1.streamssl.com/stream/news1_mid.m3u8#
+
 
 #EXTINF:-1 tvg-chno="10" tvg-id="Parliament.th" tvg-name="Parliament" group-title="Digital TV" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0048.png",Parliament
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
