@@ -29,7 +29,12 @@ author             : "Backups",
 "import": "true"
 },
  
-
+{
+"name": "Movie Channel",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIiY8kA9bvJesP3mEnV21O2FXoCTVq-wRSdw&usqp=CAU",
+"url": "https://pastebin.com/J6H7a6AP",
+"import": "true"
+},
 
 {
 "name"              :     "🎞link ชาวบ้านMovie",
