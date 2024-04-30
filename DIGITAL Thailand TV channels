@@ -196,12 +196,8 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=h
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/5z6043nz5ygojxd/22-12-14-05-42-24-605_deco.jpg?dl=1",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjQgMTE6NTI6MTQgQU0maGFzaF92YWx1ZT1SQTNyRlVsUzlsM2RpSlFhSWM3N2J3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjM4ODM=
-#EXTVLCOPT:http-referrer=https://dooball66s.com
-https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tfilm2&api_key=hmcb4rf66f#
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
-http://playtv.my.id/play/truefilm2.m3u8#
+#EXTVLCOPT:http-referrer=
+http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115667&extension=ts&play_token
 
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Thai Film" tvg-name="True Thai Film" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/j92gxflqy1uodt7/22-12-14-05-44-03-451_deco.jpg?dl=1",True Thai Film
@@ -212,9 +208,9 @@ https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=
 #EXTINF:-1 tvg-chno="17" tvg-id="ASIAN MORE" tvg-name="ASIAN MORE" group-title="Digital TV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-asianmore.png",ASIAN MORE
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token
-#EXTVLCOPT:http-referrerhttps://wacth.tv
-https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MjA6MjMgQU0maGFzaF92YWx1ZT1zVzBsNkRtRmJQbHNYYjQrWVFURW1nPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTMwMjk=
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token#
+#EXTVLCOPT:http-referrer=
+http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token
+
 
 
 #EXTINF:-1 tvg-chno="17" tvg-id="FW MOVIE" tvg-name="FW MOVIE" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/Ecy3654246.png",FW MOVIE
