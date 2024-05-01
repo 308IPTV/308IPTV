@@ -10,9 +10,10 @@ author             : "ฺ BY WEB BY MEE",
 {
 "name": "หนังต่างประเทศ",
 "image": "",
-"url": "https://dl.dropbox.com/s/qafkew1894g7548/Inter%20Movies%20SV6.w3u?dl=0",
+"url": "",
 "author" : "10/02/2023 13:15",
 "stations":[
+
 { "name": "The Festival of Troubadours (2022) ทรูบาดูร์ ทำนองชีวิต S(T)",
 "image": "https://moviehd3.com/wp-content/uploads/2023/02/hcIhpCOj4JdvWMyaXUDXOqf7Opj.jpg",
 "url": "https://moviehd3.com/movie/the-festival-of-troubadours-2022/",
@@ -5615,14 +5616,13 @@ author             : "ฺ BY WEB BY MEE",
 "referer": "https://moviehd3.com"},
 ]
 }
+
 {
 "name": "หนังไทย",
 "image": "",
-"url": "https://dl.dropbox.com/s/0vzeppan5xc00t4/Thai%20Movies%20%20SV6.w3u?dl=0",
+"url": "",
 "author" : "10/02/2023 13:20",
-
-
-            "stations": [
+"stations": [
 
 { "name": "เธอกับฉันกับฉัน (2023) TH",
 "image": "https://moviehd3.com/wp-content/uploads/2023/02/tYWGz26UCPGC2dI7fERFalAFgv0.jpg",
