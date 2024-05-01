@@ -444,13 +444,13 @@ https://dookeela.live/live-tv/love-nature-4k
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dookeela.live/live-tv/animal-planet
 
-#EXTINF:-1 tvg-id=" Global Trekker Channel tvg-name=" Global Trekker Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Digital TV", Global Trekker Channel
+#EXTINF:-1 tvg-id=" Global Trekker Channel tvg-name=" Global Trekker Channel" tvg-logo="https://dookeela.live/uploads/1713508875.png" group-title="Digital TV", Global Trekker Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dookeela.live/live-tv/global-trekker-channel
 
 
-#EXTINF:-1 tvg-id="DISCOVERY EN" tvg-name="DISCOVERY EN" tvg-logo="https://dookeela.live/uploads/1713508875.png" group-title="Digital TV",DISCOVERY EN
+#EXTINF:-1 tvg-id="DISCOVERY EN" tvg-name="DISCOVERY EN" tvg-logo="https://dookeela.live/uploads/1706112738.png" group-title="Digital TV",DISCOVERY EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 
 #EXTVLCOPT:http-referrer=https://freetvdd.com/
 https://streaming.livescorethai.net/iptv/sd-discoveryeng.stream/chunks.m3u8
