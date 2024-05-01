@@ -72,6 +72,53 @@
 },
 
 {
+ 
+"name":"ซีรี่ย์-CK2", 
+"image": "https://i.gifer.com/Yza7.gif", 
+"url":"https://pastebin.com/raw/CqUgEYXE",
+"import": "true"
+},
+
+{
+"name": "Netflix Movies SV6",
+"image": "https://dl.dropbox.com/s/e60u151p8dt6vsi/Netflix.png?dl=0",
+"url":"https://pastebin.ai/raw/3rgdwbpurb",
+"import": "true"
+},
+
+{
+"name": "Anime Movies",
+"image": "",
+"url": "https://dl.dropbox.com/s/24o817qjs08jp8n/Anime%20Movies%20SV6.w3u?dl=0",
+"author" : "10/02/2023 13:20",
+"import": "true"
+},
+
+{
+"name": "หนังไทย",
+"image": "",
+"url": "https://dl.dropbox.com/s/0vzeppan5xc00t4/Thai%20Movies%20%20SV6.w3u?dl=0",
+"author" : "10/02/2023 13:20",
+"import": "true"
+},
+
+{
+"name": "หนังต่างประเทศ",
+"image": "",
+"url": "https://dl.dropbox.com/s/qafkew1894g7548/Inter%20Movies%20SV6.w3u?dl=0",
+"author" : "10/02/2023 13:15",
+"import": "true"
+},
+
+{
+"name": "หนังเอเซีย",
+"image": "",
+"url": "https://dl.dropbox.com/s/gosccpr6ikjdln8/Asia%20Movies%20SV6.w3u?dl=0",
+"author" : "10/02/2023 13:15",
+"import": "true"
+},
+
+{
 "name": "คาเฟ่าบันเทิง",
 "image": "https://drive.google.com/uc?id=1hgjzSVpcaC8ojYt5XKkBCHzf6S9mUfcu",
 "url": "https://pastebin.com/raw/NvKiNRYf",
