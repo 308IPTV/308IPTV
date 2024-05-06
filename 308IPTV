@@ -331,6 +331,12 @@
 "import": true
 },
 
+{
+"name": "CHAINA Channel  ",
+"image": "https://c8.alamy.com/comp/H3EKEG/magical-land-shangri-la-townshangri-in-chaina-tibet-H3EKEG.jpg",
+"url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+"import": true
+},
 
 {
 "name": "MUSIC THAILAND Channel",
