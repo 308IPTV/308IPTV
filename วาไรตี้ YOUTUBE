@@ -44,33 +44,17 @@
    ]
   },
 
-{
-   "name": "ทีวีแชมเปี้ยน Tv Champion",
-   "info": "BYMEE",
-   "image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZXCF87ZuQNN4rmXne50dZ4j8NqJIft5mGJsQ5CFVvk2ebONt9yak.webp",
-   "stations": [
-  
-{ 
-"name": " ทีวีแชมป์เปี้ยน การแข่งขันชิงสุดยอดนักต่อเติมบ้าน EP-1", 
-"image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZXCF87ZuQNN4rmXne50dZ4j8NqJIft5mGJsQ5CFVvk2ebONt9yak.webp",
-"url": "https://www.youtube.com/embed/ps4bSfg6Cww?si=m6VNmr_I1Fqs2X-A", "embed": "true", 
-"referer": "https://www.youtube.com/"
- },
-
-{ 
-"name": " ทีวีแชมป์เปี้ยน จ้าวแห่งการดัดแปลงบ้าน EP-2", 
-"image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZXCF87ZuQNN4rmXne50dZ4j8NqJIft5mGJsQ5CFVvk2ebONt9yak.webp",
-"url": "https://www.youtube.com/embed/mdSKcpJdKcQ?si=C7vtGNtWytWD7uhy", "embed": "true", 
-"referer": "https://www.youtube.com/"
- }
-   ]
-  },
-
-
   {
    "name": "FACE OFF แฝดคนละฝา",
    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
    "stations": [
+
+{ 
+"name": " FACE OFF แฝดคนละฝา | แก้ม วิชญาณี & ป๋อมแป๋ม นิติ | 7 พ.ค.67 Full EP", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
+"url": "https://www.youtube.com/embed/_zJ0zhnQItc?si=LLdqj0UXBXxv4Okh", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ },
 
 { 
 "name": " FACE OFF แฝดคนละฝา | น้าเน็ก & แมว จิรศักดิ์ | 30 เม.ย.67 Full EP", 
@@ -93,6 +77,12 @@
 "referer": "https://www.youtube.com/"
  },
 
+{ 
+"name": "FACE OFF แฝดคนละฝา | สุนารี ราชสีมา & กรีน อัษฎาพร | 2 เม.ย.67 Full EP", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
+"url": "https://www.youtube.com/embed/qnFN92Qn9FI?si=rSTDL3E1iyuM0fUq", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ },
 
 
 { 
@@ -131,9 +121,74 @@
  },
 
 { 
+"FACE OFF แฝดคนละฝา | ตั๊ก บริบูรณ์ & ออม สุชาร์ | 23 ม.ค.67 Full EP", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
+"url": "https://www.youtube.com/embed/mtyZ7pXHHZ4?si=b_7XwdF9lQcHDR41", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ },
+
+{ 
 "name": "FACE OFF แฝดคนละฝา | ซี ศิวัฒน์ & หนิง ปณิตา | 16 ม.ค.67 Full EP", 
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
 "url": "https://www.youtube.com/embed/GDT9SHWApwE?si=XdMxTp9DUUz1ugvW", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ }
+   ]
+  },
+
+  {
+   "name": "OFFICIAL CHANNEL รายการ ฟ้ามีตา", 
+   "image": "https://cdni-hw.ch7.com/dm/sz-md/i/images/2020/07/09/5f06cf9e7e8b38.31583680.jpg",
+   "stations": [
+
+{ 
+"name": " OFFICIAL ฟ้ามีตา 2563", 
+"image": "https://cdni-hw.ch7.com/dm/sz-md/i/images/2020/07/09/5f06cf9e7e8b38.31583680.jpg",
+"url": "https://www.youtube.com/embed/videoseries?si=21NDFYXHxhwNkVp5&amp;list=PL5Uee9iWTK4ptsFOBhzbgICZzPTXkPgi7", "embed": "true", 
+"referer": "https://www.youtube.com/"
+},
+
+{ 
+"name": " OFFICIAL ฟ้ามีตา 2562", 
+"image": "https://cdni-hw.ch7.com/dm/sz-md/i/images/2020/07/09/5f06cf9e7e8b38.31583680.jpg",
+"url": "https://www.youtube.com/embed/videoseries?si=0HquSFhdGhbx9TtI&amp;list=PL5Uee9iWTK4p1JXwRKabvNKBCiPBwTpoy", "embed": "true", 
+"referer": "https://www.youtube.com/"
+},
+
+{ 
+"name": " OFFICIAL ฟ้ามีตา 2561", 
+"image": "https://cdni-hw.ch7.com/dm/sz-md/i/images/2020/07/09/5f06cf9e7e8b38.31583680.jpg",
+"url": "https://www.youtube.com/embed/videoseries?si=E9fXnQ6iStsiZ9XY&amp;list=PL5Uee9iWTK4pXtP8-79NyLrhXYvfO-y-9", "embed": "true", 
+"referer": "https://www.youtube.com/"
+},
+
+{ 
+"name": " OFFICIAL ฟ้ามีตา 2558", 
+"image": "https://cdni-hw.ch7.com/dm/sz-md/i/images/2020/07/09/5f06cf9e7e8b38.31583680.jpg",
+"url": "https://www.youtube.com/embed/videoseries?si=FcSDBXBZByA-Ym_E&amp;list=PL5Uee9iWTK4qOfv_DVwQoOK5Dmo_QT9pw", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ }
+   ]
+  },
+
+
+{
+   "name": "ทีวีแชมเปี้ยน Tv Champion",
+   "info": "BYMEE",
+   "image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZXCF87ZuQNN4rmXne50dZ4j8NqJIft5mGJsQ5CFVvk2ebONt9yak.webp",
+   "stations": [
+  
+{ 
+"name": " ทีวีแชมป์เปี้ยน การแข่งขันชิงสุดยอดนักต่อเติมบ้าน EP-1", 
+"image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZXCF87ZuQNN4rmXne50dZ4j8NqJIft5mGJsQ5CFVvk2ebONt9yak.webp",
+"url": "https://www.youtube.com/embed/ps4bSfg6Cww?si=m6VNmr_I1Fqs2X-A", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ },
+
+{ 
+"name": " ทีวีแชมป์เปี้ยน จ้าวแห่งการดัดแปลงบ้าน EP-2", 
+"image": "https://static.thairath.co.th/media/dFQROr7oWzulq5FZXCF87ZuQNN4rmXne50dZ4j8NqJIft5mGJsQ5CFVvk2ebONt9yak.webp",
+"url": "https://www.youtube.com/embed/mdSKcpJdKcQ?si=C7vtGNtWytWD7uhy", "embed": "true", 
 "referer": "https://www.youtube.com/"
 }
     ]
