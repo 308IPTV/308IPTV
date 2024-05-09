@@ -120,10 +120,6 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="36" tvg-id="TOP NEWS/ข่าวเด่น" tvg-name="TOP NEWS/ข่าวเด่น" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0",TOP NEWS/ข่าวเด่น/JKN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://live.topnews.co.th/hls/topnews_720.m3u8
-
 #EXTINF:-1 tvg-chno="18" tvg-id="JKN 18.th" tvg-name="JKN 18" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/byqurs38hszlfi8/jkn.png?dl=0",JKN 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/newtv3/index.m3u8
@@ -194,12 +190,6 @@ https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Refere
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://livescorethai.net/
 
 
-#EXTINF:-1 tvg-chno="17" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/5z6043nz5ygojxd/22-12-14-05-42-24-605_deco.jpg?dl=1",True Film 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=115667&extension=ts&play_token
-
-
 #EXTINF:-1 tvg-chno="17" tvg-id="True Thai Film" tvg-name="True Thai Film" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/j92gxflqy1uodt7/22-12-14-05-44-03-451_deco.jpg?dl=1",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://livescorethai.net/
@@ -209,7 +199,7 @@ https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token
 #EXTVLCOPT:http-referrer=
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token
+
 
 
 
@@ -221,6 +211,12 @@ https://www.inwiptv.com/player_demo.php?channel=95262
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=https://www.inwiptv.com/
 https://www.inwiptv.com/player_demo.php?channel=94898
+
+#EXTINF:-1 tvg-logo="http://iplaytv.familyds.com:8085/logo/20240318_163718_0000.png", Moo_ACTION MOVIES
+http://mooseven.ddns.net:8080/memfs/270fa794-8d34-490c-a6e1-d7b3e3354410.m3u8
+
+#EXTINF:-1 tvg-logo="http://iplaytv.familyds.com:8085/logo/xtream_logo/02moo_ent/หนังเอเชีย.png", Moo_ASIAN MOVIES
+http://mooseven.ddns.net:8080/memfs/f2e66176-a182-402f-b434-17e96cb26e5a.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="7Flix.th" tvg-name="7Flix" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/lr9vbxls2eqz8ex/22-12-15-01-29-09-132_deco.jpg?dl=1",7Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
