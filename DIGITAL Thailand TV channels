@@ -89,6 +89,8 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
+https://freelive2.inwstream.com:1936/freelive-edge/dtv32_thairahttvhd/chunks.m3u8
+https://c0.cdn.vet/live/ch39/i/ch39i.m3u8
 #EXTVLCOPT:http-referrer=https://www.thairath.co.th/
 https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 
@@ -96,6 +98,7 @@ https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
 
 #EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/868oqvj903c7y0g/3hd.png?dl=0",3 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 #EXTVLCOPT:http-referrer=https://ch3plus.com/
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1714007702&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=8JJkTnZn9mI-03u7awgHtg
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
@@ -139,7 +142,7 @@ https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC1/index.m3u8
 
-#EXTINF:-1 tvg-chno="11" tvg-id="MOVIES WORLD 1.EN (ST)" tvg-name="MOVIES WORLD 1" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/WwI3654242.png",MOVIES WORLD 1
+#EXTINF:-1 tvg-chno="11" tvg-id="MOVIES WORLD 1.EN (ST)" tvg-name="MOVIES WORLD 1" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/WwI3654242.png",MOVIES WORLD 1.EN (ST)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8
 
@@ -176,15 +179,6 @@ https://dookeela.live/live-tv/cinemax#|Referer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
-#EXTINF:-1 tvg-chno="17" tvg-id="TRUE SERIES" tvg-name="TRUE SERIES" group-title="Digital TV" tvg-logo="https://truevisions.co.th/static/5b444084-2a92-42cc-8ba4-52dc5f6b3551.png",TRUE SERIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8|Referer=https://freetvdd.com/
-https://wacthstream.com/stream_live/240_True_Series./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MjA6NDkgQU0maGFzaF92YWx1ZT1UVzdpaDJzbFVwc05ZKzcvcWJRNG13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzQ2NDg=#
-
-#EXTINF:-1 tvg-chno="17" tvg-id="TRUE FILMASIA" tvg-name="TRUE FILMASIA" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",TRUE FILMASIA
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Referer=https://freetvdd.com/
-
 #EXTINF:-1 tvg-chno="17" tvg-id="True Film 1" tvg-name="True Film 1" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/0b7s749ej8jbpny/22-12-14-05-41-17-903_deco.jpg?dl=1",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://livescorethai.net/
@@ -195,12 +189,20 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=h
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8|Referer=https://livescorethai.net/
 
 
+#EXTINF:-1 tvg-chno="17" tvg-id="TRUE SERIES" tvg-name="TRUE SERIES" group-title="Digital TV" tvg-logo="https://truevisions.co.th/static/5b444084-2a92-42cc-8ba4-52dc5f6b3551.png",TRUE SERIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://wacthstream.com/stream_live/240_True_Series./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MjA6NDkgQU0maGFzaF92YWx1ZT1UVzdpaDJzbFVwc05ZKzcvcWJRNG13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzQ2NDg=#
+
+#EXTINF:-1 tvg-chno="17" tvg-id="TRUE FILMASIA" tvg-name="TRUE FILMASIA" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",TRUE FILMASIA
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+
 #EXTINF:-1 tvg-chno="17" tvg-id="ASIAN MORE" tvg-name="ASIAN MORE" group-title="Digital TV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-asianmore.png",ASIAN MORE
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token
 #EXTVLCOPT:http-referrer=
-
-
 
 
 #EXTINF:-1 tvg-chno="17" tvg-id="FW MOVIE" tvg-name="FW MOVIE" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/Ecy3654246.png",FW MOVIE
