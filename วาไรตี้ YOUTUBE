@@ -57,6 +57,14 @@
    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
    "stations": [
 
+
+{ 
+"name": " FACE OFF แฝดคนละฝา | 2024 |ALL PLAYLIST", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
+"url": "https://www.youtube.com/embed/videoseries?si=YTz26VV7AYsHkiq8&amp;list=PLcwQy6DvJjswsjQZL9mYEXdfCE6KDrX8L", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ },
+
 { 
 "name": " FACE OFF แฝดคนละฝา | แก้ม วิชญาณี & ป๋อมแป๋ม นิติ | 7 พ.ค.67 Full EP", 
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
@@ -139,6 +147,36 @@
 "name": "FACE OFF แฝดคนละฝา | ซี ศิวัฒน์ & หนิง ปณิตา | 16 ม.ค.67 Full EP", 
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I2RzrtmUKGvjsekk_f8qxCcbKwSDRCK_L-6rkA32kOTQmk_0RvGkOIDvqnogTyTMBkg&usqp=CAU",
 "url": "https://www.youtube.com/embed/GDT9SHWApwE?si=XdMxTp9DUUz1ugvW", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ }
+   ]
+  },
+
+{
+   "name": "Who is my chef โต๊ะนี้มีจอง | 2024 FULL PLAYLIST",
+   "info": "BYMEE",
+   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRKl-gTZfWqB9Z9fOGzDY4xW3Y7M9-4sEBQkWP_sgox00qodqApZQ5-W7UnrmOfg-vy4&usqp=CAU",
+   "stations": [
+  
+{ 
+"name": " Who is my chef โต๊ะนี้มีจอง | 2024 FULL PLAYLIST", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoRKl-gTZfWqB9Z9fOGzDY4xW3Y7M9-4sEBQkWP_sgox00qodqApZQ5-W7UnrmOfg-vy4&usqp=CAU",
+"url": "https://www.youtube.com/embed/videoseries?si=p_kg4NpAD0V7DWxK&amp;list=PLcwQy6DvJjswlahVwEEmxuHJlu69WHT1Y", "embed": "true", 
+"referer": "https://www.youtube.com/"
+ }
+   ]
+  },
+
+{
+   "name": "The Wall Song ร้องข้ามกำแพง | 2024 | FULL EP PLAYLIST",
+   "info": "BYMEE",
+   "image": "https://cms.kapook.com/uploads/tag/43/ID_42867_608b77ee87fe1.jpg",
+   "stations": [
+  
+{ 
+"name": " The Wall Song ร้องข้ามกำแพง | 2024 | FULL EP PLAYLISTT", 
+"image": "https://cms.kapook.com/uploads/tag/43/ID_42867_608b77ee87fe1.jpg",
+"url": "https://www.youtube.com/embed/videoseries?si=ECPdS1mSlYJtfswX&amp;list=PLcwQy6DvJjsxKu1q1WO_zn3VGwiZ0dnnQ", "embed": "true", 
 "referer": "https://www.youtube.com/"
  }
    ]
