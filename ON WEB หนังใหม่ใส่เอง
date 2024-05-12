@@ -16,10 +16,6 @@ https://main.24playerhd.com/newplaylist/597c09941c4467b51a33df5f/597c09941c4467b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://main.24playerhd.com/m3u8/4f505d9fad9c97e211e0bf56/4f505d9fad9c97e211e0bf56168.m3u8|Referer=https://www.24-hd.com/
 
-#EXTINF:-1,tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Talk-to-Me-2023-%E0%B8%88%E0%B8%B1%E0%B8%9A-%E0%B8%A1%E0%B8%B7%E0%B8%AD-%E0%B8%9C%E0%B8%B5-187x269.jpg",Talk to Me (2023) จับ มือ ผี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://main.24playerhd.com/m3u8/dc3c841510c21255de2ef962/dc3c841510c21255de2ef962438.m3u8|Referer=https://www.24-hd.com/
-
 #EXTINF:-1,tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Black-Hawk-Down-2001-%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9D%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%97%E0%B8%A1%E0%B8%B4%E0%B8%AC-187x269.jpg",Black Hawk Down (2001) ยุทธการฝ่ารหัสทมิฬ
 https://main.24playerhd.com/m3u8/04b70b6a18b0cd448a6479a8/04b70b6a18b0cd448a6479a8438.m3u8|Referer=https://www.24-hd.com/
 
@@ -47,8 +43,10 @@ https://main.24playerhd.com/m3u8/48449dd7894458e03ef6845f/48449dd7894458e03ef684
 #EXTINF:-1,tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/The-Abandoned-2023-%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87-2-187x269.jpg",The Abandoned (2023) ร่างที่ถูกทิ้ง
 https://main.24playerhd.com/m3u8/fc900b00d069c57c51458d25/fc900b00d069c57c51458d25438.m3u8|Referer=https://www.24-hd.com/
 
-#EXTINF:-1,tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/The-Abandoned-2023-%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B8%B4%E0%B9%89%E0%B8%87-2-187x269.jpg",The Abandoned (2023) ร่างที่ถูกทิ้ง
-https://main.24playerhd.com/m3u8/fc900b00d069c57c51458d25/fc900b00d069c57c51458d25438.m3u8|Referer=https://www.24-hd.com/
+
+#EXTINF:-1,tvg-logo="https://img.inwiptv.net/postor/202308190254051GHzOzeljHDGxE2okVnouNuFvCs.jpg",Eye of the Storm (2023) บรรยายไทย
+https://m1free.inwstream.com:1936/movie3/Eye_of_the_Storm_2023/Eye_of_the_Storm_2023_st_1080.mp4/chunk.m3u8?nimblesessionid=113135704&wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDI0IDg6MTA6NTMgQU0maGFzaF92YWx1ZT1UWEVVcWxuUElBRmZCQW9iVm5NL0p3PT0mdmFsaWRtaW51dGVzPTU=                |Referer=https://fw4free.com/
+
 
 --------------Final Destination--------------------------
 #EXTINF:-1,tvg-logo="https://www.123-hd.com/wp-content/uploads/2022/03/Final-Destination-2000-7-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B2%E0%B8%A2-%E0%B9%82%E0%B8%81%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%B2%E0%B8%A2-300x450.png",Final Destination (2000) 7 ต้องตาย โกงความตาย
