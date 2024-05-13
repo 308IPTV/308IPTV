@@ -165,6 +165,12 @@
 "import": true
 },
 
+{
+"name": "BACKUPS(สำรอง)",
+"image": "https://as1.ftcdn.net/v2/jpg/00/57/74/32/1000_F_57743213_WGL3jCvyhuNhCp6taDGvbKKvXfspFr9b.jpg",
+"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/ZBackup",
+"import": "true"
+},
 
 {
 "name": "@PLAY-IDTV",
@@ -352,14 +358,6 @@
 "import": true
 },
 
-
-
-{
-"name": "BACKUPS(สำรอง) ",
-"image": "https://as1.ftcdn.net/v2/jpg/00/57/74/32/1000_F_57743213_WGL3jCvyhuNhCp6taDGvbKKvXfspFr9b.jpg",
-"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/ZBackup",
-"import": "true"
-},
 
 {
 "name": "Korean Central Television (KCTV)",
