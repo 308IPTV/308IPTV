@@ -1,0 +1,323 @@
+{
+ "name": "รวมหนัง",
+ "author": "P'Moo_Seven",
+ "info": "P'Moo_Seven Line ID : @680salib",
+ "image": "00000",
+ "groups": [
+
+{
+"name": " คลังหนัง  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/คลังหนังเก่าๆ.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/คลังหนัง.m3u",
+"import":"true"
+}, 
+
+{
+"name": " หนังปี 2024  ",
+"image": "https://mooseven2211.online/PHOTO/Movie2024.gif",
+"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้วนะ/iptvsocietybyอุ๋งอุ๋ง/123-hd_หนังใหม่-2024.w3u",
+"import":"true"
+},
+{
+"name": " หนังปี 2023  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/Movie2023.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/123-hd_หนังใหม่-2023.w3u",
+"import":"true"
+},
+{
+"name": "Movie 4K & BluRay",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/Movie4k.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/001หนังสี่เค.m3u",
+"import":"true"
+},
+{
+"name": " หนังภาคต่อ  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/00หนังภาคต่อ.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังภาคต่อ.txt",
+"import":"true"
+},
+
+{
+"name": " Thai Movies  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/00หนังไทย.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังไทย.txt",
+"import":"true"
+},
+
+{
+"name": " Western Movies ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/00หนังฝรั่ง.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังฝรั่ง.txt",
+"import":"true"
+},
+
+
+{
+"name": " Asian Movies  ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังเอเชีย.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังเอเชีย.txt",
+"import":"true"
+},
+
+{
+"name": " Drama  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/00หนังดราม่า.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังดราม่า.txt",
+"import":"true"
+},
+{
+"name":"Mysterious  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/00หนังลึกลับ.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังลึกลับ.txt",
+"import":""
+},
+
+{
+"name": " Horror  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/00หนังสยองขวัญ.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังกระตุกขวัญ.txt",
+"import":"true"
+},
+
+{
+"name": " Crime  ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังอาชญากรรม.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังอาชญากรรม.txt",
+"import":"true"
+},
+
+{
+"name": " Science ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังวิทยาศาสตร์.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังวิทยาศาสตร์.txt",
+"import":"true"
+},
+
+{
+"name": " Comedy ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังตลก.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังตลก.txt",
+"import":"true"
+},
+
+{
+"name": " Superhero  ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังซูปเปอร์ฮีโร่.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังซุปเปอร์ฮีโร่.txt",
+"import":"true"
+},
+
+{
+"name": " Romantic  ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังโรแมนติก.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังโรแมนติก.txt",
+"import":"true"
+},
+
+{
+"name": " War ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังสงคราม.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังสงคราม.txt",
+"import":"true"
+},
+
+{
+"name": " Adventure  ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังผจญภัย.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังผจญภัย.txt",
+"import":"true"
+},
+
+{
+"name": " Fantasy  ",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนังแฟนตาซี.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/หนังแฟนตาซี.txt",
+"import":"true"
+},
+{
+"name": " Movie 2022  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/Movie22022.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/123-hd_หนังใหม่-2022.w3u",
+"import":"true"
+},
+{
+"name": " Movie 2021  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/Movie2021.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/123-hd_หนังใหม่-2021.w3u",
+"import":"true"
+},
+
+{
+"name": " Movie 2020  ",
+"image": "https://mooseven2211.online/PHOTO/COVER_MOVIE/หนัง/Movie2020.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/123-hd_หนังใหม่-2020.w3u",
+"import":"true"
+},
+{
+"name": " XXXX",
+"image": "https://mooseven2211.online//PHOTO/COVER_MOVIE/หนัง/00หนัง18+.gif",
+"url": "https://mooseven2211.online/playlist/07MOVIE/SexMovie.m3u",
+"import":"true"
+},
+
+{
+ "name": "รวมซีรีย์",
+ "author": "P'Moo_Seven",
+ "info": "P'Moo_Seven Line ID : @680salib",
+ "image": "https://sv1.picz.in.th/images/2023/07/25/MP7sxE.png",
+ "groups": [  
+  
+  {
+"name": "Series 2024",
+"image": "https://png.pngtree.com/png-vector/20220922/ourmid/pngtree-colorful-2024-year-png-image_238391.png",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_ซีรี่ย์ใหม่-2024.w3u",
+"import":"true"
+},
+  {
+"name": "Series Top IMDB",
+"image": "https://mooseven2211.online/PHOTO/topimdb.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_top-imdb.w3u",
+"import":"true"
+},
+
+  {
+"name": "ซีรีย์อัพเดท เว็บ 123-HD",
+"image": "https://mooseven2211.online/PHOTO/SERIES_COVER_NEW_123HD.gif",
+"url": "https://mooseven2211.online/playlist/08Series/123-hd_ซีรี่ย์ใหม่-2023.w3u",
+"import":"true"
+},
+
+  {
+"name": "ซีรีย์อัพเดท เว็บ Seriesday",
+"image": "https://mooseven2211.online/PHOTO/SERIES_COVER_NEW_SERIESDAY.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_ซีรี่ย์ใหม่-2023.w3u",
+"import":"true"
+},
+  {
+"name": "ซีรีย์อัพเดท เว็บ Dooseries4K",
+"image": "https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
+"url": "https://mooseven2211.online/playlist/08Series/Dooseries4K/2023 • Dooseries4K/dooseries4k_2023.w3u",
+"import":"true"
+},
+
+
+  {
+"name": "ซีรีย์ Netflix ",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/เนทฟิก.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_netflix.w3u",
+"import":"true"
+},
+  
+  {
+"name": "ซีรีย์ Amazon Prime Video",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/อเมซอนน.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_amazon-prime-video.w3u",
+"import":"true"
+},
+
+{
+"name": "ซีรีย์ Disney+",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/ดิสนีย์.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_disney-plus.w3u",
+"import":"true"
+},
+  {
+"name": "ซีรีย์ Apple+",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/แอปเปิ้ล.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_apple-tv.w3u",
+"import":"true"
+},
+  {
+"name": "ซีรีย์ HBO GO",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/เอชบีโอ.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_hbo.w3u",
+"import":"true"
+},
+  {
+"name": "ซีรีย์ YOUKU",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/youku.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_youku.w3u",
+"import":"true"
+},
+  {
+"name": "ซีรีย์ IQIYI",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/อ้ายฉี.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_iqiyi.w3u",
+"import":"true"
+},
+  {
+"name": "ซีรีย์ VIU",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/viuu.gif",
+"url": "https://mooseven2211.online/playlist/08Series/dooseries4k_viu.w3u",
+"import":"true"
+},
+  {
+"name": "ซีรีย์ จีน",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/ซีรีย์จีน.gif",
+"url": "https://mooseven2211.online/playlist/08Series/dooseries4k_ซีรีย์จีน.w3u",
+"import":"true"
+},
+
+  {
+"name": "ซีรีย์ ญี่ปุ่น",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/ซีรีย์ญี่ปุ่น.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_ซีรี่ย์ญี่ปุ่น.w3u",
+"import":"true"
+},
+
+  {
+"name": "ซีรีย์ ฝรั่ง",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/ซีรีย์ฝรั่ง.gif",
+"url": "https://mooseven2211.online/playlist/08Series/123-hd_series-ฝรั่ง.w3u",
+"import":"true"
+},
+
+{
+"name": "ซีรีย์ เกาหลี",
+"image": "https://www.moviehdthai.com/Assets/App/Images/mvhdth_logo3.png",
+"url": "https://mooseven2211.online/playlist/08Series/Dooseries4K/ซีรีย์เกาหลี • Dooseries4K/dooseries4k_ซีรีย์เกาหลี.w3u",
+"import":"true"
+},
+{
+"name": "ซีรีย์ อินเดีย",
+"image": "https://mooseven2211.online/PHOTO/ปกซีรีย์/ซีรีย์อินเดีย.gif",
+"url": "https://mooseven2211.online/playlist/08Series/seriesindia/moviehdthai_ซีรี่ย์อินเดีย.w3u",
+"import":"true"
+},
+
+{
+"name": "ซีรีย์ใหม่ 2022",
+"image": "https://drive.google.com/uc?id=1Lp9uAMgwEhpc3EIA_oHEomoXACajK_pj",
+"url": "https://mooseven2211.online/playlist/08Series/seriesday_ซีรี่ย์ใหม่-2022.w3u",
+"import":"true"
+},
+{
+"name": "ซีรีย์ใหม่ 2021",
+"image": "https://drive.google.com/uc?id=1Lp9uAMgwEhpc3EIA_oHEomoXACajK_pj",
+"url": "https://mooseven2211.online/playlist/08Series/Dooseries4K/2021 • Dooseries4K/dooseries4k_2021.w3u",
+"import":"true"
+},
+
+{
+"name": "ซีรีย์ใหม่ 2020",
+"image": "https://drive.google.com/uc?id=1Lp9uAMgwEhpc3EIA_oHEomoXACajK_pj",
+"url": "https://mooseven2211.online/playlist/08Series/Dooseries4K/2020 • Dooseries4K/dooseries4k_2020.w3u",
+"import":"true"
+},
+{
+"name": "ซีรีย์ใหม่ 2019",
+"image": "https://drive.google.com/uc?id=1Lp9uAMgwEhpc3EIA_oHEomoXACajK_pj",
+"url": "https://mooseven2211.online/playlist/08Series/Dooseries4K/2019 • Dooseries4K/dooseries4k_2019.w3u",
+"import":"true"
+},
+
+{
+"name": "ซีรีย์ใหม่ 2019",
+"image": "https://drive.google.com/uc?id=1Lp9uAMgwEhpc3EIA_oHEomoXACajK_pj",
+"url": "https://mooseven2211.online/playlist/08Series/Dooseries4K/2019 • Dooseries4K/dooseries4k_2019.w3u",
+"import":"true"
+},
+
+
+ 
+]}]}]}]}
