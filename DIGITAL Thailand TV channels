@@ -215,10 +215,12 @@ https://www.inwiptv.com/player_demo.php?channel=95262
 https://www.inwiptv.com/player_demo.php?channel=94898
 
 #EXTINF:-1 tvg-logo="http://iplaytv.familyds.com:8085/logo/20240318_163718_0000.png", Moo_ACTION MOVIES
-http://mooseven.ddns.net:8080/memfs/270fa794-8d34-490c-a6e1-d7b3e3354410.m3u8
+http://moo7.myddns.me:8080/memfs/fe891c3f-1e65-4fcb-b526-a2d0e352095b.m3u8
 
 #EXTINF:-1 tvg-logo="http://iplaytv.familyds.com:8085/logo/xtream_logo/02moo_ent/หนังเอเชีย.png", Moo_ASIAN MOVIES
-http://mooseven.ddns.net:8080/memfs/f2e66176-a182-402f-b434-17e96cb26e5a.m3u8
+http://moo7.myddns.me:8080/memfs/15c6c029-57c1-48dc-b47b-75ef024c6e18.m3u8
+
+
 
 #EXTINF:-1 tvg-chno="19" tvg-id="7Flix.th" tvg-name="7Flix" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/lr9vbxls2eqz8ex/22-12-15-01-29-09-132_deco.jpg?dl=1",7Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
