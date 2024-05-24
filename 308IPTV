@@ -180,10 +180,13 @@
 "import": true
 }, 
 
+
 {
-"name": "IPTV Socity 2024",
+"name": "IPTV Society 2024",
+"author": "Update 09-05-2567",
 "image": "https://leviathyn.com/wp-content/uploads/2019/05/0e621f867e8289db037088761b6d4ba8.jpeg",
 "url": "https://drive.google.com/uc?id=1C_DvhHvevu9v8yLI1CedFZG83GY2OI1V",
+"info": "IPTV Society",
 "import": true
 }, 
 
