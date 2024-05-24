@@ -559,8 +559,8 @@ https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="KhongDee ของดี ประเทศไทย" tvg-logo="https://i.ibb.co/Pg7dBL9/ddd.png",KhongDeeของดี ประเทศไทย
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://wacth.tv/
-https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0154/HLS/V0154.m3u8
+#EXTVLCOPT:http-referrer=
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8
 
 #EXTINF:-1 group-title="Digital TV" tvg-id="THAINESS" tvg-logo="https://i0.wp.com/thainesstv.com/wp-content/uploads/2021/11/cropped-cropped-logo_thainesstv_a-1.png?w=250",THAINESS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
