@@ -22,6 +22,24 @@ author             : "Backups",
 }, 
 
 {
+"name": "MOVIE Live POP",
+"author": "",
+"image": "xxx",
+"url": "https://docs.google.com/uc?export=download&id=1PFt1Iy4EPI-FW4xyUQgA9Ca21pa0Jyby",
+"info": "", 
+"import": true
+}, 
+
+
+{
+"name": "TV&SPORT Live",
+"author": "",
+"image": "https://drive.google.com/uc?id=1cUY5tEMbaDyzRu1nT0TMVQNp8ueyiQ7t",
+"url":"https://docs.google.com/uc?export=download&id=1P_q9UwyeSKZkMZ_LxKsUpxamsbnX1v7k",
+"import": true
+}, 
+
+{
 "name": "DOO DEE DEE",
 "author": "DOO DEE DEE",
 "image": "https://yt3.googleusercontent.com/ytc/APkrFKbEBceYGfLa4-3vs7FkSZX11AGoWJqAcqQcZ10N=s900-c-k-c0x00ffffff-no-rj",
