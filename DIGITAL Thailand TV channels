@@ -269,6 +269,15 @@ https://www.inwiptv.com/player_demo.php?channel=89781
 http://43.239.251.62:4300/live/nktv.stream/playlist.m3u8
 http://43.239.251.62:4300/live/nktv.stream/playlist.m3u8#
 
+#EXTINF:-1 tvg-chno="18" tvg-id="Rock Entertainment HD" tvg-name="Rock Entertainment HD" group-title="Digital TV" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow.png",Rock Entertainment HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MjcgUE0maGFzaF92YWx1ZT1waWw5NmdFNVVBZU1YM0tPZlhBTXJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTA5OTc=
+
+#EXTINF:-1 tvg-chno="18" tvg-id="ROCK ACTION HD" tvg-name="ROCK ACTION HD" group-title="Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",ROCK ACTION HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MTIgUE0maGFzaF92YWx1ZT1hV3h3R2MwRGovMkk5Yml4SFZmSkF3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTMyMzk=
 
 
 #EXTINF:-1 tvg-chno="20" tvg-id="Mangkorn.th" tvg-name="Mangkorn" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/o4oqk4i0oh4ozio/22-12-14-23-42-44-451_deco.jpg?dl=1",มังกร Mangkorn
