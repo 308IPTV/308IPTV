@@ -183,6 +183,10 @@ https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Refer
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://livescorethai.net/
 
+#EXTINF:-1 tvg-chno="17" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.png",True Film 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://edge-s3x.onlineprostream.com:9095/v5/OZCtM-cQnnRS5V4FdaHe_g/1716866313/9e756f8c3888ab2e58414a4482e28f2c/xw3crFKEzr9Bh2g29xvnEg/1716876993/live/dx-origin/hd-tfilm2_720/chunks.m3u8|Referer=https://livesod365.com/
+
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Thai Film" tvg-name="True Thai Film" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/j92gxflqy1uodt7/22-12-14-05-44-03-451_deco.jpg?dl=1",True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -201,7 +205,7 @@ https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Refere
 
 #EXTINF:-1 tvg-chno="17" tvg-id="ASIAN MORE" tvg-name="ASIAN MORE" group-title="Digital TV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-asianmore.png",ASIAN MORE
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-http://clientsportals.com:2095/play/live.php?mac=10:27:BE:15:b9:6e&stream=563002&extension=ts&play_token
+https://edge-s5.onlineprostream.com:8830/v5/37In63Zeod15SuoiLV5bZg/1716866450/1938fc95b5aedbceb4800b9d82295eb8/WR-cDKQzajl4a4PnPZm4iA/1716877130/live/dx-origin/hd-asianmore_720/chunks.m3u8|Referer=https://livesod365.com/
 #EXTVLCOPT:http-referrer=
 
 
