@@ -311,17 +311,21 @@ https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8
 
 
-#EXTINF:-1  tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="http://tvsmagazine.com/images/channels/sm_048.jpg" group-title="Digital TV",TVB XING HE
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/sd-tvb.stream/chunks.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KBS WORLD" tvg-name="KBS WORLD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png",KBS WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTVLCOPT:http-referrer=
 
+#EXTINF:-1 tvg-chno="19" tvg-id="KBS WORLD" tvg-name="KBS WORLD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png",KBS WORLD BACKUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+https://livesod365.com/live/th-kbsworld
+
+#EXTINF:-1 tvg-chno="19" tvg-id="KMTV" tvg-name="KMTV" group-title="Digital TV" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-kmtv.png",KMTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+#EXTVLCOPT:http-referrer=https://livesod365.com/
+https://livesod365.com/live/th-kmtv
 
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TVN" tvg-name="TVN" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
@@ -349,31 +353,13 @@ https://dookeela.live/live-tv/iqiyi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
 
-#EXTINF:-1 tvg-chno="9" tvg-id="XING KONG" tvg-name="XING KONG" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/1x47667138.png"",XING KONG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC13/index.m3u8
-
-#EXTINF:-1 tvg-chno="9" tvg-id="LOTUS MACAU" tvg-name="LOTUS MACAU" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/QsyE667141.png"",LOTUS MACAU
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC41/index.m3u8
-
-
-
 #EXTINF:-1 tvg-chno="19" tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uzICo7szOAuey96FM8NGID5qvcHY47JqdmzgXxBL0VfaPR2drfUicPdraKjgBSU4-vE&usqp=CAU",Action Hollywood Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 #EXTVLCOPT:http-referrer=
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb573d1c7f6c648c9ad43e62cef24582847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af754cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f9e75b14da38f4e0011e9c7d17fa83439c8101ead5870f8310d727a3119ac0f782804281e4df598b6f11d40b224049b1c211a7c15cbfd69b673dee1e42243f66966817632c46e2665055f985bfd7977211bce707806e30fb228d4ec4048264a40ee59526045eb9ad20106bdeae756e29b4eda188ee273af70191c7b88c222dc9a4561022b8fabe1dd31425b6eb6dd79046c5e558bc94237119d39844d4bfb38de8bb8241a6e8abadfbb53258476f0803c908ecca2d931ed476acc104321c6370edcb058ad6821e076b41d0d405940b4ded92cba2cf1e37cf571e58c369cd14503f9b7a3f2aa565d2b20841a56a4a893c36fe18128541f7b765b584d3f70936b0919610ac21bffb5a9ca6429a6c3a5810babd790c12022e869c13675a4eca4be0dcddf23758509e90e3ca80026849696d1166edc5e87f9c82c5536d35c941296d71505ad633df67db0f5e136cae3ad6bf02608a162b4eb7f06e453bec2341d3a2d1e5f05dd652d097e92c8f/171/1920x1080_4716800/index.m3u8
 
 
-#EXTINF:-1 tvg-chno="15" tvg-id="  HOLLYWOOD HD" tvg-name=" HOLLYWOOD HD" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oRTYwLijBBuX5kWMnggskwHOv8txDqD-mQ&usqp=CAU", HOLLYWOOD HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-http://iptv.prosto.tv:7000/ch50/video.m3u8
 
-#EXTINF:-1 tvg-chno="15" tvg-id=" Movie  Box" tvg-name="Movie  Box" group-title="Digital TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRsjY1JFJ9XGDgsFeAAbeqvSDL-BJklXnAQ&usqp=CAU",Movie  Box
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
-http://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 
 
 
