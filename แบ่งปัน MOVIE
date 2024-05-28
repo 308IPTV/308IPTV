@@ -71,8 +71,26 @@
 "import": false
 },
 
+
 {
- 
+"name": "Thai Movies ห้องแบ่งปัน แบ่งปันหนัง",
+"author": "ช่วยกันเพิ่มหนังนะครับ ",
+"image": "https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif",
+"url": "https://freenote.biz/raw/tkx92aewwy",
+"import": false
+},
+
+
+{
+"name": "INTERS Movies ห้องแบ่งปัน แบ่งปันหนัง",
+"author": "ช่วยกันเพิ่มหนังนะครับ ",
+"image": "https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif",
+"url": "https://freenote.biz/raw/khwy94yegf",
+"import": false
+},
+
+
+{ 
 "name":"ซีรี่ย์-CK2", 
 "image": "https://i.gifer.com/Yza7.gif", 
 "url":"https://pastebin.com/raw/CqUgEYXE",
