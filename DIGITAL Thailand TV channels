@@ -322,13 +322,14 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KBS WORLD" tvg-name="KBS WORLD" group-title="Digital TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/KBS_World.svg/2560px-KBS_World.svg.png",KBS WORLD BACKUP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://livesod365.com/
-https://livesod365.com/live/th-kbsworld
+#EXTVLCOPT:http-referrer=
+https://wacthstream.com/stream_live/245_KBS/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=|Referer=https://wacth.tv
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KMTV" tvg-name="KMTV" group-title="Digital TV" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-kmtv.png",KMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=
+#EXTVLCOPT:http-referrer=
+https://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=|Referer=https://wacth.tv
+
 
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TVN" tvg-name="TVN" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
