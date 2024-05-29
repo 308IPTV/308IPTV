@@ -21,7 +21,13 @@
 "import": "true"
 }, 
 
-
+{
+"name":"MOVIES",
+"author":"ทีม3ird",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJcxgEJlKZ_S-qNpCZ3PsAHpnGGKk5RnsQQ&usqp=CAU",
+"url":"https://drive.google.com/uc?id=1DWHTXNi-nr8d-vNyA7CRZx-YoXQwBwpI",
+"import":"true"
+},
 
 {
 "name": "🤝หนัง-ซีรีสย์-Free.R2💯",
