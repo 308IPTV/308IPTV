@@ -175,6 +175,10 @@ https://dookeela.live/live-tv/hbo-signature#|Referer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://dookeela.live/live-tv/cinemax#|Referer=https://dookeela.live/
 
+#EXTINF:-1 tvg-chno="26" tvg-id="HLN Film" tvg-name="HLN Film" group-title="Digital TV" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dvhzktrt1dc5ccd91ferl/HLNfirm.png?rlkey=0t8orvs2t211coyizam25wohf&st=4z1fbenf&dl=0",HLN Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC12/index.m3u8|Referer=
+
 #EXTINF:-1 tvg-chno="17" tvg-id="TRUE MOVIEHIT" tvg-name="TRUE MOVIEHIT" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",TRUE MOVIEHIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Referer=https://freetvdd.com/
@@ -205,8 +209,7 @@ https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Refere
 
 #EXTINF:-1 tvg-chno="17" tvg-id="ASIAN MORE" tvg-name="ASIAN MORE" group-title="Digital TV" tvg-logo="https://overseer.blackboxsys.net/images/png/hd-asianmore.png",ASIAN MORE
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://livesod365.com/live/hd-asianmore/True%20Asian%20More%20(TH)/|Referer=https://livesod365.com/
-#EXTVLCOPT:http-referrer=
+https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=|Referer=https://wacth.tv
 
 
 #EXTINF:-1 tvg-chno="17" tvg-id="FW MOVIE" tvg-name="FW MOVIE" group-title="Digital TV" tvg-logo="https://www.i-pic.info/i/Ecy3654246.png",FW MOVIE
@@ -324,8 +327,8 @@ https://livesod365.com/live/th-kbsworld
 
 #EXTINF:-1 tvg-chno="19" tvg-id="KMTV" tvg-name="KMTV" group-title="Digital TV" tvg-logo="https://static.uflixtv.com/images/tv/channels_icons/hd-kmtv.png",KMTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://livesod365.com/
-https://livesod365.com/live/th-kmtv
+#EXTVLCOPT:http-referrer=https://wacth.tv
+hhttps://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDM6MzA6MzggUE0maGFzaF92YWx1ZT1oTUU1Qm80b0VoZ3VEY3BmbEZkcWdRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjQ5ODA=
 
 
 #EXTINF:-1 tvg-chno="19" tvg-id="TVN" tvg-name="TVN" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f396b061-4869-44b2-939e-f69df768550f.png",TVN
