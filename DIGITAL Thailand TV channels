@@ -228,6 +228,10 @@ http://moo7.myddns.me:8080/memfs/fe891c3f-1e65-4fcb-b526-a2d0e352095b.m3u8
 http://moo7.myddns.me:8080/memfs/15c6c029-57c1-48dc-b47b-75ef024c6e18.m3u8
 
 
+#EXTINF:-1 tvg-chno="17" tvg-id="NK Movies" tvg-name="NK Movies" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/qupnx4wnr06r9oe/22-11-26-23-35-50-003_deco.jpg?dl=1",NK Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
+http://43.239.251.62:4300/live/nktv.stream/playlist.m3u8
+http://43.239.251.62:4300/live/nktv.stream/playlist.m3u8#
 
 #EXTINF:-1 tvg-chno="19" tvg-id="7Flix.th" tvg-name="7Flix" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/lr9vbxls2eqz8ex/22-12-15-01-29-09-132_deco.jpg?dl=1",7Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
@@ -267,10 +271,6 @@ https://www.livedoomovies.com:4432/02_AXNHD_720p/chunklist.m3u8
 https://www.inwiptv.com/player_demo.php?channel=89781
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 
-#EXTINF:-1 tvg-chno="17" tvg-id="NK Movies" tvg-name="NK Movies" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/qupnx4wnr06r9oe/22-11-26-23-35-50-003_deco.jpg?dl=1",NK Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-http://43.239.251.62:4300/live/nktv.stream/playlist.m3u8
-http://43.239.251.62:4300/live/nktv.stream/playlist.m3u8#
 
 #EXTINF:-1 tvg-chno="18" tvg-id="Rock Entertainment HD" tvg-name="Rock Entertainment HD" group-title="Digital TV" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow.png",Rock Entertainment HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
