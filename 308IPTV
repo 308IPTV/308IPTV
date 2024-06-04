@@ -179,7 +179,8 @@
 },
 
 
-{ "name": "⚽︎⚽︎🟢อัพเดทกีฬาสด BY IPTV GROUP",
+{ 
+"name": "⚽︎⚽︎🟢อัพเดทกีฬาสด BY IPTV GROUP",
 "image": "https://www.nativewaves.com/wp-content/uploads/elementor/thumbs/shutterstock_1258402216_small-min-e1609344499405-p0mvewg2fr10d3f1u1pj6ow60g2q77w25766t9bgo0.jpg",
 "imageScale": "fitStart",
 "url": "https://pastebin.com/raw/pByqUwRD",
@@ -271,8 +272,8 @@
 
 {
 "name": "มาดู มาฟัง มาพูด กับwiseplay-onlune กันเล่นๆนะจ๊ะ😂😂😂",
-"author": "",
-"image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg"
+"author": "wiseplay-onlune",
+"image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg",
 "url": "https://freenote.biz/raw/ex895gti2k",
 "import": "true"
 },
