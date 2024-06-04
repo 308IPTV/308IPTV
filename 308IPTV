@@ -43,12 +43,7 @@
 "import": true
 }, 
 
-{
-"name": "GROUP กลุ่มปันใจ ปันสุข ",
-"image": "https://uppic.cloud/ib/L4lzHCLVWm.png",
-"url": "https://pastebin.com/raw/74DCsKWX",
-"import": true
-},
+
 
 {
 "name":"POTATO TV UPDATE 070567",
@@ -78,6 +73,14 @@
    "url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
    "image": "https://www.dropbox.com/scl/fi/azukltpjz7g77jz4pp9fs/.png?rlkey=vj44zw1t2tdkixhn9yfots8wd&dl=1",
    "info": "Free IPTV ผู้เฒ่าพเนจร",
+"import": "true"
+},
+
+{
+"name": "มาดู มาฟัง มาพูด กับwiseplay-onlune กันเล่นๆนะจ๊ะ😂😂😂",
+"author": "wiseplay-onlune",
+"image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg",
+"url": "https://freenote.biz/raw/ex895gti2k",
 "import": "true"
 },
 
@@ -270,13 +273,6 @@
 "import": "true"
 },
 
-{
-"name": "มาดู มาฟัง มาพูด กับwiseplay-onlune กันเล่นๆนะจ๊ะ😂😂😂",
-"author": "wiseplay-onlune",
-"image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg",
-"url": "https://freenote.biz/raw/ex895gti2k",
-"import": "true"
-},
 
 {
 "name": " DOCUMENTARY สารคดี ",
