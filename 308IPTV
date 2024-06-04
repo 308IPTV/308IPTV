@@ -45,19 +45,6 @@
 
 
 
-{
-"name":"POTATO TV UPDATE 070567",
-"image":"https://drive.google.com/uc?id=1cUY5tEMbaDyzRu1nT0TMVQNp8ueyiQ7t",
-"url":"https://bit.ly/4bmcfzD",
-"import":"true"
-},
-
-{
-"name": "มันฝรั่งทีวี📭",
-"image": "https://drive.google.com/uc?id=1cUY5tEMbaDyzRu1nT0TMVQNp8ueyiQ7t",
-"url": "https://docs.google.com/uc?export=download&id=1x2_ewZyHWZGd_gYOHjA8x8i-7OBqOpW2",
-"import": false
-},
 
 {
 "name": "🅻🆄🆇🅳🅾 ​🆃🆅 ",
@@ -90,6 +77,20 @@
 "url": "https://pastebin.com/raw/EUvqESDt",
 "import": true
 }, 
+
+{
+"name":"POTATO TV UPDATE 070567",
+"image":"https://drive.google.com/uc?id=1cUY5tEMbaDyzRu1nT0TMVQNp8ueyiQ7t",
+"url":"https://bit.ly/4bmcfzD",
+"import":"true"
+},
+
+{
+"name": "มันฝรั่งทีวี📭",
+"image": "https://drive.google.com/uc?id=1cUY5tEMbaDyzRu1nT0TMVQNp8ueyiQ7t",
+"url": "https://docs.google.com/uc?export=download&id=1x2_ewZyHWZGd_gYOHjA8x8i-7OBqOpW2",
+"import": false
+},
 
 
 {
