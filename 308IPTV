@@ -73,6 +73,15 @@
 },
 
 {
+  "name": "Free IPTV ผู้เฒ่าพเนจร",
+   "author": "ผู้เฒ่าพเนจร",
+   "url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
+   "image": "https://www.dropbox.com/scl/fi/azukltpjz7g77jz4pp9fs/.png?rlkey=vj44zw1t2tdkixhn9yfots8wd&dl=1",
+   "info": "Free IPTV ผู้เฒ่าพเนจร",
+"import": "true"
+},
+
+{
 "name": "TV ALL Collection รวมทุกช่อง ",
 "image": "https://www.48hourslogo.com/48hourslogo_data/2019/08/05/87279_1565008131.jpg",
 "url": "https://pastebin.com/raw/EUvqESDt",
@@ -169,13 +178,6 @@
 "import": true
 },
 
-{
-"name": "⚽︎⚽︎🟨อัพเดทกีฬาสด ดูบอลทุกลีกดัง⚽︎⚽︎",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmMTo3sDsILvyWr4YaTji5-DXc4hxrTaaCLWXbgDFo8L9YcuS5iCctGxiQWNveDbtBig&usqp=CAU",
-"imageScale": "fitStart",
-"url": "https://pastebin.com/raw/D2Fyyrrg",
-"import": true
-},
 
 { "name": "⚽︎⚽︎🟢อัพเดทกีฬาสด BY IPTV GROUP",
 "image": "https://www.nativewaves.com/wp-content/uploads/elementor/thumbs/shutterstock_1258402216_small-min-e1609344499405-p0mvewg2fr10d3f1u1pj6ow60g2q77w25766t9bgo0.jpg",
@@ -250,14 +252,6 @@
 "import": true
 }, 
 
-{
-  "name": "Free IPTV ผู้เฒ่าพเนจร",
-   "author": "ผู้เฒ่าพเนจร",
-   "url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
-   "image": "https://www.dropbox.com/scl/fi/azukltpjz7g77jz4pp9fs/.png?rlkey=vj44zw1t2tdkixhn9yfots8wd&dl=1",
-   "info": "Free IPTV ผู้เฒ่าพเนจร",
-"import": "true"
-},
 
 {
 "name": "Luxdo Streaming TV PL",
