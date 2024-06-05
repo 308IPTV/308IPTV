@@ -1,6 +1,8 @@
 
 #EXTM3U
 
+#EXTINF:-1,tvg-logo="https://www.123-hd.com/wp-content/uploads/2024/06/Under-Paris-2024-%E0%B8%A1%E0%B8%A4%E0%B8%95%E0%B8%A2%E0%B8%B9-%E0%B9%83%E0%B8%95%E0%B9%89%E0%B8%9B%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%AA-300x450.jpg",Under Paris (2024) มฤตยู ใต้ปารีส
+https://main.24playerhd.com/newplaylist/e5fe95e458aebfd1b061e28e/e5fe95e458aebfd1b061e28e.m3u8|Referer=https://www.123-hd.com/
 
 #EXTINF:-1,tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2022/09/In-Our-Prime-2022-%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%97%E0%B8%A2.jpg", IN OUR PRIME (2022)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
