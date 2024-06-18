@@ -227,6 +227,9 @@ http://moo7.myddns.me:8080/memfs/fe891c3f-1e65-4fcb-b526-a2d0e352095b.m3u8
 #EXTINF:-1 tvg-logo="http://iplaytv.familyds.com:8085/logo/xtream_logo/02moo_ent/หนังเอเชีย.png", Moo_ASIAN MOVIES
 http://moo7.myddns.me:8080/memfs/15c6c029-57c1-48dc-b47b-75ef024c6e18.m3u8
 
+#EXTINF:-1 tvg-logo="http://iplaytv.familyds.com:8085/logo/xtream_logo/02moo_ent/ละคร.png" , ละครย้อนหลัง
+http://mooseven.ddns.net:25461/live/xM3s5bGzIBNCHILdGlhUW28VpCVNRgOG/PsD5kWxttueIw248nEzafg2hinc06mFq/31077.m3u8
+
 
 #EXTINF:-1 tvg-chno="17" tvg-id="NK Movies" tvg-name="NK Movies" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/qupnx4wnr06r9oe/22-11-26-23-35-50-003_deco.jpg?dl=1",NK Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
