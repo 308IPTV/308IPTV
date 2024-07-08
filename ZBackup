@@ -23,10 +23,10 @@ author             : "Backups",
 
 {
 "name": "ABCDEFGHIKM",
- author:"ABCDEFGHIKM",
+"author":"ABCDEFGHIKM",
 "image": "",
 "url": "https://github.com/308IPTV/308IPTV/blob/main/ABCDEFGHIKM",
- "import":"false"
+"import": true
 },
 
 {
