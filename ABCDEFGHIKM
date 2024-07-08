@@ -1,0 +1,107 @@
+{
+"name": "ABCDEFGHIKM",
+ author:"ABCDEFGHIKM",
+"image": "",
+"url": "",
+ 
+ 
+
+"groups": [
+ 
+
+{
+"name": " กดก่อน 1 ครั้ง ",
+"image": "https://dl.dropboxusercontent.com/scl/fi/f1eaet55lo0pbxtem4nws/UPDATEASAWINBAR.png?rlkey=4chh7dbx5zn3rulu7cqtm2sul&dl=0",
+"url": "https://dl.dropboxusercontent.com/scl/fi/8qtgehjo7zcw8xf4lr0ar/Main_Luxdo_Siamtv.txt?rlkey=rkthp1cwxjkn686q0gilbcu87&dl=0"
+},
+
+
+
+
+{
+"name"              :     "▶️ Digital TV Thailand",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/tgftuf4tpte3gjktjqbwv/DigitalAsawin.png?rlkey=d44joyo3gj44has31p5mwyjk5&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/y20isxo733nt8pmgdomc0/Main_DigitalTVluxdo_S.txt?rlkey=w7pgr4099oh82atungbf43e10&dl=0",
+"import": false
+}, 
+
+
+
+
+
+{
+"name"              :     "▶️DOCUMENTARY",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/vl7j775m9hewttrjbcc6d/Asawin_Doc.png?rlkey=v50h73kj57zmaapdq0ib7rwal&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/2ueq2v5km72fkear1h7ad/MAIN_DOC_S.txt?rlkey=lal3hjc0jw1ijplqqouon4q5q&dl=0",
+"import": false
+},
+
+
+{
+"name"              :     "🎬 MOVIES",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/hm0ws845d3x1wfajzcppl/TVAsawinMovie.png?rlkey=5l4oczgyyeiihnka3ai1q5398&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/9g98bpo4qv82u2uluy6e3/Main_Movieluxdo_S.txt?rlkey=95s24xwze370zmn96cuhrb1x7&dl=0",
+"import": false
+},
+
+
+{
+"name"              :     "🎬 MOVIES & Series & CATOON",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/bm21zq4qdkpwik1qpxk5u/TVAsawin_Series.png?rlkey=xp1cygp1evt4ui16d3am3js2d&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/zt87h5p1k9mr1z5udpn6z/MainALL_S.txt?rlkey=ewn8741d236rch1ynjezecb6p&dl=0",
+"import": false
+},
+
+
+{
+"name"              :     "▶️ CARTOON ONLINE",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/xlviq579km1zq8tlr5enz/TVAsawin_cartoon.png?rlkey=flgm3meer0z4hfey5fi9b4zk3&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/do5vdtfs8vesw1esvnojr/CARTOON-TV_S.txt?rlkey=wg4qa1xl10m5az5a78kd3cstj&dl=0",
+"import": false
+},
+
+
+{
+"name"              :     "⚽️SPORT ONLINE",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/aiyzcvq4djvfdtd9fyxce/TVAsawin_sport.png?rlkey=2k85lj8qkaw128bijotbrobkx&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/ca65dfp6u4lcivl5m8x1g/MainLuxdoSport_S.txt?rlkey=3t2dy99mr26nadi27843idw6s&dl=0",
+"import": false
+}, 
+
+
+ 
+{
+"name"              :     "▶️Acestream SPORT",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/jep4q382ed1o1hiuj1qf6/TVAsawin_ACE.png?rlkey=sgmrl67klvmem6yh27yqpsfm2&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/gqzmscmlxa0g54lfk2uls/Mainaestream_S.txt?rlkey=iyoxu81wq3hm5lj7mhsleqce1&dl=0",
+"import": false
+},
+
+
+{
+"name"              :     "▶️ ช่อง ต่างประเทศ",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/p3togxstol0jxxqjaipzt/INTER_MAIN.jpg?rlkey=gjibx02vkwm5qcys6ep9ory4h&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/88l10ri5fsu0tr8xdurdf/INTER_ASAWIN.txt?rlkey=8mfit1xopvsedqfcxsii7i3w5&dl=0",
+"import": false
+},
+
+
+
+{
+"name"              :     "▶️ ฟังเพลง",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/4dhv2q0g4pdmtonu48cqn/TVAsawin_music.png?rlkey=vhez3zpa83sq17pg051ddtemk&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/ezchnl9llx0l839c5rnj1/MusicLuxdo.txt?rlkey=s6bwjr6t2gnkeucnijyac42ol&dl=0",
+"import": false
+},
+
+
+{
+"name"              :     "▶️ Livestream YouTube",
+"image"             :     "https://dl.dropboxusercontent.com/scl/fi/uzkz0r76mogdhvwrpr3mp/youtubelivesteamAsawin.png?rlkey=gpkxmpkd2ms80buq8nbvk5y1j&dl=0",
+"url"               :     "https://dl.dropboxusercontent.com/scl/fi/quvbusklzsw5xl9myr8pf/Livestream-Youtube-LUXDO.txt?rlkey=emnmm6ynsla3zag3hvcmgg277&dl=0",
+"import": false
+},
+
+
+]
+}
