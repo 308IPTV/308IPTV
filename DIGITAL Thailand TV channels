@@ -181,15 +181,15 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC12/index.m3u8|Refere
 
 #EXTINF:-1 tvg-chno="17" tvg-id="TRUE MOVIEHIT" tvg-name="TRUE MOVIEHIT" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",TRUE MOVIEHIT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://streaming.livescorethai.net/iptv/sd-moviehits.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://dookeela.live/live-tv/truemoviehits|Referer=https://dookeela.live/live-tv
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Film 1" tvg-name="True Film 1" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/0b7s749ej8jbpny/22-12-14-05-41-17-903_deco.jpg?dl=1",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://livescorethai.net/
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.png",True Film 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://livesod365.com/live/hd-tfilm2/Film%20HD%202/|Referer=https://livesod365.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53 ExoMedia 4.3.0 (43000) / Android 10 / Mi MIX 2S
+https://playerembed-lb.blackboxsys.net/dooball66v2/ajax_player.php?channel=hd-tfilm2&api_key=xjA7kf1WXmzK|Referer=https://livesod365.com/
 
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Thai Film" tvg-name="True Thai Film" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/j92gxflqy1uodt7/22-12-14-05-44-03-451_deco.jpg?dl=1",True Thai Film
