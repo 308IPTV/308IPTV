@@ -88,35 +88,25 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/
 #EXTINF:-1 tvg-chno="32" tvg-id="Thairath TV FHD" tvg-name="Thairath TV FHD" group-title="Digital TV" tvg-logo="https://www.thairath.co.th/static/img/thairathTV/logo.png",Thairath TV FHD 
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 #EXTVLCOPT:http-referrer=
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
-https://freelive2.inwstream.com:1936/freelive-edge/dtv32_thairahttvhd/chunks.m3u8
-https://c0.cdn.vet/live/ch39/i/ch39i.m3u8
-#EXTVLCOPT:http-referrer=https://www.thairath.co.th/
-https://streaming-web.thairath.co.th/hls/playlist_hi.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath/index.m3u8
 
 
 
 #EXTINF:-1 tvg-chno="33" tvg-id="3 HD.th" tvg-name="3 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/868oqvj903c7y0g/3hd.png?dl=0",3 HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
-#EXTVLCOPT:http-referrer=https://ch3plus.com/
-https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1714007702&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=8JJkTnZn9mI-03u7awgHtg
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
+#EXTVLCOPT:http-referrer=
 
 
 
 #EXTINF:-1 tvg-chno="34" tvg-id="AmarinTV HD.th" tvg-name="AmarinTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/01sninbysfdlwwk/amarin.png?dl=0",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-https://p0.cdn.vet/live/ch26/i/ch26i.m3u8?sid=cjeZWYzYWI0YzU4MDlkYzU2YTY4YgMzM0MjdiMTI1NjZjYjBh
-
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin/index.m3u8
 
 #EXTINF:-1 tvg-chno="35" tvg-id="CH7 HD.th" tvg-name="CH7 HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/w5uhtzc3b4tap3v/7hd.png?dl=0",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-#EXTVLCOPT:http-referrer=https://www.ch7.com/
-https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTVLCOPT:http-referrer=
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
-
 
 #EXTINF:-1 tvg-chno="36" tvg-id="PPTV HD.th" tvg-name="PPTV HD" group-title="Digital TV" tvg-logo="https://dl.dropbox.com/s/zafkq553lvt0b0d/pptv.png?dl=0",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
