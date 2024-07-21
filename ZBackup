@@ -38,6 +38,12 @@ author             : "Backups",
 "import": true
 },
 
+{
+"name": "🌎MOVIE Live",
+"image": "https://drive.google.com/uc?id=1hNliBxQb-vVl7rzHnNIoFVO22-dx_ayp",
+"url": "https://docs.google.com/uc?export=download&id=1PFt1Iy4EPI-FW4xyUQgA9Ca21pa0Jyby",
+"import": false
+},
 
 {
 "name": "MOVIE Live POP",
