@@ -177,9 +177,9 @@ https://dookeela.live/live-tv/truemoviehits|Referer=https://dookeela.live/live-t
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
 https://dookeela.live/live-tv/truefilm1|Referer=https://dookeela.live/live-tv
 
-#EXTINF:-1 tvg-chno="17" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1720723122.png",True Film 2
+#EXTINF:-1 tvg-chno="18" tvg-id="True Film 2" tvg-name="True Film 2" group-title="Digital TV" tvg-logo="https://dookeela.live/uploads/1720723122.png",True Film 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; arm_64; Android 9; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 YaBrowser/20.2.1.120.00 Yptp/1.32 Mobile Safari/53
-https://dkl-c33es.cdn.akamaiz.com/dookeela/truefilm2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMi8yMDI0IDY6NTk6NTAgQU0maGFzaF92YWx1ZT1GN2R2dFhkd25WNHVOallUdGxRWGpRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTZlZDU5ZmE4YzZhYzUwOTllYmMyOTNlYTFiNzMxYjkmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE4|Referer=https://dookeela.live/live-tv
+https://dookeela.live/live-tv/truefilm2|Referer=https://dookeela.live/live-tv
 
 
 #EXTINF:-1 tvg-chno="17" tvg-id="True Thai Film" tvg-name="True Thai Film" group-title="Digital TV" tvg-logo="https://www.dropbox.com/s/j92gxflqy1uodt7/22-12-14-05-44-03-451_deco.jpg?dl=1",True Thai Film
