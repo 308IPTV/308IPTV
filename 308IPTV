@@ -102,21 +102,19 @@
 }, 
 
 {
+"name": "🌎MOVIE Live",
+"image": "https://drive.google.com/uc?id=1hNliBxQb-vVl7rzHnNIoFVO22-dx_ayp",
+"url": "https://docs.google.com/uc?export=download&id=1PFt1Iy4EPI-FW4xyUQgA9Ca21pa0Jyby",
+"import": false
+},
+
+
+{
 "name": "BACKUPS(สำรอง)",
 "image": "https://as1.ftcdn.net/v2/jpg/00/57/74/32/1000_F_57743213_WGL3jCvyhuNhCp6taDGvbKKvXfspFr9b.jpg",
 "url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/ZBackup",
 "import": "true"
 },
-
-{
-"name":"GROUP หนัง-ซีรีย์  MOVIES Collection ",
-"author":" เพื่อความบันเทิง ",
-"info": "",   
-"image":"https://www.pngitem.com/pimgs/m/301-3014574_popcorn-cinema-png-download-movie-popcorn-transparent-background.png",
-"url"               :     "https://pastebin.com/raw/Y6F7Pkdx",
-"import": true
-},
-
 
 {
 "name"              :     "ดูเพื่อความบันเทิง BY เจียว เจียว Series จีน เกาหลี ญี่ปุ่น",
@@ -235,12 +233,6 @@
 "import": true
 }, 
 
-{
-"name": "PLAYIDTV UPDATE RED24",
-"image": "https://dl.dropbox.com/scl/fi/49radlpos0jy63mlh5wj7/bat.jpg?rlkey=gunr6uspkfh974165de1m28rm&dl=0",
-"url": "https://dl.dropboxusercontent.com/s/v63aervv93l2cq1/playidtvlink.w3u",
-"import": "true"
-},
 
 {
 "name": "TJC_CH FREE ",
