@@ -63,6 +63,14 @@
 },
 
 {
+"name": 
+"GUFLIX",
+"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+"url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
+"import":"false"
+},
+
+{
 "name": "มาดู มาฟัง มาพูด กับwiseplay-onlune กันเล่นๆนะจ๊ะ😂😂😂",
 "author": "wiseplay-onlune",
 "image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg",
