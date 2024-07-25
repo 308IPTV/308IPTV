@@ -54,70 +54,11 @@
 
 
 {
-  "name": "Free IPTV ผู้เฒ่าพเนจร",
-   "author": "ผู้เฒ่าพเนจร",
-   "url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
-   "image": "https://www.dropbox.com/scl/fi/azukltpjz7g77jz4pp9fs/.png?rlkey=vj44zw1t2tdkixhn9yfots8wd&dl=1",
-   "info": "Free IPTV ผู้เฒ่าพเนจร",
-"import": "true"
-},
-
-{
-"name": 
-"GUFLIX",
+"name": "GUFLIX",
 "image": "http://guflix.streaming-fast.com/logo/guflix.gif",
 "url": "http://guflix.streaming-fast.com/wiseplay/guflix.html",
 "import":"false"
 },
-
-{
-"name": "มาดู มาฟัง มาพูด กับwiseplay-onlune กันเล่นๆนะจ๊ะ😂😂😂",
-"author": "wiseplay-onlune",
-"image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg",
-"url": "https://freenote.biz/raw/p5zgrpnwwt",
-"import": "true"
-},
-
-{
-"name": "มาดู มาฟัง มาพูด กับwiseplay-onlune กันเล่นๆนะจ๊ะ(2)😂😂😂",
-"author": "wiseplay-onlune",
-"image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg",
-"url": "https://freenote.biz/raw/elpbacn7if",
-"import": "true"
-},
- 
-
-{
-"name": "TV ALL Collection รวมทุกช่อง ",
-"image": "https://www.48hourslogo.com/48hourslogo_data/2019/08/05/87279_1565008131.jpg",
-"url": "https://pastebin.com/raw/EUvqESDt",
-"import": true
-}, 
-
-
-{
-"name": "มันฝรั่งทีวี📭",
-"image": "https://drive.google.com/uc?id=1cUY5tEMbaDyzRu1nT0TMVQNp8ueyiQ7t",
-"author": "UPDATE 070567",
-"url": "https://docs.google.com/uc?export=download&id=1x2_ewZyHWZGd_gYOHjA8x8i-7OBqOpW2",
-"import": false
-},
-
-
-{
-"name": "🎬ห้องดูหนังเสียสละ-แบ่งปัน🎬",
-"image": "https://www.dailynews.co.th/wp-content/uploads/2023/07/%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%9B-26-07-66-768x433.jpg",
-"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99%20MOVIE",
-"import": true
-}, 
-
-{
-"name": "🌎MOVIE Live",
-"image": "https://drive.google.com/uc?id=1hNliBxQb-vVl7rzHnNIoFVO22-dx_ayp",
-"url": "https://docs.google.com/uc?export=download&id=1PFt1Iy4EPI-FW4xyUQgA9Ca21pa0Jyby",
-"import": false
-},
-
 
 {
 "name": "BACKUPS(สำรอง)",
@@ -147,6 +88,67 @@
 "url": "https://pastebin.com/raw/60aAW4Jd",
 "import": true
 }, 
+
+{
+"name": "มาดู มาฟัง มาพูด กับwiseplay-onlune กันเล่นๆนะจ๊ะ😂😂😂",
+"author": "wiseplay-onlune",
+"image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg",
+"url": "https://freenote.biz/raw/p5zgrpnwwt",
+"import": "true"
+},
+
+{
+"name": "มาดู มาฟัง มาพูด กับwiseplay-onlune กันเล่นๆนะจ๊ะ(2)😂😂😂",
+"author": "wiseplay-onlune",
+"image":"https://img5.pic.in.th/file/secure-sv1/4458.jpg",
+"url": "https://freenote.biz/raw/elpbacn7if",
+"import": "true"
+},
+ 
+{
+"name": "มันฝรั่งทีวี📭",
+"image": "https://drive.google.com/uc?id=1cUY5tEMbaDyzRu1nT0TMVQNp8ueyiQ7t",
+"author": "UPDATE 070567",
+"url": "https://docs.google.com/uc?export=download&id=1x2_ewZyHWZGd_gYOHjA8x8i-7OBqOpW2",
+"import": false
+},
+
+{
+  "name": "Free IPTV ผู้เฒ่าพเนจร",
+   "author": "ผู้เฒ่าพเนจร",
+   "url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
+   "image": "https://www.dropbox.com/scl/fi/azukltpjz7g77jz4pp9fs/.png?rlkey=vj44zw1t2tdkixhn9yfots8wd&dl=1",
+   "info": "Free IPTV ผู้เฒ่าพเนจร",
+"import": "true"
+},
+
+{
+"name"  : "รวมทีวี กีฬา",
+"author": "",
+"image": "https://play-lh.googleusercontent.com/1XrcuXeM09hAeypviowi06N0KHBCOpUUM-fKsRfSY-AQAaVmo0XaNhau3I1oPQhCimw",
+"url"  : "https://drzl.short.gy/ReZ46l",
+"import": "false"},
+
+{
+"name": "TV ALL Collection รวมทุกช่อง ",
+"image": "https://www.48hourslogo.com/48hourslogo_data/2019/08/05/87279_1565008131.jpg",
+"url": "https://pastebin.com/raw/EUvqESDt",
+"import": true
+}, 
+
+{
+"name": "🎬ห้องดูหนังเสียสละ-แบ่งปัน🎬",
+"image": "https://www.dailynews.co.th/wp-content/uploads/2023/07/%E0%B8%AA%E0%B8%81%E0%B8%B9%E0%B9%8A%E0%B8%9B-26-07-66-768x433.jpg",
+"url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%B1%E0%B8%99%20MOVIE",
+"import": true
+}, 
+
+{
+"name": "🌎MOVIE Live",
+"image": "https://drive.google.com/uc?id=1hNliBxQb-vVl7rzHnNIoFVO22-dx_ayp",
+"url": "https://docs.google.com/uc?export=download&id=1PFt1Iy4EPI-FW4xyUQgA9Ca21pa0Jyby",
+"import": false
+},
 
 {
 "name": "🍿ON WEB MOVIE หนังใหม่ใส่เอง🍿 ",
@@ -190,7 +192,6 @@
 "info":"xxxxxxxxxxxx",
 "import": true
 },
-
 
 { 
 "name": "⚽︎⚽︎🟢อัพเดทกีฬาสด BY IPTV GROUP",
