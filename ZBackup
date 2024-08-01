@@ -63,6 +63,14 @@ author             : "Backups",
 }, 
 
 {
+"name": "GUFLIX",
+"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+"url": "http://bit.ly/3y5AcN7",
+"import":"false"
+},
+
+
+{
 "name"  : "รวมทีวี กีฬา",
 "author": "",
 "image": "https://play-lh.googleusercontent.com/1XrcuXeM09hAeypviowi06N0KHBCOpUUM-fKsRfSY-AQAaVmo0XaNhau3I1oPQhCimw",
