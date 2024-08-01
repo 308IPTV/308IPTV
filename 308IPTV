@@ -47,7 +47,7 @@
 {
 "name": "ABCDEFGHIKM",
 "author":"ABCDEFGHIKM",
-"image": "",
+"image": "https://as1.ftcdn.net/v2/jpg/01/51/03/86/1000_F_151038697_puMYumdwxThgZqDwM0qb1hMt2jRKzgof.jpg",
 "url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/ABCDEFGHIKM",
 "import": true
 },
@@ -61,17 +61,27 @@
 "import": true
 },
 
-{
-"name": "GUFLIX",
-"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
-"url": "http://bit.ly/3y5AcN7",
-"import":"false"
-},
 
 {
 "name": "BACKUPS(สำรอง)",
 "image": "https://as1.ftcdn.net/v2/jpg/00/57/74/32/1000_F_57743213_WGL3jCvyhuNhCp6taDGvbKKvXfspFr9b.jpg",
 "url": "https://raw.githubusercontent.com/308IPTV/308IPTV/main/ZBackup",
+"import": "true"
+},
+
+{
+"name": "DOO DEE DEE",
+"author": "DOO DEE DEE",
+"image": "https://yt3.googleusercontent.com/ytc/APkrFKbEBceYGfLa4-3vs7FkSZX11AGoWJqAcqQcZ10N=s900-c-k-c0x00ffffff-no-rj",
+"url": "https://pastebin.com/raw/M9gvV2Ta",
+"import": "true"
+},
+
+{
+"name": "DOO DEE",
+"author": "ใช้เฉพาะกลุ่ม PLAYID เท่านั้น",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUHi7Fw9RjsjzGz-tRIBKhFIENLvmUa-aAA&s",
+"url": "https://pastebin.com/raw/aa1V1hMp",
 "import": "true"
 },
 
