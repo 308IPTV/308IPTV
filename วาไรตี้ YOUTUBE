@@ -307,24 +307,49 @@
   
 
 { 
-"name": "TVB หนังดราม่า | สงครามเกมธุรกิจ [พากย์ไทย] EP.1-2 |หลี่ซือฉี | TVB Thailand | HD", 
+"name": "TVB หนังดราม่า | สงครามเกมธุรกิจ [พากย์ไทย]|หลี่ซือฉี | TVB Thailand | HD", 
 "image": "https://i.ytimg.com/vi/_0bg47MtMFM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBEqr2bv6kDk0DZuSa_RMiVeZcKZg",
-"url": " https://www.youtube.com/embed/_0bg47MtMFM?si=0dfgi1Rq0hLRgrt9", "embed": "true", 
+"url": " https://www.youtube.com/embed/videoseries?si=lHBmIDxLPKKL69PF&amp;list=PLkcywTrP0B0mLB2jypGtrNOAffZdIM-Vy", "embed": "true", 
 "referer": "https://www.youtube.com/"
 },
 
 { 
-"name": "TVB หนังดราม่า | เพื่อนรักเพื่อนแค้น [พากย์ไทย] EP.1-2 | หลี่ หมิง | TVB Thailand | HD", 
+"name": "TVB หนังดราม่า | เพื่อนรักเพื่อนแค้น [พากย์ไทย] | หลี่ หมิง | TVB Thailand | HD", 
 "image": "https://i.ytimg.com/vi/x8fSif3qzc8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCaQ22exKEBN_62HFdgDfpW_-uXzw",
-"url": " https://www.youtube.com/embed/vN1ngcpoYiM?si=S6YtXqO8EDSkkePh", "embed": "true", 
+"url": "https://www.youtube.com/embed/videoseries?si=JWEU8dMEKhSdJ2T9&amp;list=PLkcywTrP0B0lWFDym05JG2y1pRvv2PEmj", "embed": "true", 
 "referer": "https://www.youtube.com/"
 },
 
 { 
-"name": "เปาบุ้นจิ้น2019 (JUSTICE BAO THE FIRST YEAR) [พากย์ไทย] ดูหนังมาราธอน | EP.1-4 | TVB Thailand", 
-"image": "https://i.ytimg.com/vi/YT1160L_M1I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoA4ffYqJJQcADN0VHFWqD8Z9agA",
+"name": "ท้าผีกัดข้ามศตวรรษ ภาค2 ( VAMPIRE EXPERT II ) [ พากย์ไทย ] | EP.1 | TVB Thailand", 
+"image": "https://i.ytimg.com/vi/NZ0DPUEp_fw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAmLjdGwvtK1ynJONsywT3pkIOajQ",
 "url": "https://www.youtube.com/embed/YT1160L_M1I?si=86vLalWu9ERJ3OKk", "embed": "true", 
 "referer": "https://www.youtube.com/"
+},
+
+{ 
+"name": "TVB หนังวงการแพทย์ | ทีมแพทย์หัวใจแกร่ง ภาค 2 [พากย์ไทย] | TVBหนังใหม่", 
+"image": "https://i.ytimg.com/vi/9LlTaS2smrI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDnubYCYBF7vCc4_agMBeL1GwFYQg",
+"url": "https://www.youtube.com/embed/videoseries?si=r7t28UFh7jNH37M0&amp;list=PLkcywTrP0B0nq4ZkWzOIr8-FgRapIepYx", "embed": "true", 
+"referer": "https://www.youtube.com/"
+},
+
+{ 
+"name": "ซีรีส์แนะนำ | ทีมหมอเด็กกู้วิกฤต (KIDS' LIVES MATTER) | TVBหนังใหม่", 
+"image": "https://i.ytimg.com/vi/BPbVb_C19qE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCS3fxI9-2ycJVDB7repFSY_CkPdw",
+"url": "https://www.youtube.com/embed/videoseries?si=zJ3PGcYOLF7C5uWP&amp;list=PL2UIY-PQFdOZOE_ZTISic47FTi8UKZZnW", "embed": "true", 
+"referer": "https://www.youtube.com/"
+},
+
+{ 
+"name": "ซีรีส์แนะนำ |กู้ชีพฝ่าวิกฤต1-20จบ ", 
+"image": "https://i.ytimg.com/vi/RTO5PICgGzA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnrDzo3y9avzEEI67vHS86HCC99A",
+"url": "https://www.youtube.com/embed/videoseries?si=UN8lO6MoMzHyVS8g&amp;list=PLmgov9OZ4NxxL-DbGGNJEMCZfPDgxQodL", "embed": "true", 
+"referer": "https://www.youtube.com/"
+},
+
+
+
 }
     ]
 }
